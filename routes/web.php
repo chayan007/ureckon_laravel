@@ -26,5 +26,6 @@ Route::view('/talks', 'views.talks');
 Route::view('/web', 'views.web');
 Route::view('/teams', 'views.teams');
 Route::view('/events', 'views.events');
-Route::view('/about', 'views.about');
+Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
+Route::post('/registerEvent', 'RegisterController@register');
