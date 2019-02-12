@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9990f4-3fb2-489c-b101-693ffd7c7c0f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/fonts/testing.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/images/photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/testing.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Asset 12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Asset 14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Asset 68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/IEM-100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/IEM-oval_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/IEM-trans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/IEM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/IEM_logo_withoutBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/UEM-100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/UEM-oval_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/UEM-trans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/UEM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/UEM-IEM/UEM_Logo_withoutBG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/Logo__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-c__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-e__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-foot__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-head__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-k__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-n__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-o__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-r__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/black/logo-u__black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/UIC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/ad_making.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/arduino.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/arduino.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/biotex.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/bridge-o-nics.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/code_golf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/code_golf1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/code_ranch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/counter_strike.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/debugger.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/debugging.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/drone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/fifa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/get_set_sell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/hackathon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/line_follower_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/nfs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/pubg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/rc_plane.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/roboleague.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/roborace.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/roborumble.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/robotic_arm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/robowar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/salad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/thinkq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/events/web_designing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/line-follower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/event_partners/devc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/event_partners/gdg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/event_partners/wtm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/isro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/media_partners/KSLogo_Transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/media_partners/LOGO.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/media_partners/Logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/media_partners/ekaUreckonlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/media_partners/quadcober-partnershiplogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/partners/workshop_partners/skubotics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/robo-league.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/robo-race.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/robo-war.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/talks.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Ashish/FB_IMG_1539242170334.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Debarghya Mukherjee/20181204141035_IMG_2228-01.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Gourav Chakraborty/GOURAV CHAKRABORTY.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Jayita Chatterjee/14086400_945776305550347_8278456692226547574_o__01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Pooja Surana/IMG_20190129_001118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Souradeep ganguli.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Core Team/Subhadeep Kundu/FB_IMG_1548432227253.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Abarna Chatterjee BT2/SquareFit_20181230_14070297.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Abhishek Madhu (CodeGolf)/IMG_20181231_101323563-01.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Anurag Singh Robo Dangal/Anurag Singh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Arpan Chatterjee - CSE3D ( UIC)/PicsArt_01-29-10.23.08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Bhaskarjyaa Chatterjee (Think Tech)/IMG-20170825-WA0037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Deboleena Das/IMG-20190125-WA0013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Hrihtik Naha Urek-A-Thon/Hrithik Naha.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Koyel Dey CSE3E-16(Ad making)/IMG-20180122-WA0004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Pushpak Chakraborty 4B/FB_IMG_1548428589168.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Rajdeep Karmakar/RajdeepKarmakar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Rohit Chakraborty/IMG_20190126_150520.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Ronit Ray CSE4A-19/Ronit Ray.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Rudrangshu Dutta CSE3E-78(Ad making)/IMG-20190125-WA0020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Saamir Robo Dangal/Saamir.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Sabyasachi Ganguly - CSE 2B - Think Tech and Urecquiz/9190237.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Sambit Chakraborty CE3-3/DSC_0017.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Saptarshi De CSE4A-02/Saptarshi De.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Sattwik Das CSE 2D  get set sell/IMG-20190125-WA0015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Shalini Guha CSE4A-03/PicsArt_07-24-04.46.06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Shivangam Mookherjee, ECE ( Robo Rumble)/DSC_0231.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Shovan Polley,,,CE4-14/IMG-20180728-WA0015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Soumyadeep Saha (PUBG)/me.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Sourav Nandy/sourav_nandy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Subhadeep Kundu (Robo-League)/FB_IMG_1548432227253.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Event Coordinator/Swapnendu Amboli/FB_IMG_1503858400502.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Faculty/Avijit Bose.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Faculty/Bipasha Mukhopadhyay.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Faculty/Prabir Kumar Das.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/teams/Faculty/Susmita Mukherjee.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/Logo__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-c__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-e__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-foot__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-head__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-k__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-n__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-o__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-r__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/white/logo-u__white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/workshops.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/Ureckon-19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ureckon.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/hashing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/logging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/main.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Modules/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Modules/particle.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Modules/particles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/Modules/smooth-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/aboutus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/anime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/partners.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/signup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/talks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/teams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/workshops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/1-tools/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/1-tools/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/1-tools/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/1-tools/_normalize.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/1-tools/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/2-basics/_buttons.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/2-basics/_font.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/2-basics/_links.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/2-basics/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/_home2.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/hover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/3-Modules/register.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_aboutus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_events.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_partners.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_profile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_signup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_talks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_teams.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_web.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/4-pages/_workshop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scss/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/svg/403.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/svg/404.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/svg/500.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/svg/503.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/animate/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/animsition/css/animsition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/animsition/css/animsition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/animsition/js/animsition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/animsition/js/animsition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/popper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/countdowntime/countdowntime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/css-hamburgers/hamburgers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/css-hamburgers/hamburgers.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/perfect-scrollbar/perfect-scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/perfect-scrollbar/perfect-scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/select2/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/typeahead/typeahead.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/channels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/console.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.mix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;input</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/views/signup.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_02_11_141855_create_events_table.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="4" />
+    <option name="width" value="1936" />
+    <option name="height" value="1034" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9990f4-3fb2-489c-b101-693ffd7c7c0f" name="Default" comment="" />
+      <created>1549724984350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549724984350</updated>
+      <workItem from="1549724993115" duration="2586000" />
+      <workItem from="1549784397113" duration="660000" />
+      <workItem from="1549980639188" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="4" width="1936" height="1034" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25698924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32470587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/views/signup.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_11_141855_create_events_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="76" column="40" lean-forward="false" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
