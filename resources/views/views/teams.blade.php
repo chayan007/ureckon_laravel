@@ -69,7 +69,7 @@
                         </div>
                     </div>
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__head-teacher-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Faculty/Sohini Mukherjee.jpeg')}}" class="rounded__images card-img-top teams-page__head-teacher-cards-image" alt="teams pictures">
                         <div class="teams-page__head-teacher-cards-body">
                             <h4 class="card-title teams-page__head-teacher-cards-body-name">Prof. Sohini Mukherjee</h4>
                             <p class="card-text lead teams-page__head-teacher-cards-body-title">Faculty Co-ordinator</p>
@@ -104,11 +104,11 @@
 
             <section id="teams-page__core-member" class="teams-page__core-member">
                 <h3 class="teams-page__core-member-title display-4">
-			<center>Event Core-Members</center>
+			<center>Core-Members</center>
                 </h3>
                 <div class="teams-page__core-member-cards">
                     <div class="card card__teams">
-                            <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                            <img src="{{ asset('images/teams/Core Team/Sayak/DSC_8730.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                             <div class="teams-page__core-member-cards-body">
                                 <h4 class="card-title teams-page__core-member-cards-body-name">Sayak Dhar</h4>
                                 <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -121,7 +121,7 @@
                             </div>
                     </div>
 		             <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/Gourav Chakraborty/Gourav Chakraborty.jpeg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Gourav Chakraborty</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -164,7 +164,7 @@
 		<div class="card card__teams">
                         <img src="{{ asset('images/teams/Core Team/Pooja Surana/IMG_20190129_001118.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
-                            <h4 class="card-title teams-page__core-member-cards-body-name">Pooja Suruna</h4>
+                            <h4 class="card-title teams-page__core-member-cards-body-name">Pooja Surana</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
                         </div>
                         <div class="teams-page__core-member-cards-social">
@@ -206,7 +206,7 @@
 
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/Souvik nandi/DSC_0186.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Souvik Nandi</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -221,7 +221,7 @@
 
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/Rajarshi Saha/IMG_20190210_090540.jpg')}}'" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Rajarshi Saha</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -233,9 +233,21 @@
 				    <a href="https://www.facebook.com/rajarshi.saha.50"><i class="fab fa-facebook-f"></i></a>
                         </div>
                     </div>
-
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Core Team/Jayita Chatterjee/14086400_945776305550347_8278456692226547574_o__01.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <div class="teams-page__core-member-cards-body">
+                            <h4 class="card-title teams-page__core-member-cards-body-name">Jayita Chatterjee</h4>
+                            <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
+                        </div>
+                        <div class="teams-page__core-member-cards-social">
+                            <a href="#">jayita@ureckon.org</a>
+				<a href="#"><i class="fa fa-phone">+91 9748173762</i></a>
+				<br><a href="https://www.linkedin.com/in/jayita-chatterjee-221606140/"><i class="fab fa-linkedin-in"></i></a>
+				<a href="https://www.facebook.com/jayita.chatterjee1?ref=br_rs"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>	
 		<div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/Suruchi Jha/PicsArt_10-14-10.32.06.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Suruchi Jha</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -249,7 +261,7 @@
                     </div>
 
 		<div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/srij.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Srijani Chatterjee</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -263,7 +275,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/kain.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Kainat Anjum</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -287,7 +299,7 @@
 
             <section id="teams-page__coordinator" class="teams-page__coordinator">
                 <h3 class="teams-page__coordinator-title display-4">
-                    Event Co-Ordinators
+                    <center>Event Co-Ordinators</center>
                 </h3>
                 <div class="teams-page__coordinator-cards">
 
@@ -298,7 +310,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Ureck-A-Thon</a>
+                            <a href="/events">Ureck-A-Thon</a>
                         </div>
                     </div>
 
@@ -309,73 +321,73 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Ureck-A-Thon</a>
+                            <a href="/events">Ureck-A-Thon</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Arpan Chatterjee - CSE3D ( UIC)/PicsArt_01-29-10.23.08.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arpan Chatterjee</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">Ureckon Innovation Challenge- UIC</a>
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Pritam Dutta (UIC _ URECKA)/DSC_0766-01.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Pritam Dutta</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Ureckon Innovation Challenge- UIC</a>
+                            <a href="/events">Ureckon Innovation Challenge- UIC</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Gourav Chakraborty</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo League</a>
-                        </div>
-                    </div>
-
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Jiten Sinha(Direccion)/FB_IMG_1549699872686.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Jiten Sinha</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Dirrecion</a>
+                            <a href="/events">Dirrecion</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Adarsh Kumar Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Dirrecion</a>
+                            <a href="/events">Dirrecion</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Tathagata Banerjee(Line Follower)/IMG_20190209_123258_629.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Tathagata Bannerjee</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Tathagata Banerjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Dirrecion</a>
+                            <a href="/events">Dirrecion</a>
                         </div>
                     </div>
-
+                    
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Debarup Sadhukhan (Robo-Race - NFT)/DebarupS.JPG')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Debarup Sadhukan</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Need For Torque-NFT</a>
+                            <a href="/events">Need For Torque-NFT</a>
                         </div>
                     </div>
 
@@ -386,7 +398,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Need For Torque-NFT</a>
+                            <a href="/events">Need For Torque-NFT</a>
                         </div>
                     </div>
 
@@ -397,40 +409,30 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo Dangal</a>
+                            <a href="/events">Robo Dangal</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Anurag Singh Robo Dangal/Anurag Singh.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Anurag Singh Robo Dangal/Anurag Singh.jpg'0}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Anurag Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo Dangal</a>
+                            <a href="/events">Robo Dangal</a>
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Souradeep Ganguli</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo Dangal</a>
-                        </div>
-                    </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Pritaam Dutta(robo rumble)-cse3b/FB_IMG_1549769644791.jpg')}}'" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Pritam Dutta</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Pritaam Dutta</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo Rumble</a>
+                            <a href="/events">Robo Rumble</a>
                         </div>
                     </div>
 
@@ -441,62 +443,62 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Robo Rumble</a>
+                            <a href="/events">Robo Rumble</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Bipasha Roy (Arm of Hercules)/received_1830917473787033.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Bipasha Roy</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Arm Of Hercules</a>
+                            <a href="/events">Arm Of Hercules</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Somipom Monday (arm of Hercules)/PSX_20190120_172456.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Somipon Mondal</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Somipom Mondal</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Arm Of Hercules</a>
+                            <a href="/events">Arm Of Hercules</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Riddhiman Mukhopadhyay (AEROSTROM)/Riddhiman Mukhopadhyay.(AEROSTROM).jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Riddhiman</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Riddhiman Mukherjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">AeroStorm</a>
+                            <a href="/events">AeroStorm</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Anushree Roy (AEROSTORM) CSE3G/IMG-20181015-WA0096.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Anushree Roy</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">AeroStorm</a>
+                            <a href="/events">AeroStorm</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Shovan Polley,,,CE4-14/IMG-20180728-WA0015.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sovan Polley</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Shovan Polley</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Bridge-O-Nics</a>
+                            <a href="/events">Bridge-O-Nics</a>
                         </div>
                     </div>
 
@@ -518,7 +520,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Get Set Sell</a>
+                            <a href="/events">Get Set Sell</a>
                         </div>
                     </div>
 
@@ -529,20 +531,10 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Get Set Sell</a>
+                            <a href="/events">Get Set Sell</a>
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Saptarshi De CSE4A-02/Saptarshi De.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Saptarshi De</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Spyder</a>
-                        </div>
-                    </div>
 
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Shalini Guha CSE4A-03/PicsArt_07-24-04.46.06.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
@@ -551,55 +543,78 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Spyder</a>
+                            <a href="/events">Spyder</a>
 
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Rajdeep Karmakar/RajdeepKarmakar.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Rajdeep Karmakar</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">Code Golf</a>
+                            
+                        </div>
+                    </div>
+			
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Abhishek Madhu (CodeGolf)/IMG_20181231_101323563-01.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Abhisek Madhu</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="./events.html">Code Golf</a>
+                            
+                        </div>
+                    </div>
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Shobhan Das ( Code Ranch)/IMG_20180110_102055_607.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Shobhan Das</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Code Ranch</a>
-
+                            <a href="/events">Code Ranch</a>
+                            
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Sagnik Sengupta (Code Ranch)/IMG_20180925_103545_643.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Sagnik Sengupta</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Code Ranch</a>
-
+                            <a href="/events">Code Ranch</a>
+                            
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Sagnik Bhattacharya(event coordinator, Debugger/DSC_0642-01.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Sagnik Bhattacharya</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Debugger</a>
+                            <a href="/events">Debugger</a>                            
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Pratik Goel ( Coordinator, Debugger )/IMG_20181029_151535_690.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Pratik Goel</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
                             <a href="./events.html">Debugger</a>
-
+                            
                         </div>
                     </div>
 
@@ -610,7 +625,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Counter Strike: GO / 1.6</a>
+                            <a href="./events.html">Counter Strike</a>
                         </div>
                     </div>
 
@@ -621,13 +636,13 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Counter Strike: GO / 1.6</a>
+                            <a href="./events.html">Counter Strike</a>
 
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Rounak Adhikary PUBG CSE 4A-44/IMG-20190209-WA0035.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Rounak Adhikary</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -639,7 +654,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Abhinaba Bannerjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -657,11 +672,35 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">PUBG</a>
+                            <a href="/events">PUBG</a>
 
                         </div>
                     </div>
 
+                    <div class="card card__teams">
+                        <img src="../images/teams/Event Coordinator/Soham Halder/IMG_20170515_155328_078.jpg" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Soham Halder</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="./events.html">Counter Strike: GO / 1.6</a>
+                            
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="../images/teams/Event Coordinator/Radhika Mirani CSE 4A-43/FB_IMG_15497303792303496.jpg" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Radhika Mirani</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="./events.html">PUBG</a>
+                            
+                        </div>
+                    </div>
+			
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Core Team/Debarghya Mukherjee/20181204141035_IMG_2228-01.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
@@ -680,7 +719,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">NFS: Most Wanted</a>
+                            <a href="/events">NFS: Most Wanted</a>
 
                         </div>
                     </div>
@@ -692,22 +731,20 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">FIFA 11 /19</a>
+                            <a href="/events">FIFA</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="../images/teams/Event Coordinator/Arnab " class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Aditya Dalmia</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">FIFA 11 /19</a>
-
+                            <a href="#">FIFA</i></a>
                         </div>
                     </div>
-
                     <div class="card card__teams">
                         <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
@@ -728,17 +765,6 @@
                         <div class="teams-page__coordinator-cards-social">
                             <a href="./events.html">VR EXHIBITION</a>
 
-                        </div>
-                    </div>
-
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Swapnendu Amboli/FB_IMG_1503858400502.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Swapnendu Amboli</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#"><i class="fas fa-location-arrow"></i></a>
                         </div>
                     </div>
 
@@ -766,60 +792,17 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Sabyasachi Ganguly - CSE 2B - Think Tech and Urecquiz/9190237.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sabyasachi Ganguly</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#">UreckQuiz</a>
-                        </div>
-                    </div>
-
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Bhaskarjyaa Chatterjee (Think Tech)/IMG-20170825-WA0037.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Bhaskarjyaa Chatterjee</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#">UreckQuiz</a>
-
-                        </div>
-                    </div>
-
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arijit Jalui</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#"><i class="fas fa-location-arrow"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="card card__teams">
                         <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Tridip Halder</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Solvero</a>
+                            <a href="./events.html">Ard U Know?</a>
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Pathikrit Sarkar</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#"></a>
-                        </div>
-                    </div>
+
 
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Abarna Chatterjee BT2/SquareFit_20181230_14070297.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
@@ -828,7 +811,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">BioteXpression</a>
+                            <a href="/events">BioteXpression / Healthy Bites</a>
                         </div>
                     </div>
 
@@ -855,67 +838,107 @@
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                   <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Bhaskarjyaa Chatterjee (Think Tech)/IMG-20170825-WA0037.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sanjana Sinha</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Bhaskarjyaa Chatterjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="#">REGISTRATION DESK</a>
+                            <a href="#">Think Tech</a>
+                            
                         </div>
                     </div>
-
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+			
+		
+		            <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Sabyasachi Ganguly - CSE 2B - Think Tech and Urecquiz/9190237.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Atreyee Chakraborty</h4>
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sabyasachi Ganguly</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="#">REGISTRATION DESK</a>
-
+                            <a href="#">ThinkTech</a>
                         </div>
-                    </div>
+                    </div> 
 
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Avik Roy</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#">REGISTRATION DESK</a>
+    
 
-                        </div>
-                    </div>
+                </div>
+                <hr class="line-break">
+            </section>
 
-                    <div class="card card__teams">
-                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#"><i class="fas fa-location-arrow"></i></a>
-                        </div>
-                    </div>
-
+            	<section id="teams-page__coordinator" class="teams-page__coordinator">
+                <h3 class="teams-page__coordinator-title display-4">
+			<center>Promotion Team</center>
+                </h3>
+                <div class="teams-page__coordinator-cards">
+                    
                     <div class="card card__teams">
                         <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Kankana Majumder</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="#">REGISTRATION DESK</a>
-
+                    </div>
+			
+		<div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Akash Mukherjee</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+			
+		<div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Ankita Hazra</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+		<div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Aniket Sarkar</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                     </div>
 
-                </div>
-                <hr class="line-break">
-            </section>
+                    <div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sayan Bose</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Avinandan Mukherjee</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Rishit Chakraborty</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="https://source.unsplash.com/random" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Supratim Mukherjee</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                    </div>
+
+
+        </div>
         </div>
     </div>
 
@@ -925,7 +948,7 @@
                 <div class="footer__aboutus-links">
                         <div>
                           <h6 >
-                            <a href="/about">About us</a>
+                            <a href="/about">About</a>
                           </h6>
                         </div>
                         <div >
@@ -935,7 +958,7 @@
                         </div>
                         <div >
                           <h6 >
-                            <a href="/team">Team</a>
+                            <a href="./teams">Team</a>
                           </h6>
                         </div>
                         <div >
@@ -952,44 +975,39 @@
           <hr class="footer__teams-line">
           <div>
           <div class="footer__teams-text">
-              <p style="line-height: 1.7rem">URECKON is the technical fest of UEM, Kolkata.</p>
+              <p style="line-height: 1.7rem">Ureckon-The Annual TechnoManagement Festival of University of Engineering & Management, Kolkata.</p>
             </div>
           </div>
             <div >
               <div class="footer__teams-socials">
                 <!-- Facebook -->
-                <a href="#" class="fb-ic">
+                <a href="https://facebook.com/ureckon.uemk" class="fb-ic">
                   <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
                 </a>
                 <!-- Twitter -->
-                <a href="#" class="tw-ic">
+                <a href="https://twitter.com/Ureckon_Uemk" class="tw-ic">
                   <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
                 </a>
-                <!-- Google +-->
-                <a href="#" class="gplus-ic">
-                  <i class="fab fa-google-plus-g fa-lg white-text mr-4"> </i>
-                </a>
                 <!--Linkedin -->
-                <a href="#" class="li-ic">
+                <a href="https://linkedin.com/company/ureckon" class="li-ic">
                   <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
                 </a>
                 <!--Instagram-->
-                <a href="#" class="ins-ic">
+                <a href="https://instagram.com/ureckon.uemk" class="ins-ic">
                   <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
                 </a>
-                <!--Pinterest-->
-                <a href="#" class="pin-ic">
-                  <i class="fab fa-pinterest fa-lg white-text"> </i>
-                </a>
+                <!--Youtube-->
+                <a href="https://youtube.com/c/UreckonUEMKolkata" class="you-ic">
+                    <i class="fab fa-youtube fa-lg white-text"> </i>
+                  </a>
               </div>
             </div>
            </div>
         </div>
         <div class="footer__teams-copyright">© 2019 Copyright:
-          <a href="https://mdbootstrap.com/education/bootstrap/">Ureckon.org</a>
+          <a href="https://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
-
 
 
 
