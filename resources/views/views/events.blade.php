@@ -711,7 +711,7 @@
                 </div>
                 <div >
                   <h6 >
-                    <a href="/teams">Team</a>
+                    <a href="/team">Team</a>
                   </h6>
                 </div>
                 <div >
