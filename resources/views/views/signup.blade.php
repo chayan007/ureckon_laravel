@@ -130,7 +130,7 @@
                 </span>
                 <button>
                 <span class="next-button repeat-password">
-                    <i class="fa fa-paper-plane"></i>
+                    <button type="submit"><i class="fa fa-paper-plane"></i></button>
                 </span>
                 </button>
             </div>
