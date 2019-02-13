@@ -582,7 +582,7 @@
                             <p class="card-text lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus nesciunt ullam asperiores delectus quisquam officia.</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Abarna Chatterjee <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
-                                <br>Sudipto Dash <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                            <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="biotex">
@@ -591,14 +591,13 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img src="{{ asset('images/events/salad.png')}}" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/healthy.jpg')}}" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">Healthy Bites<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
-                            <p class="card-text lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi natus enim nisi perferendis, possimus ab.</p>
-                            <h5 class="mt-3">Event Co-ordinators</h5>
+                            <p class="card-text lead"></h5>
                             <p>Abarna Chatterjee <a href="tel:9051184627"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
-                                <br>Deboleena Das <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
+                            <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="healthybites">
