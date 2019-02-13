@@ -31,7 +31,7 @@
         </nav>
 
         <div class="back"></div>
-        <form action="/register" method="post" enctype="multipart/form-data">
+        <form action="/user/register" method="post" enctype="multipart/form-data">
             @csrf
             <div class="form-group">
                 <label for="">Name</label>
