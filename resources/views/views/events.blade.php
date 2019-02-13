@@ -496,7 +496,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Rudrangshu Dutta <a href="tel:8240238298"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240238298</a>
                                 <br>Koyel Dey <a href="tel:8777252629"><i class="fa fa-phone" aria-hidden="true"></i> +91 8777252629</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1u3WWX-6cLF3R_stiPvKJD5cyl_ycr0yi" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__business-button" id="admaking">
                                     Register
