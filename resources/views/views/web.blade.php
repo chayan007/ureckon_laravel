@@ -76,7 +76,7 @@
                 <figure class="effect-apollo">
                     <img src="{{ asset('images/teams/Core Team/Sayak/DSC_8730.jpg')}}" alt="img22" />
                     <figcaption>
-                        <h2>Sayak <span>Das</span></h2>
+                        <h2>Sayak <span>Dhar</span></h2>
                         <p>Team Lead</p>
                         <a href="https://linkedin.com/in/sayakdhar">View more</a>
                     </figcaption>
