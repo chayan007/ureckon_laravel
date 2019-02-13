@@ -47,27 +47,27 @@
             </div>
             <div class="form-group">
                 <label for="">Password</label>
-                <input type="text" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
+                <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Password Again</label>
-                <input type="text" class="form-control" name="password_confirmation" id="" aria-describedby="helpId" placeholder="">
+                <input type="password" class="form-control" name="password_confirmation" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Phone</label>
-                <input type="text" class="form-control" name="" id="phone" aria-describedby="helpId" placeholder="">
+                <input type="text" class="form-control" name="phone" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Institute</label>
-                <input type="text" class="form-control" name="" id="institute" aria-describedby="helpId" placeholder="">
+                <input type="text" class="form-control" name="institute" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Year</label>
-                <input type="text" class="form-control" name="" id="year" aria-describedby="helpId" placeholder="">
+                <input type="text" class="form-control" name="year" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Course</label>
-                <input type="text" class="form-control" name="" id="course" aria-describedby="helpId" placeholder="">
+                <input type="text" class="form-control" name="course" id="" aria-describedby="helpId" placeholder="">
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
