@@ -31,118 +31,45 @@
         </nav>
 
         <div class="back"></div>
-<div class="registration-form">
-    <header>
-        <h1>Sign Up</h1>
-        <p>Fill in all informations</p>
-    </header>
-    <form action='/register' method='POST' enctype="multipart/form-data">
-        @csrf
-        <div class="input-section name-section">
-            <input class="name" type="text" placeholder="ENTER YOUR USERNAME HERE" name="name" autocomplete="off" />
-            <div class="animated-button">
-                <span class="icon-paper-plane">
-                    <i class="fa fa-envelope-o"></i>
-                </span>
-                <span class="next-button name">
-                    <i class="fa fa-arrow-up"></i>
-                </span>
+        <form action="/register" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="">Name</label>
+                <input type="text" class="form-control" name="name" id="" aria-describedby="helpId" placeholder="">
             </div>
-        </div>
-
-        <div class="input-section institute-section folded">
-                <input class="institute" type="text" placeholder="ENTER YOUR INSTITUTE HERE" name="institute" autocomplete="off" />
-                <div class="animated-button">
-                    <span class="icon-paper-plane">
-                        <i class="fa fa-envelope-o"></i>
-                    </span>
-                    <span class="next-button institute">
-                        <i class="fa fa-arrow-up"></i>
-                    </span>
-                </div>
-        </div>
-
-        <div class="input-section course-section folded">
-                <input class="course" type="text" placeholder="ENTER YOUR COURSE HERE" name="course" autocomplete="off" />
-                <div class="animated-button">
-                    <span class="icon-paper-plane">
-                        <i class="fa fa-envelope-o"></i>
-                    </span>
-                    <span class="next-button course">
-                        <i class="fa fa-arrow-up"></i>
-                    </span>
-                </div>
-        </div>
-
-        <div class="input-section year-section folded">
-                <input class="year" type="text" placeholder="ENTER YOUR YEAR HERE" name="year" autocomplete="off" />
-                <div class="animated-button">
-                    <span class="icon-paper-plane">
-                        <i class="fa fa-envelope-o"></i>
-                    </span>
-                    <span class="next-button year">
-                        <i class="fa fa-arrow-up"></i>
-                    </span>
-                </div>
-        </div>
-
-        <div class="input-section phone-section folded">
-                <input class="phone" type="text" placeholder="ENTER YOUR PHONE NO. HERE" name="phone" autocomplete="off" />
-                <div class="animated-button">
-                    <span class="icon-paper-plane">
-                        <i class="fa fa-envelope-o"></i>
-                    </span>
-                    <span class="next-button phone">
-                        <i class="fa fa-arrow-up"></i>
-                    </span>
-                </div>
+            <div class="form-group">
+                <label for="">Username</label>
+                <input type="text" class="form-control" name="username" id="" aria-describedby="helpId" placeholder="">
             </div>
-
-        <div class="input-section email-section folded">
-            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" name="email" autocomplete="off" />
-            <div class="animated-button">
-                <span class="icon-paper-plane">
-                    <i class="fa fa-envelope-o"></i>
-                </span>
-                <span class="next-button email">
-                    <i class="fa fa-arrow-up"></i>
-                </span>
+            <div class="form-group">
+                <label for="">Email</label>
+                <input type="text" class="form-control" name="email" id="" aria-describedby="helpId" placeholder="">
             </div>
-        </div>
-
-        <div class="input-section password-section folded">
-            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" name="password"/>
-            <div class="animated-button">
-                <span class="icon-lock">
-                    <i class="fa fa-lock"></i>
-                </span>
-                <span class="next-button password">
-                    <i class="fa fa-arrow-up"></i>
-                </span>
+            <div class="form-group">
+                <label for="">Password</label>
+                <input type="text" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
             </div>
-        </div>
-
-        <div class="input-section repeat-password-section folded">
-            <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" name="password_confirmation"/>
-            <div class="animated-button">
-                <span class="icon-repeat-lock">
-                    <i class="fa fa-lock"></i>
-                </span>
-                <button>
-                <span class="next-button repeat-password">
-                    <button type="submit"><i class="fa fa-paper-plane"></i></button>
-                </span>
-                </button>
+            <div class="form-group">
+                <label for="">Password Again</label>
+                <input type="text" class="form-control" name="password_confirmation" id="" aria-describedby="helpId" placeholder="">
             </div>
-        </div>
-
-        <div class="success">
-            <p>REGISTRATION COMPLETE</p>
-        </div>
-    </form>
-
-
-</div>
+            <div class="form-group">
+                <label for="">Phone</label>
+                <input type="text" class="form-control" name="" id="phone" aria-describedby="helpId" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="">Institute</label>
+                <input type="text" class="form-control" name="" id="institute" aria-describedby="helpId" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="">Year</label>
+                <input type="text" class="form-control" name="" id="year" aria-describedby="helpId" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="">Course</label>
+                <input type="text" class="form-control" name="" id="course" aria-describedby="helpId" placeholder="">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
 
 <div class="progress">
         <div class="bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
