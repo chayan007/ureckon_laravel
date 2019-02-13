@@ -95,7 +95,7 @@
         <div id="events-page" class="events-page">
             <section id="events-page__robotics" class="events-page__robotics">
                 <h3 class="events-page__robotics-title display-4">
-                    Mark 42 se Chitti Tak!
+                    <center>Mark 42 se Chitti Tak!</center>
                 </h3>
                 <div class="events-page__robotics-cards">
                     <div class="card">
@@ -122,7 +122,7 @@
                                 <p>Souradeep Ganguli <a href="tel:9903891285"><i class="fa fa-phone" aria-hidden="true"></i> +91 9903891285</a>
                                 <br>Saamir Haque Molla <a href="tel:9903133041"><i class="fa fa-phone" aria-hidden="true"></i> +91 9903133041</a>
                                 <br>Anurag Singh <a href="tel:836558038"><i class="fa fa-phone" aria-hidden="true"></i> +91 836558038</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1V0je9pKkiIA9YXSklQPTQRBjpEdnWRLH" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="robowar">
                                     Register
@@ -139,7 +139,7 @@
                                 <p>Jiten Sinha <a href="tel:9874585329"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874585329</a>
                                 <br>Adarsh Kumar Singh <a href="tel:504414052"><i class="fa fa-phone" aria-hidden="true"></i> +91 504414052</a>
                                 <br>Tathagata Bannerjee <a href="tel:9477583958"><i class="fa fa-phone" aria-hidden="true"></i> +91 9477583958</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1oUaGOZ2JEMMMeZFIqDPxF3QcOaOQvn2Y" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="linefollower">
                                     Register
@@ -172,7 +172,7 @@
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Pritam Dutta <a href="tel:9804291109"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804291109</a>
                                 <br>Shivangam Mookherjee <a href="tel:8697704316"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697704316</a></p>
-                            <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                            <a href="https://drive.google.com/open?id=1TfeL3sZs2uALIspWWpu6IDFXVhe9STjQ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                         <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                         <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="roborumble">
                             Register
@@ -199,7 +199,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Shobhan Das <a href="tel:9836856937"><i class="fa fa-phone" aria-hidden="true"></i> +91 9836856937</a>
                                 <br>Sagnik Sengupta <a href="tel:9733197523"><i class="fa fa-phone" aria-hidden="true"></i> +91 9733197523</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=171ty7P31JiPCimlFHVP2heDaK6qoQf_D" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="coderanch">
                                     Register
@@ -214,8 +214,8 @@
                                     Code Golf is more than just logic; the shorter the code, the bigger the prizes.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Abhishek Madhu <a href="tel:7679396615"><i class="fa fa-phone" aria-hidden="true"></i> +91 7679396615</a>
-                                <br>Prince Barai <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <br>Rajdeep Karmaker <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <a href="https://drive.google.com/open?id=1nPVmTKQoeE7z91M5tAwKR43GAB9nsVTI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="codegolf">
                                     Register
@@ -229,9 +229,8 @@
                                 <p class="card-text lead">Weave Your Web. 
                                     Calling all front-end designers; put forth your best designs and build the internet you would like to see.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Saptarshi De <a href="tel:674658868"><i class="fa fa-phone" aria-hidden="true"></i> +91 674658868</a>
-                                <br>Shalini Guha <a href="tel:9874646078"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874646078</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <p>Shalini Guha <a href="tel:9874646078"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874646078</a></p>
+                                <a href="https://drive.google.com/open?id=1ddiTAoVcEiloVgR4kugxWlTCcJuNu6eV" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="spyder">
                                     Register
@@ -274,7 +273,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Pushpak Chakraborty <a href="tel:9038686250"><i class="fa fa-phone" aria-hidden="true"></i> +91 9038686250</a>
                                 <br>Rohit Chakraborty <a href="tel:8240253578"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240253578</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1oT7QMkJOtelo3Gwy9I2dwGMiipCHQV2h" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="csgo">
                                     Register
@@ -326,7 +325,7 @@
                                 <br>Abhinaba Bannerjee <a href="tel:8240287218"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240287218</a>
                                 <br>Soumyadeep Saha <a href="tel:8420175067"><i class="fa fa-phone" aria-hidden="true"></i> +91 8420175067</a>
                                 <br>Radhika Mirani <a href="tel:8100044545"><i class="fa fa-phone" aria-hidden="true"></i> +91 8100044545</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1NJWg36t8DplyARG8PuPArVyIh02wtCTR" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubg">
                                     Register
@@ -348,7 +347,7 @@
                                 <br>Abhinaba Bannerjee <a href="tel:8240287218"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240287218</a>
                                 <br>Soumyadeep Saha <a href="tel:8420175067"><i class="fa fa-phone" aria-hidden="true"></i> +91 8420175067</a>
                                 <br>Radhika Mirani <a href="tel:8100044545"><i class="fa fa-phone" aria-hidden="true"></i> +91 8100044545</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1NJWg36t8DplyARG8PuPArVyIh02wtCTR" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubg">
                                     Register
@@ -385,7 +384,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Sovan Polley <a href="tel:9051232873"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051232873</a>
                                 <br>Sambit Chakraborty <a href="tel:8902290887"><i class="fa fa-phone" aria-hidden="true"></i> +91 8902290887</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1-aT2Qr2fGd9xCfgjb3GvmYwcIY7ygZ9u" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="bridgemaking">
                                     Register
@@ -393,14 +392,14 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/robotic_arm.jpg" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/robotic_arm.jpg')}}" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Arm of Hercules<div  class="float-right events-page__mechanics-badge badge badge-secondary">Mechanics</div></h4>
                                 <p class="card-text lead">A Hydraulic system uses pressurized hydraulic fluid to power hydraulic machinery. You’ll feel the pressure to do some heavy lifting.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Bipasha Roy <a href="tel:8013017428"><i class="fa fa-phone" aria-hidden="true"></i> +91 8013017428</a>
                                 <br>Somipom Mondal <a href="tel:8918053544"><i class="fa fa-phone" aria-hidden="true"></i> +91 8918053544</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=17fuG-oZjeoL1FL6m1AuYddJirzCVN1JV" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="armofhercules">
                                     Register
@@ -523,7 +522,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a>
                                 <br>Prince Barai <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1gxkr___SEc7a8WuSWG7eARK_8Sx70E_x" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__miscellaneous-button" id="cluex">
                                     Register
@@ -583,7 +582,7 @@
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Abarna Chatterjee <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
-                            <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                            <a href="https://drive.google.com/open?id=1l5IYNbJN8_BTZ_mfB5jnnn-6mcRM9pdI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="biotex">
                                 Register
@@ -598,7 +597,7 @@
                             <p class="card-text lead"></h5>
                             <p>Abarna Chatterjee <a href="tel:9051184627"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
-                            <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                            <a href="https://drive.google.com/open?id=1jefoSrI6U4FLIY5wfrYPdb65RUA8--GJ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="healthybites">
                                 Register
