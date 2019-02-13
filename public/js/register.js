@@ -36,7 +36,6 @@ var members = ["Sayan", "Somsubhra", "Raja", "Baja", "Khaja"],
     count = 1;
 document.getElementById("registrationform").addEventListener("submit", submitted),
     function(e) {
-        "use strict";
 
         function t(t) {
             if ("email" == e(t).attr("type") || "email" == e(t).attr("name")) {

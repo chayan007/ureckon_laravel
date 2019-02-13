@@ -36,7 +36,8 @@
         <h1>Sign Up</h1>
         <p>Fill in all informations</p>
     </header>
-    <form action='/registerUser' method='POST'>
+    <form action='/registerUser' method='POST' enctype="multipart/form-data">
+        @csrf
         <div class="input-section name-section">
             <input class="name" type="text" placeholder="ENTER YOUR FIRST NAME HERE" autocomplete="off" />
             <div class="animated-button">
