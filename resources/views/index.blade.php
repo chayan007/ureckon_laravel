@@ -31,7 +31,7 @@
 
         <div class="home__logo-link">
             <div class="home__login">
-                <a href="/login"><i class="fas fa-user"></i></a>
+                <a href="/signin"><i class="fas fa-user"></i></a>
             </div> 
             <div class="home-btn">
                 <i class="fas fa-flag home-icon"></i>
