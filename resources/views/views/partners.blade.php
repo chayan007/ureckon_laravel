@@ -65,6 +65,7 @@
           </div>
         </div>
         <!-- end of 1st row -->
+
         <!-- start of second row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
@@ -81,6 +82,7 @@
           </div>
         </div>
         <!-- end of 2nd row -->
+
         <!-- start of third row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
@@ -94,7 +96,7 @@
           </div>
         </div>
         <!-- end of 2nd row -->
-        <hr>
+        
         <!-- end of 1st partner section -->
 
         <!-- start of 2nd partner section -->
@@ -107,23 +109,15 @@
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/skubotics.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
-          <!-- <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div> -->
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/SlyladLogoVariant.png')}}"
               onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
         </div>
         <!-- end of 1st row -->
-        <hr>
+        
         <!-- end of 2nd partner section -->
-
+<hr>
         <!-- start of rnd partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Gaming Partners</h1>
@@ -184,7 +178,7 @@
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           </div>
-          
+
           <div style="text-align: center" class="row">
             <div class="col-md-4">
               <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/eoh.jpg')}}" onmouseover="gray(this)"
