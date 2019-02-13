@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Ureckon | Profile</title>
+    <title>Ureckon 2019 | Profile</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -54,18 +54,14 @@
                 <div class="col-md-8">
                     <h2 id="name"></h2>
                     <ul class="list-group">
-                        <li class="list-group-item"><strong>Username: </strong><span id="username">{{ Auth::user()->username }}</span></li>
-                        <li class="list-group-item"><strong>Institute name: </strong><span id="institute">{{ Auth::user()->institute }}</span></li>
-                        <li class="list-group-item"><strong>Year: </strong><span id="year"></span>{{ Auth::user()->year }}</li>
-                        <li class="list-group-item"><strong>Phone Number: </strong><span id="phone">{{ Auth::user()->phone }}</span></li>
-                        <li class="list-group-item"><strong>Email: </strong><span id="email">{{ Auth::user()->email }}</span></li>
+                        <li class="list-group-item"><strong>Username: </strong><span id="username"></span></li>
+                        <li class="list-group-item"><strong>Institute name: </strong><span id="institute"></span></li>
+                        <li class="list-group-item"><strong>Year: </strong><span id="year"></span></li>
+                        <li class="list-group-item"><strong>Phone Number: </strong><span id="phone"></span></li>
+                        <li class="list-group-item"><strong>Email: </strong><span id="email"></span></li>
                         <li class="list-group-item eventsselect"><strong>Events Registered: </strong>
                             <select id="eventSelector" class="custom-select custom-select-sm mb-3" onchange="getMembers(this)">
                                 <option value="ps">Select event</option>
-                                @foreach($participants as $participant)
-                                    <option value="ps">{{ $participant->event }}</option>
-                                @endforeach
-
                                 <!-- <option value="1">One</option>
                                 <option value="2">Two</option>
                                 <option value="3">Three</option> -->

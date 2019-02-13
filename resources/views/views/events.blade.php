@@ -627,7 +627,7 @@
         
                     <div id="member1" class="members">
                         <div class="wrap-input100 validate-input" id="the-basics">
-                            <input id="email" class="input100 typeahead" type="text" name="user" value="{{ Auth::user()->username }}" required>
+                            <input id="email" class="input100 typeahead" type="text" name="user" placeholder="Enter Member 1 Username " required>
                             <span class="focus-input100"></span>
                             <label class="label-input100" for="email">
                                 <span class="fa fa-user"></span>
@@ -696,75 +696,71 @@
         @endguest
         </div>
 
-        <footer class="footer footer__events">
-            <div class="container">
-                    <div class="footer__aboutus-links">
-                            <div>
-                              <h6 >
-                                <a href="/about">About us</a>
-                              </h6>
-                            </div>
-                            <div >
-                              <h6 >
-                                <a href="/partners">Partners</a>
-                              </h6>
-                            </div>
-                            <div >
-                              <h6 >
-                                <a href="/teams">Team</a>
-                              </h6>
-                            </div>
-                            <div >
-                              <h6 >
-                                <a href="/web">Dev</a>
-                              </h6>
-                            </div>
-                            <div >
-                              <h6 >
-                                <a href="http://uosc.ureckon.org/">UOSC</a>
-                              </h6>
-                            </div>
-                          </div>
-              <hr class="footer__events-line">
-              <div>
-              <div class="footer__events-text">
-                  <p style="line-height: 1.7rem">URECKON is the technical fest of UEM, Kolkata.</p>
+        <footer class="footer footer__web">
+        <div class="container">
+            <div class="footer__aboutus-links">
+                <div>
+                  <h6 >
+                    <a href="/about">About</a>
+                  </h6>
+                </div>
+                <div >
+                  <h6 >
+                    <a href="/partners">Partners</a>
+                  </h6>
+                </div>
+                <div >
+                  <h6 >
+                    <a href="/teams">Team</a>
+                  </h6>
+                </div>
+                <div >
+                  <h6 >
+                    <a href="/web">Dev</a>
+                  </h6>
+                </div>
+                <div >
+                  <h6 >
+                    <a href="http://uosc.ureckon.org/">UOSC</a>
+                  </h6>
                 </div>
               </div>
-                <div >
-                  <div class="footer__events-socials">
-                    <!-- Facebook -->
-                    <a href="#" class="fb-ic">
-                      <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
-                    </a>
-                    <!-- Twitter -->
-                    <a href="#" class="tw-ic">
-                      <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
-                    </a>
-                    <!-- Google +-->
-                    <a href="#" class="gplus-ic">
-                      <i class="fab fa-google-plus-g fa-lg white-text mr-4"> </i>
-                    </a>
-                    <!--Linkedin -->
-                    <a href="#" class="li-ic">
-                      <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
-                    </a>
-                    <!--Instagram-->
-                    <a href="#" class="ins-ic">
-                      <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
-                    </a>
-                    <!--Pinterest-->
-                    <a href="#" class="pin-ic">
-                      <i class="fab fa-pinterest fa-lg white-text"> </i>
-                    </a>
-                  </div>
-                </div>
-               </div>
+          <hr class="footer__web-line">
+          <div>
+          <div class="footer__web-text">
+              <p style="line-height: 1.7rem">Ureckon-The Annual TechnoManagement Festival of University of Engineering & Management, Kolkata.</p>
             </div>
-            <div class="footer__events-copyright">© 2019 Copyright:
-              <a href="https://mdbootstrap.com/education/bootstrap/">Ureckon.org</a>
+          </div>
+            <div >
+              <div class="footer__aboutus-socials">
+                <!-- Facebook -->
+                <a href="https://facebook.com/ureckon.uemk" class="fb-ic">
+                  <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
+                </a>
+                <!-- Twitter -->
+                <a href="https://twitter.com/Ureckon_Uemk" class="tw-ic">
+                  <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
+                </a>
+                <!--Linkedin -->
+                <a href="https://linkedin.com/company/ureckon" class="li-ic">
+                  <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
+                </a>
+                <!--Instagram-->
+                <a href="https://instagram.com/ureckon.uemk" class="ins-ic">
+                  <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
+                </a>
+                <!--Youtube-->
+                <a href="https://youtube.com/c/UreckonUEMKolkata" class="you-ic">
+                  <i class="fab fa-youtube fa-lg white-text"> </i>
+                </a>
+              </div>
             </div>
-          </footer>
+           </div>
+        </div>
+        <div class="footer__web-copyright">© 2019 Copyright:
+          <a href="https://ureckon.org">Ureckon.org</a>
+        </div>
+      </footer>
     
            
     
