@@ -188,7 +188,7 @@
 
             <section id="events-page__coding" class="events-page__coding">
                 <h3 class="events-page__coding-title display-4">
-                    Semicolon ya No Semicolon!
+                    <center>Semicolon ya No Semicolon!</center>
                 </h3>
                 <div class="events-page__coding-cards">
                     <div class="card">
@@ -441,7 +441,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Arpan Chatterjee <a href="tel:7044196266"><i class="fa fa-phone" aria-hidden="true"></i> +91 7044196266</a>
                                 <br>Pritam Dutta <a href="tel:9674038036"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674038036</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1sX8esgAboTuLoUN_E9zCO4kBkfRid5Bk" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__flagship-button" id="uic">
                                     Register
