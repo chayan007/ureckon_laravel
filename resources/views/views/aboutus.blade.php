@@ -68,22 +68,22 @@
           <div class="footer__aboutus-links">
             <div>
               <h6 >
-                <a href="./aboutus">About</a>
+                <a href="/about">About</a>
               </h6>
             </div>
             <div >
               <h6 >
-                <a href="./partners">Partners</a>
+                <a href="/partners">Partners</a>
               </h6>
             </div>
             <div >
               <h6 >
-                <a href="./teams">Team</a>
+                <a href="/team">Team</a>
               </h6>
             </div>
             <div >
               <h6 >
-                <a href="./web">Dev</a>
+                <a href="/web">Dev</a>
               </h6>
             </div>
             <div >
