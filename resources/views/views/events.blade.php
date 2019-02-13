@@ -685,7 +685,7 @@
                     <button id="delmember" class="btn btn-danger btn-sm" type="button">-</button>
         
                     <div class="container-contact100-form-btn">
-                        <input type="submit" class="contact100-form-btn" value="submitted">
+                        <input type="submit" class="contact100-form-btn" value="Submit">
                     </div>
                 </form>
             </div>
