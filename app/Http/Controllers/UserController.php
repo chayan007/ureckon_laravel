@@ -6,6 +6,7 @@ use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Participants;
+use Illuminate\Support\Facades\Hash;
 
 class UserController extends Controller
 {
@@ -29,7 +30,7 @@ class UserController extends Controller
         $user = new User();
         $user->name = $request->name;
         $user->email = $request->email;
-        $user->password = $request->password;
+        $user->password = Hash::make($request->password);
         $user->year = $request->year;
         $user->institute = $request->institute;
         $user->phone = $request->phone;
