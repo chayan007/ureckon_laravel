@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Team</title>
+    <title>Ureckon 2019|Team</title>
     <link rel="stylesheet" href="{{ asset('css/styles.css')}}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -14,16 +14,16 @@
 <body>
 
         <nav class="top-right open navbar__links">
-                <a href="views/aboutus.html" class="disc l1">
+                <a href="/about" class="disc l1">
                   <div>About Us</div>
                 </a>
-                <a href="views/talks.html" class="disc l2">
+                <a href="/talks" class="disc l2">
                   <div>Talks</div>
                 </a>
-                <a href="views/workshops.html" class="disc l3">
+                <a href="/workshops" class="disc l3">
                   <div>Workshop</div>
                 </a>
-                <a href="views/events.html" class="disc l4">
+                <a href="/events" class="disc l4">
                   <div>Events</div>
                 </a>
                 <a class="disc l5 toggle">
@@ -35,7 +35,7 @@
 	<div  class="background__image-teams"></div>
 	<div data-tilt class="hero">
 		<h2 class="hero__title ">Our Ecstatic Team</h2>
-		<p class="hero__subtitle lead"></p>
+		<p class="hero__subtitle lead">Meet the Team who made Ureckon Possible</p>
         <a data-scroll href="#teams-page">
             <i class="hero__arrow fas fa-angle-down"></i>
         </a>
@@ -958,7 +958,7 @@
                         </div>
                         <div >
                           <h6 >
-                            <a href="./teams">Team</a>
+                            <a href="/team">Team</a>
                           </h6>
                         </div>
                         <div >
