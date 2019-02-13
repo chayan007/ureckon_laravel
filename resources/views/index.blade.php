@@ -57,7 +57,7 @@
         <div class="home__hide" id="home__hide">
           <section class="content">
             <div class="grid grid--effect-pollux">
-                <a href="./views/events.html" class="grid__item grid__item--c1">
+                <a href="/events" class="grid__item grid__item--c1">
                     <div class="stack">
                         <div class="stack__deco"></div>
                         <div class="stack__deco"></div>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Team</title>
     <link rel="stylesheet" href="{{ asset('css/styles.css')}}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -147,19 +147,19 @@
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Core Team/Subhadeep Kundu/FB_IMG_1548432227253.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
-                        <div class="teams-page__core-member-cards-body">
-                            <h4 class="card-title teams-page__core-member-cards-body-name">Subhadeep Kundu</h4>
-                            <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
-                        </div>
-                        <div class="teams-page__core-member-cards-social">
-                            <a href="#">subhadeep@ureckon.org</a>
-				<a href="#"><i class="fa fa-phone">+91 7278707250</i></a>
-                <br><a href="https://www.linkedin.com/in/subhadeep-kundu-780335148/"><i class="fab fa-linkedin-in"></i></a>
-				    <a href="https://www.facebook.com/subho.kundu.37"><i class="fab fa-facebook-f"></i></a>
-                        </div>
-                    </div>
+                    {{--<div class="card card__teams">--}}
+                        {{--<img src="{{ asset('images/teams/Core Team/Subhadeep Kundu/FB_IMG_1548432227253.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">--}}
+                        {{--<div class="teams-page__core-member-cards-body">--}}
+                            {{--<h4 class="card-title teams-page__core-member-cards-body-name">Subhadeep Kundu</h4>--}}
+                            {{--<p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>--}}
+                        {{--</div>--}}
+                        {{--<div class="teams-page__core-member-cards-social">--}}
+                            {{--<a href="#">subhadeep@ureckon.org</a>--}}
+				{{--<a href="#"><i class="fa fa-phone">+91 7278707250</i></a>--}}
+                {{--<br><a href="https://www.linkedin.com/in/subhadeep-kundu-780335148/"><i class="fab fa-linkedin-in"></i></a>--}}
+				    {{--<a href="https://www.facebook.com/subho.kundu.37"><i class="fab fa-facebook-f"></i></a>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
 
 		<div class="card card__teams">
                         <img src="{{ asset('images/teams/Core Team/Pooja Surana/IMG_20190129_001118.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
@@ -359,7 +359,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG') }}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Adarsh Kumar Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -414,7 +414,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Anurag Singh Robo Dangal/Anurag Singh.jpg'0}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Anurag Singh Robo Dangal/Anurag Singh.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Anurag Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -654,7 +654,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('') }}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Abhinaba Bannerjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>

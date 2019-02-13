@@ -24,7 +24,7 @@ Route::view('/partners', 'views.partners');
 Route::get('/profile', 'UserController@profile');
 Route::view('/talks', 'views.talks');
 Route::view('/web', 'views.web');
-Route::view('/teams', 'views.teams');
+Route::view('/team', 'views.teams');
 Route::view('/events', 'views.events');
 Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
