@@ -246,8 +246,8 @@
                                 <p class="card-text lead">One code to kill them all 
                                     Put your skills to the test by finding and fixing bugs in code in a battle against time.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Sagnik Bhattacharya <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a>
-                                <br>Pratik Goel <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <p>Sagnik Bhattacharya <a href="tel:9804044741"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804044741</a>
+                                <br>Pratik Goel <a href="tel:9051481667"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051481667</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="debugging">
