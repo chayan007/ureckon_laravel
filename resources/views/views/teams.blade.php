@@ -221,7 +221,7 @@
 
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Core Team/Rajarshi Saha/IMG_20190210_090540.jpg')}}'" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Core Team/Rajarshi Saha/IMG_20190210_090540.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Rajarshi Saha</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
@@ -359,7 +359,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG') }}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Adarsh Kumar Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
