@@ -32,7 +32,7 @@ Route::post('/registerEvent', 'RegisterController@register');
 Route::group(['prefix' => 'user'], function () {
     Route::get('/dashboard', 'UserController@profile');
     Route::get('/login', 'UserAuth\LoginController@showLoginForm')->name('login');
-  Route::post('/login', 'UserAuth\LoginController@login');
+  Route::post('/login', 'UserController@login');
   Route::get('/logout', 'UserAuth\LoginController@logout')->name('logout');
 
   Route::get('/register', 'UserAuth\RegisterController@showRegistrationForm')->name('register');
