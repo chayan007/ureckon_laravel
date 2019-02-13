@@ -39,7 +39,7 @@
     <form action="/login" method="POST">
         @csrf
         <div class="input-section email-section">
-            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />
+            <input class="email" type="email" name="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />
             <div class="animated-button">
                 <span class="icon-paper-plane">
                     <i class="fa fa-envelope-o"></i>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="input-section password-section folded">
-            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />
+            <input class="password" type="password" name="password" placeholder="ENTER YOUR PASSWORD HERE" />
             <div class="animated-button">
                 <span class="icon-lock">
                     <i class="fa fa-lock"></i>

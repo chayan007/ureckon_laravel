@@ -39,7 +39,7 @@
     <form action='/register' method='POST' enctype="multipart/form-data">
         @csrf
         <div class="input-section name-section">
-            <input class="name" type="text" placeholder="ENTER YOUR NAME HERE" autocomplete="off" />
+            <input class="name" type="text" placeholder="ENTER YOUR FIRST NAME HERE" name="name" autocomplete="off" />
             <div class="animated-button">
                 <span class="icon-paper-plane">
                     <i class="fa fa-envelope-o"></i>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="input-section institute-section folded">
-                <input class="institute" type="text" placeholder="ENTER YOUR INSTITUTE HERE" autocomplete="off" />
+                <input class="institute" type="text" placeholder="ENTER YOUR INSTITUTE HERE" name="institute" autocomplete="off" />
                 <div class="animated-button">
                     <span class="icon-paper-plane">
                         <i class="fa fa-envelope-o"></i>
@@ -62,8 +62,20 @@
                 </div>
         </div>
 
+        <div class="input-section institute-section folded">
+            <input class="institute" type="text" placeholder="ENTER YOUR USERNAME HERE" name="username" autocomplete="off" />
+            <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                <span class="next-button institute">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+            </div>
+        </div>
+
         <div class="input-section course-section folded">
-                <input class="course" type="text" placeholder="ENTER YOUR COURSE HERE" autocomplete="off" />
+                <input class="course" type="text" placeholder="ENTER YOUR COURSE HERE" name="course" autocomplete="off" />
                 <div class="animated-button">
                     <span class="icon-paper-plane">
                         <i class="fa fa-envelope-o"></i>
@@ -75,7 +87,7 @@
         </div>
 
         <div class="input-section year-section folded">
-                <input class="year" type="text" placeholder="ENTER YOUR YEAR HERE" autocomplete="off" />
+                <input class="year" type="text" placeholder="ENTER YOUR YEAR HERE" name="year" autocomplete="off" />
                 <div class="animated-button">
                     <span class="icon-paper-plane">
                         <i class="fa fa-envelope-o"></i>
@@ -87,7 +99,7 @@
         </div>
 
         <div class="input-section phone-section folded">
-                <input class="phone" type="text" placeholder="ENTER YOUR PHONE NO. HERE" autocomplete="off" />
+                <input class="phone" type="text" placeholder="ENTER YOUR PHONE NO. HERE" name="phone" autocomplete="off" />
                 <div class="animated-button">
                     <span class="icon-paper-plane">
                         <i class="fa fa-envelope-o"></i>
@@ -99,7 +111,7 @@
             </div>
 
         <div class="input-section email-section folded">
-            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />
+            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" name="email" autocomplete="off" />
             <div class="animated-button">
                 <span class="icon-paper-plane">
                     <i class="fa fa-envelope-o"></i>
@@ -111,7 +123,7 @@
         </div>
 
         <div class="input-section password-section folded">
-            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" />
+            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" name="password"/>
             <div class="animated-button">
                 <span class="icon-lock">
                     <i class="fa fa-lock"></i>
@@ -123,7 +135,7 @@
         </div>
 
         <div class="input-section repeat-password-section folded">
-            <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" />
+            <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" name="password_confirmation"/>
             <div class="animated-button">
                 <span class="icon-repeat-lock">
                     <i class="fa fa-lock"></i>
