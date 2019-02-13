@@ -32,6 +32,7 @@
 
         <div class="back"></div>
         <form action="/register" method="post" enctype="multipart/form-data">
+            @csrf
             <div class="form-group">
                 <label for="">Name</label>
                 <input type="text" class="form-control" name="name" id="" aria-describedby="helpId" placeholder="">
