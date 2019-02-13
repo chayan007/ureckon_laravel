@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9990f4-3fb2-489c-b101-693ffd7c7c0f" name="Default" comment="" />
+    <list default="true" id="9b9990f4-3fb2-489c-b101-693ffd7c7c0f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/views/web.blade.php" afterPath="$PROJECT_DIR$/resources/views/views/web.blade.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,35 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/views/web.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6026">
-              <caret line="262" column="34" lean-forward="false" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="34" />
-              <folding>
-                <marker date="1550082629362" expanded="true" signature="9007:9040" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9007:9063" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9007:9379" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9007:10806" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9007:10969" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9085:9200" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9109:9177" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9222:9358" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9246:9335" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9435:9658" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9476:9641" ph="..." />
-                <marker date="1550082629362" expanded="false" signature="9502:9521" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9676:10788" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9729:10769" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="9838:9934" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10041:10134" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10245:10342" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10452:10547" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10660:10748" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10865:10953" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="10984:11251" ph="..." />
-                <marker date="1550082629362" expanded="true" signature="11143:11236" ph="{...}" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="598">
@@ -226,10 +206,10 @@
         <option value="$PROJECT_DIR$/resources/views/views/profile.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/views/teams.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/views/web.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/resources/views/views/web.blade.php" />
       </list>
     </option>
   </component>
@@ -286,6 +266,170 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teams" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Graphics Team" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teams" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Graphics Team" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hrihtik Naha" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ureckon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teams" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -481,12 +625,12 @@
       <workItem from="1549784397113" duration="660000" />
       <workItem from="1549980639188" duration="6322000" />
       <workItem from="1550032565594" duration="12863000" />
-      <workItem from="1550081617229" duration="3496000" />
+      <workItem from="1550081617229" duration="4001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25927000" />
+    <option name="totallyTimeSpent" value="26432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="4" width="1936" height="1034" extended-state="0" />
@@ -577,30 +721,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6072">
           <caret line="264" column="34" lean-forward="false" selection-start-line="264" selection-start-column="30" selection-end-line="264" selection-end-column="34" />
-          <folding>
-            <marker date="1550082629362" expanded="true" signature="9007:9040" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:9063" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:9379" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:10806" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:10969" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9085:9200" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9109:9177" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9222:9358" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9246:9335" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9435:9658" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9476:9641" ph="..." />
-            <marker date="1550082629362" expanded="false" signature="9502:9521" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9676:10788" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9729:10769" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9838:9934" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10041:10134" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10245:10342" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10452:10547" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10660:10748" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10865:10953" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10984:11251" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="11143:11236" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -949,37 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/views/web.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6026">
-          <caret line="262" column="34" lean-forward="false" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="34" />
-          <folding>
-            <marker date="1550082629362" expanded="true" signature="9007:9040" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:9063" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:9379" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:10806" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9007:10969" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9085:9200" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9109:9177" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9222:9358" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9246:9335" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9435:9658" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9476:9641" ph="..." />
-            <marker date="1550082629362" expanded="false" signature="9502:9521" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9676:10788" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9729:10769" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="9838:9934" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10041:10134" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10245:10342" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10452:10547" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10660:10748" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10865:10953" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="10984:11251" ph="..." />
-            <marker date="1550082629362" expanded="true" signature="11143:11236" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/RegistrationController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -1079,6 +1169,14 @@
           <folding>
             <element signature="e#40#53#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/views/web.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>

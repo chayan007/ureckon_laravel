@@ -48,7 +48,7 @@
                 </figure>
 
                 <figure class="effect-apollo">
-                    <img src="{{ asset(' images/teams/Web Graphics Team/Hrihtik Naha/Hrithik Naha.JPG') }}" alt="img18" />
+                    <img src="{{ asset('images\teams\Web Graphics Team\Hrihtik Naha/Hrithik Naha.JPG') }}" alt="img18" />
                     <figcaption>
                         <h2>Hrithik<span> Naha</span></h2>
                         <p>Web Team Lead</p>
@@ -75,7 +75,9 @@
                 
                 <figure class="effect-apollo">
                     <img src="{{ asset('images/teams/Core Team/Sayak/DSC_8730.jpg')}}" alt="img22" />
-                    <figcaption>Team Lead</p>
+                    <figcaption>
+                        <h2>Sayak <span>Das</span></h2>
+                        <p>Team Lead</p>
                         <a href="https://linkedin.com/in/sayakdhar">View more</a>
                     </figcaption>
                 </figure>
