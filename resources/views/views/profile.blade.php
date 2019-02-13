@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <h2 id="name"></h2>
+                    <h2 id="name">{{ Auth::user()->name }}</h2>
                     <ul class="list-group">
                         <li class="list-group-item"><strong>Username: </strong>{{ Auth::user()->username }}</li>
                         <li class="list-group-item"><strong>Institute name: </strong>{{ Auth::user()->institute }}</li>
