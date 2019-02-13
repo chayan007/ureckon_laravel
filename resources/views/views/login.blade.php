@@ -36,7 +36,7 @@
         <h1>Log In</h1>
         <p>Fill in all informations</p>
     </header>
-    <form action="/login" method="POST">
+    <form action="/user/login" method="POST">
         @csrf
         <div class="input-section email-section">
             <input class="email" type="email" name="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />

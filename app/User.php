@@ -2,8 +2,8 @@
 
 namespace App;
 
+use App\Notifications\UserResetPassword;
 use Illuminate\Notifications\Notifiable;
-use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable
@@ -29,11 +29,13 @@ class User extends Authenticatable
     ];
 
     /**
-     * The attributes that should be cast to native types.
+     * Send the password reset notification.
      *
-     * @var array
+     * @param  string  $token
+     * @return void
      */
-    protected $casts = [
-        'email_verified_at' => 'datetime',
-    ];
+    public function sendPasswordResetNotification($token)
+    {
+        $this->notify(new UserResetPassword($token));
+    }
 }
