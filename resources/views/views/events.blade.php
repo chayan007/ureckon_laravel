@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('vendor/animsition/css/animsition.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{ asset('vendor/select2/select2.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{ asset('vendor/daterangepicker/daterangepicker.css')}}">
-    <link rel="shortcut icon" href="images/Asset 14.png" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('images/Asset 14.png')}}" type="image/x-icon">
 </head>
 <body>
 
