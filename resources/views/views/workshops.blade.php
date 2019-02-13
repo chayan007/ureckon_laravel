@@ -14,16 +14,16 @@
 <body>
     
     <nav class="top-right open navbar__links">
-        <a href="{{ asset('views/aboutus.html')}}" class="disc l1">
+        <a href="/about" class="disc l1">
           <div>About Us</div>
         </a>
-        <a href="{{ asset('views/talks.html')}}" class="disc l2">
+        <a href="/talks" class="disc l2">
           <div>Talks</div>
         </a>
-        <a href="{{ asset('views/workshops.html')}}" class="disc l3">
+        <a href="/workshops" class="disc l3">
           <div>Workshop</div>
         </a>
-        <a href="{{ asset('views/events.html')}}" class="disc l4">
+        <a href="/events" class="disc l4">
           <div>Events</div>
         </a>
         <a class="disc l5 toggle">
@@ -93,7 +93,7 @@
             <div class="footer__aboutus-links">
                 <div>
                   <h6 >
-                    <a href="/aboutus">About</a>
+                    <a href="/about">About</a>
                   </h6>
                 </div>
                 <div >
@@ -103,12 +103,12 @@
                 </div>
                 <div >
                   <h6 >
-                    <a href="/teams">Team</a>
+                    <a href="/team">Team</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="/web]">Dev</a>
+                    <a href="/web">Dev</a>
                   </h6>
                 </div>
                 <div >
