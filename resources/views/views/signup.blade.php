@@ -47,11 +47,11 @@
             </div>
             <div class="form-group">
                 <label for="">Password</label>
-                <input type="text" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
+                <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Password Again</label>
-                <input type="text" class="form-control" name="password_confirmation" id="" aria-describedby="helpId" placeholder="">
+                <input type="password" class="form-control" name="password_confirmation" id="" aria-describedby="helpId" placeholder="">
             </div>
             <div class="form-group">
                 <label for="">Phone</label>
