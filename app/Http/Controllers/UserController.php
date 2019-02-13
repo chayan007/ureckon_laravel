@@ -13,14 +13,14 @@ class UserController extends Controller
 {
     public function profile()
     {
-        try{
+        if(Auth::check())
+        {
             $participant = Participants::where('user', Auth::user()->id)->get();
             return view('views.profile', ['participants' => $participant]);
         }
-        catch (Exception $e)
+        else
         {
-            $participant = 0;
-            return view('views.profile', ['participants' => $participant]);
+            return redirect('user/home');
         }
     }
 
