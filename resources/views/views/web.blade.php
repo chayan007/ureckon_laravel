@@ -134,6 +134,15 @@
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
+
+                <figure class="effect-apollo">
+                    <img src="{{ asset('images/teams/Event Coordinator/Debarup Sadhukhan (Robo-Race - NFT)/DebarupS.JPG')}}" alt="img22" />
+                    <figcaption>
+                        <h2>Debarup <span>Sadhukhan</span></h2>
+                        <p>Graphics Design</p>
+                        <a href="#">View more</a>
+                    </figcaption>
+                </figure>
                 
                 <figure class="effect-apollo">
                     <img src="{{ asset('images/teams/Core Team/Souvik nandi/DSC_0186.jpg')}}" alt="img22" />
