@@ -38,36 +38,13 @@
     </header>
     <form action="/user/login" method="POST">
         @csrf
-        <div class="input-section email-section">
-            <input class="email" type="email" name="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />
-            <div class="animated-button">
-                <span class="icon-paper-plane">
-                    <i class="fa fa-envelope-o"></i>
-                </span>
-                <span class="next-button email">
-                    <i class="fa fa-arrow-up"></i>
-                </span>
-            </div>
+        <div class="form-group">
+            <label for="">Email</label>
+            <input type="email" class="form-control" name="email" id="" aria-describedby="helpId" placeholder="">
         </div>
-
-        <div class="input-section password-section folded">
-            <input class="password" type="password" name="password" placeholder="ENTER YOUR PASSWORD HERE" />
-            <div class="animated-button">
-                <span class="icon-lock">
-                    <i class="fa fa-lock"></i>
-                </span>
-                
-                <button>
-                    <span class="next-button password">
-                        <i class="fa fa-paper-plane"></i>
-                    </span>
-                </button>
-                
-            </div>
-        </div>
-
-        <div class="success">
-            <p>LOGGED IN!</p>
+        <div class="form-group">
+            <label for="">Password</label>
+            <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
         </div>
     </form>
         <div class="go__back">
