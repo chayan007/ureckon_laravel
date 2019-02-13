@@ -39,7 +39,7 @@
             </div>
             <div class="grid">
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Chayan Datta/FB_IMG_1548860683171.jpg') }}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Chayan Datta/FB_IMG_1548860683171.jpg') }}" alt="img22" />
                     <figcaption>
                         <h2>Chayan <span>Datta</span></h2>
                         <p>Tech Team Lead</p>
@@ -48,7 +48,7 @@
                 </figure>
 
                 <figure class="effect-apollo">
-                    <img src="{{ asset(' images/teams/Web  Graphics Team/Hrihtik Naha/Hrithik Naha.JPG') }}" alt="img18" />
+                    <img src="{{ asset(' images/teams/Web Graphics Team/Hrihtik Naha/Hrithik Naha.JPG') }}" alt="img18" />
                     <figcaption>
                         <h2>Hrithik<span> Naha</span></h2>
                         <p>Web Team Lead</p>
@@ -57,7 +57,7 @@
                 </figure>
 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Sayan Das/B612_20181226_135505_174.jpg') }}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Sayan Das/B612_20181226_135505_174.jpg') }}" alt="img22" />
                     <figcaption>
                         <h2>Sayan <span>Das</span></h2>
                         <p>Front End</p>
@@ -65,7 +65,7 @@
                     </figcaption>
                 </figure>
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Somsubhra Das/51def077e0a9673a9b6c69e1c32d60e8.jpg') }}" alt="img18" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Somsubhra Das/51def077e0a9673a9b6c69e1c32d60e8.jpg') }}" alt="img18" />
                     <figcaption>
                         <h2>Somsubhra <span>Das</span></h2>
                         <p>Front End</p>
@@ -81,7 +81,7 @@
                 </figure>
                 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Abhishek Roy/FB_IMG_1549987089965.jpg')}}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Abhishek Roy/FB_IMG_1549987089965.jpg')}}" alt="img22" />
                     <figcaption>
                         <h2>Abhishek <span>Roy</span></h2>
                         <p>Back End</p>
@@ -99,7 +99,7 @@
                 </figure>
 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Soham Halder/IMG_20170515_155328_078.jpg') }}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Soham Halder/IMG_20170515_155328_078.jpg') }}" alt="img22" />
                     <figcaption>
                         <h2>Soham <span>Halder</span></h2>
                         <p>Graphics Design</p>
@@ -107,7 +107,7 @@
                     </figcaption>
                 </figure>
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Anushka Podder/SAVE_20181118_222716-01.jpeg') }}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Anushka Podder/SAVE_20181118_222716-01.jpeg') }}" alt="img22" />
                     <figcaption>
                         <h2>Anushka <span>Poddar</span></h2>
                         <p>Graphics Design</p>
@@ -116,7 +116,7 @@
                 </figure>
                 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Gazi Taufiq/gazi.jpg')}}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Gazi Taufiq/gazi.jpg')}}" alt="img22" />
                     <figcaption>
                         <h2>Gazi <span>Taufiq</span></h2>
                         <p>Graphics Design</p>
@@ -152,7 +152,7 @@
                 </figure>
                 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/mainak.jpg')}}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/mainak.jpg')}}" alt="img22" />
                     <figcaption>
                         <h2>Mainak <span>Pal</span></h2>
                         <p>Graphics Design</p>
@@ -161,7 +161,7 @@
                 </figure>
                 
                 <figure class="effect-apollo">
-                    <img src="{{ asset('images/teams/Web  Graphics Team/Surjendu Das/IMG_20180101_113533.jpg')}}" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Surjendu Das/IMG_20180101_113533.jpg')}}" alt="img22" />
                     <figcaption>
                         <h2>Surjendu <span>Das</span></h2>
                         <p>Video</p>
