@@ -79,6 +79,10 @@
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/logo_large.png')}}"
               onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/skubotics.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
+          </div>
         </div>
         <!-- end of 2nd row -->
         <hr>
@@ -164,6 +168,10 @@
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo"
               src="{{ asset('images/partners/media_partners/TechnoSports Admin 😇 20190105_132043-01.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/Logo.jpg')}}" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
@@ -268,27 +276,27 @@
         <!-- end of 8th partner section -->
       </div>
 
-    <footer class="footer__partners">
+<footer class="footer footer__web">
         <div class="container">
             <div class="footer__aboutus-links">
                 <div>
                   <h6 >
-                    <a href="./aboutus.html">About us</a>
+                    <a href="/about">About</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./partners.html">Partners</a>
+                    <a href="/partners">Partners</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./teams.html">Team</a>
+                    <a href="/teams">Team</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./web.html">Dev</a>
+                    <a href="/web">Dev</a>
                   </h6>
                 </div>
                 <div >
@@ -297,44 +305,40 @@
                   </h6>
                 </div>
               </div>
-          <hr class="footer__partners-line">
+          <hr class="footer__web-line">
           <div>
-          <div class="footer__partners-text">
-              <p style="line-height: 1.7rem">URECKON is the technical fest of UEM, Kolkata.</p>
+          <div class="footer__web-text">
+              <p style="line-height: 1.7rem">Ureckon-The Annual TechnoManagement Festival of University of Engineering & Management, Kolkata.</p>
             </div>
           </div>
             <div >
-              <div class="footer__partners-socials">
+              <div class="footer__aboutus-socials">
                 <!-- Facebook -->
-                <a href="#" class="fb-ic">
+                <a href="https://facebook.com/ureckon.uemk" class="fb-ic">
                   <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
                 </a>
                 <!-- Twitter -->
-                <a href="#" class="tw-ic">
+                <a href="https://twitter.com/Ureckon_Uemk" class="tw-ic">
                   <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
                 </a>
-                <!-- Google +-->
-                <a href="#" class="gplus-ic">
-                  <i class="fab fa-google-plus-g fa-lg white-text mr-4"> </i>
-                </a>
                 <!--Linkedin -->
-                <a href="#" class="li-ic">
+                <a href="https://linkedin.com/company/ureckon" class="li-ic">
                   <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
                 </a>
                 <!--Instagram-->
-                <a href="#" class="ins-ic">
+                <a href="https://instagram.com/ureckon.uemk" class="ins-ic">
                   <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
                 </a>
-                <!--Pinterest-->
-                <a href="#" class="pin-ic">
-                  <i class="fab fa-pinterest fa-lg white-text"> </i>
+                <!--Youtube-->
+                <a href="https://youtube.com/c/UreckonUEMKolkata" class="you-ic">
+                  <i class="fab fa-youtube fa-lg white-text"> </i>
                 </a>
               </div>
             </div>
            </div>
         </div>
-        <div class="footer__partners-copyright">© 2019 Copyright:
-          <a href="https://mdbootstrap.com/education/bootstrap/">Ureckon.org</a>
+        <div class="footer__web-copyright">© 2019 Copyright:
+          <a href="https://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
 

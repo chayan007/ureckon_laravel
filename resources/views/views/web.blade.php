@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ureckon | Team Web</title>
+    <title>Ureckon | Web & Graphics Team</title>
     <link rel="stylesheet" href="{{ asset('css/styles.css')}}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -48,19 +48,10 @@
                 </figure>
 
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
-                    <figcaption>
-                        <h2>Gazi <span>Taufiq</span></h2>
-                        <p>Graphics Design</p>
-                        <a href="#">View more</a>
-                    </figcaption>
-                </figure>
-
-                <figure class="effect-apollo">
                     <img src="{{ asset(' images/teams/Web  Graphics Team/Hrihtik Naha/Hrithik Naha.JPG') }}" alt="img18" />
                     <figcaption>
                         <h2>Hrithik<span> Naha</span></h2>
-                        <p>Front End</p>
+                        <p>Web Team Lead</p>
                         <a href="http://www.hrithiknaha.com/">View more</a>
                     </figcaption>
                 </figure>
@@ -81,11 +72,30 @@
                         <a href="https://www.facebook.com/S0msubhradas">View more</a>
                     </figcaption>
                 </figure>
+                
+                <figure class="effect-apollo">
+                    <img src="{{ asset('images/teams/Core Team/Sayak/DSC_8730.jpg')}}" alt="img22" />
+                    <figcaption>
+                        <h2>Sayak <span>Dhar</span></h2>
+                        <p>Back End</p>
+                        <a href="https://linkedin.com/in/sayakdhar">View more</a>
+                    </figcaption>
+                </figure>
+                
                 <figure class="effect-apollo">
                     <img src="https://source.unsplash.com/random" alt="img22" />
                     <figcaption>
                         <h2>Abhishek <span>Roy</span></h2>
                         <p>Back End</p>
+                        <a href="#">View more</a>
+                    </figcaption>
+                </figure>
+                
+                <figure class="effect-apollo">
+                    <img src="" alt="img22" />
+                    <figcaption>
+                        <h2>Gourav <span>Chakraborty</span></h2>
+                        <p>Graphics Design</p>
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
@@ -106,32 +116,54 @@
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
+                
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
+                    <img src="{{ asset('images/teams/" alt="img22" />
+                    <figcaption>
+                        <h2>Gazi <span>Taufiq</span></h2>
+                        <p>Graphics Design</p>
+                        <a href="#">View more</a>
+                    </figcaption>
+                </figure>
+                
+                <figure class="effect-apollo">
+                    <img src="" alt="img22" />
                     <figcaption>
                         <h2>Binta <span>Midya</span></h2>
                         <p>Graphics Design</p>
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
+                
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
+                    <img src="" alt="img22" />
+                    <figcaption>
+                        <h2>Souvik <span>Nandi</span></h2>
+                        <p>Graphics Design</p>
+                        <a href="#">View more</a>
+                    </figcaption>
+                </figure>
+                
+                <figure class="effect-apollo">
+                    <img src="" alt="img22" />
                     <figcaption>
                         <h2>Pratik <span>Mallick</span></h2>
                         <p>Graphics Design</p>
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
+                
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
+                    <img src="" alt="img22" />
                     <figcaption>
                         <h2>Mainak <span>Pal</span></h2>
                         <p>Graphics Design</p>
                         <a href="#">View more</a>
                     </figcaption>
                 </figure>
+                
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
+                    <img src="" alt="img22" />
                     <figcaption>
                         <h2>Surjendu <span>Das</span></h2>
                         <p>Video</p>
@@ -139,7 +171,7 @@
                     </figcaption>
                 </figure>
                 <figure class="effect-apollo">
-                    <img src="https://source.unsplash.com/random" alt="img22" />
+                    <img src="" alt="img22" />
                     <figcaption>
                         <h2>Richik <span> Gangopadhyay</span></h2>
                         <p>Video</p>
@@ -150,27 +182,27 @@
         </div>
     </div>
 
-    <footer class="footer footer__web">
+<footer class="footer footer__web">
         <div class="container">
             <div class="footer__aboutus-links">
                 <div>
                   <h6 >
-                    <a href="./aboutus.html">About us</a>
+                    <a href="/aboutus">About</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./partners.html">Partners</a>
+                    <a href="/partners">Partners</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./teams.html">Team</a>
+                    <a href="/teams">Team</a>
                   </h6>
                 </div>
                 <div >
                   <h6 >
-                    <a href="./web.html">Dev</a>
+                    <a href="/web">Dev</a>
                   </h6>
                 </div>
                 <div >
@@ -182,41 +214,37 @@
           <hr class="footer__web-line">
           <div>
           <div class="footer__web-text">
-              <p style="line-height: 1.7rem">URECKON is the technical fest of UEM, Kolkata.</p>
+              <p style="line-height: 1.7rem">Ureckon-The Annual TechnoManagement Festival of University of Engineering & Management, Kolkata.</p>
             </div>
           </div>
             <div >
-              <div class="footer__web-socials">
+              <div class="footer__aboutus-socials">
                 <!-- Facebook -->
-                <a href="#" class="fb-ic">
+                <a href="https://facebook.com/ureckon.uemk" class="fb-ic">
                   <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
                 </a>
                 <!-- Twitter -->
-                <a href="#" class="tw-ic">
+                <a href="https://twitter.com/Ureckon_Uemk" class="tw-ic">
                   <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
                 </a>
-                <!-- Google +-->
-                <a href="#" class="gplus-ic">
-                  <i class="fab fa-google-plus-g fa-lg white-text mr-4"> </i>
-                </a>
                 <!--Linkedin -->
-                <a href="#" class="li-ic">
+                <a href="https://linkedin.com/company/ureckon" class="li-ic">
                   <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
                 </a>
                 <!--Instagram-->
-                <a href="#" class="ins-ic">
+                <a href="https://instagram.com/ureckon.uemk" class="ins-ic">
                   <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
                 </a>
-                <!--Pinterest-->
-                <a href="#" class="pin-ic">
-                  <i class="fab fa-pinterest fa-lg white-text"> </i>
+                <!--Youtube-->
+                <a href="https://youtube.com/c/UreckonUEMKolkata" class="you-ic">
+                  <i class="fab fa-youtube fa-lg white-text"> </i>
                 </a>
               </div>
             </div>
            </div>
         </div>
         <div class="footer__web-copyright">© 2019 Copyright:
-          <a href="https://mdbootstrap.com/education/bootstrap/">Ureckon.org</a>
+          <a href="https://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
 
