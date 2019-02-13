@@ -46,6 +46,7 @@
             <label for="">Password</label>
             <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
         </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
         <div class="go__back">
         <a href="/home"><i class="fas fa-arrow-left"></i></a>
