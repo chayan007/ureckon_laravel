@@ -20,7 +20,8 @@ class UserController extends Controller
         }
         else
         {
-            return redirect('user/home');
+            $participant = Participants::where('user', Auth::id())->get();
+            return view('views.profile', ['participants' => $participant]);
         }
     }
 

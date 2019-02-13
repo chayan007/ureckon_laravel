@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\UserAuth;
 
 use App\Http\Controllers\Controller;
+use function GuzzleHttp\Psr7\str;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Support\Facades\Auth;
 use Hesto\MultiAuth\Traits\LogsoutGuard;
@@ -29,7 +30,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-    public $redirectTo = '/user/profile';
+    public $redirectTo = '/user/dashboard';
 
     /**
      * Create a new controller instance.
