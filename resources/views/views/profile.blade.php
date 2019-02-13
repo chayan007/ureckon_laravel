@@ -54,14 +54,17 @@
                 <div class="col-md-8">
                     <h2 id="name"></h2>
                     <ul class="list-group">
-                        <li class="list-group-item"><strong>Username: </strong><span id="username"></span></li>
-                        <li class="list-group-item"><strong>Institute name: </strong><span id="institute"></span></li>
-                        <li class="list-group-item"><strong>Year: </strong><span id="year"></span></li>
-                        <li class="list-group-item"><strong>Phone Number: </strong><span id="phone"></span></li>
-                        <li class="list-group-item"><strong>Email: </strong><span id="email"></span></li>
+                        <li class="list-group-item"><strong>Username: </strong>{{ Auth::user()->username }}</li>
+                        <li class="list-group-item"><strong>Institute name: </strong>{{ Auth::user()->institute }}</li>
+                        <li class="list-group-item"><strong>Year: </strong>}{{ Auth::user()->year }}</li>
+                        <li class="list-group-item"><strong>Phone Number: </strong>{{ Auth::user()->phone }}</li>
+                        <li class="list-group-item"><strong>Email: </strong>{{ Auth::user()->email }}</li>
                         <li class="list-group-item eventsselect"><strong>Events Registered: </strong>
                             <select id="eventSelector" class="custom-select custom-select-sm mb-3" onchange="getMembers(this)">
-                                <option value="ps">Select event</option>
+                                <option value="ps">Select Team</option>
+                                @foreach($participants as $participant)
+                                    <option value="ps">{{ $participant->team }}</option>
+                                @endforeach
                                 <!-- <option value="1">One</option>
                                 <option value="2">Two</option>
                                 <option value="3">Three</option> -->
