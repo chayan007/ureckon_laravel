@@ -19,16 +19,16 @@
 <body>
 
         <nav class="top-right open navbar__links">
-                <a href="views/aboutus.html" class="disc l1">
+                <a href="/about" class="disc l1">
                   <div>About Us</div>
                 </a>
-                <a href="views/talks.html" class="disc l2">
+                <a href="/talks" class="disc l2">
                   <div>Talks</div>
                 </a>
-                <a href="views/workshops.html" class="disc l3">
+                <a href="/workshops" class="disc l3">
                   <div>Workshop</div>
                 </a>
-                <a href="views/events.html" class="disc l4">
+                <a href="/events" class="disc l4">
                   <div>Events</div>
                 </a>
                 <a class="disc l5 toggle">
@@ -99,7 +99,7 @@
                 </h3>
                 <div class="events-page__robotics-cards">
                     <div class="card">
-                            <img src="images/events/roborace.jpg" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/roborace.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Need For Torque - NFT<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Need for Torque is all about grabbing the first position with maximum acceleration. Drift through the turnings and sprint along the straight track.</p>
@@ -114,7 +114,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/robowar.jpg" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/robowar.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Robo Dangal<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Bring on your ready to battle robots where the aim is to immobilize your opponent's bot and stand victorious. At the end it is all about Power and Torque.</p>
@@ -131,7 +131,7 @@
                     </div>
 
                     <div class="card">
-                            <img src="images/events/line_follower_1.png" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/line_follower_1.png')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Dirrecion<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Obedient bot? Follows the line only? Never jumps out of track ? Then your bot is perfect to win this event. Bring your bot and make sure it follows the line till the end.</p>
@@ -148,7 +148,7 @@
                     </div>
 
                     <div class="card">
-                        <img src="images/events/roboleague.jpeg" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/roboleague.jpeg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">Robo League<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                             <p class="card-text lead">The knack of fusing technology with sports seems to be an inherent quality among us, and to celebrate this very spirit, we hail this event known as RoboSoccer.</p>
@@ -163,7 +163,7 @@
                         </div>
                 </div>
                 <div class="card">
-                    <img src="images/events/roborumble.jpg" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                    <img src="{{ asset('images/events/roborumble.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                     <div class="card-body">
                         <h4 class="card-title">Robo Rumble<div class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div>
                         </h4>
@@ -192,7 +192,7 @@
                 </h3>
                 <div class="events-page__coding-cards">
                     <div class="card">
-                            <img src="images/events/code_ranch.jpg" class="card-img-top events-page__coding-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/code_ranch.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Code Ranch<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
                                 <p class="card-text lead">Programming is what you always think of, so do you have what it takes to be a mastermind coder ?</p>
@@ -207,7 +207,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/code_golf1.jpg" class="card-img-top events-page__coding-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/code_golf1.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Code Golf<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
                                 <p class="card-text lead">How Low Can You Go? 
@@ -223,7 +223,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/web_designing.png" class="card-img-top events-page__coding-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/web_designing.png')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Spyder<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
                                 <p class="card-text lead">Weave Your Web. 
@@ -240,7 +240,7 @@
                     </div>
 
                     <div class="card">
-                            <img src="images/events/debugger.jpg" class="card-img-top events-page__coding-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/debugger.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Debugger<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
                                 <p class="card-text lead">One code to kill them all 
@@ -267,7 +267,7 @@
                 </h3>
                 <div class="events-page__gaming-cards">
                     <div class="card">
-                            <img src="images/events/counter_strike.jpg" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/counter_strike.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Counter Strike: GO/1.6<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming    </div></h4>
                                 <p class="card-text lead">Come prove you're the best counterstrike player in kolkata at one of the biggest techno management fest hosted by University of engineering and management. Come fight in a 2 vs 2 format and prove that your aim is the best that there is.</p>
@@ -282,14 +282,13 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/fifa.jpg" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/fifa.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">FIFA<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">Drop down at UEM and show your skillset in the virtual world of Football.</p>
-                                <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Puspak Chakraborty <a href="tel:9038686250"><i class="fa fa-phone" aria-hidden="true"></i> +91 9038686250</a>
+                                <h5 class="mt-3">Event Co-ordinators</h>
                                 <br>Richik Gangopadhyay <a href="tel:9674377482"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674377482</a>
-                                <br>Aditya Dalmia <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <br>Arnab Das <a href="tel:9230468967"><i class="fa fa-phone" aria-hidden="true"></i> +91 9230468967</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="fifa">
@@ -298,7 +297,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/nfs.jpg" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/nfs.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">NFS: Most Wanted<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -314,7 +313,7 @@
                     </div>
 
                     <div class="card">
-                            <img src="images/events/pubg.jpg" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/pubg.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">PUBG Mobile<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">What’s gotten you hooked lately?
@@ -336,7 +335,7 @@
                     </div>
 
                     <div class="card">
-                            <img src="images/events/pubg.jpg" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/pubg.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">PUBG Emulator<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">What’s gotten you hooked lately?
@@ -356,6 +355,17 @@
                                 </button>
                             </div>
                     </div>
+
+                    <div class="card">
+                            <img src="{{ asset('images/events/vr.png')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
+                            <div class="card-body">
+                                <h4 class="card-title">VR Exhibition<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
+                                <p class="card-text lead"></p>
+                                <h5 class="mt-3">Event Co-ordinators</h5>
+                                <p>Saswata Dutta <a href="tel:9609461544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609461544</a>
+                                <br>Antara Ghosh <a href="tel:8697577604"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697577604</a>
+                            </div>
+                    </div>
                 </div> 
                 <hr class="line-break">
             </section>
@@ -368,7 +378,7 @@
                 </h3>
                 <div class="events-page__mechanics-cards">
                     <div class="card">
-                            <img src="images/events/bridge-o-nics.jpg" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/bridge-o-nics.jpg')}}" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Bridge-O-Nics<div  class="float-right events-page__mechanics-badge badge badge-secondary">Mechanics</div></h4>
                                 <p class="card-text lead">By being limited to only Popsicle sticks and glue, you will need to use creativity, ingenuity and resourcefulness in order to maximize the strength of your bridge.</p>
@@ -398,7 +408,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/rc_plane.PNG" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/rc_plane.PNG')}}" class="card-img-top events-page__mechanics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">AeroStorm<div  class="float-right events-page__mechanics-badge badge badge-secondary">Mechanics</div></h4>
                                 <p class="card-text lead">Innovative to create airplanes and gliders to see surfing through air? Face the friction of air and overcome it to win the gold.</p>
@@ -420,11 +430,11 @@
 
             <section id="events-page__flagship" class="events-page__flagship">
                 <h3 class="events-page__flagship-title display-4">
-                    Bade Bade Naam!
+                    <center>Bade Bade Naam!</center>
                 </h3>
                 <div class="events-page__flagship-cards">
                     <div class="card">
-                            <img src="images/events/UIC.jpg" class="card-img-top events-page__flagship-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/UIC.jpg')}}" class="card-img-top events-page__flagship-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Ureckon Inovation Challenge - UIC<div  class="float-right events-page__flagship-badge badge badge-secondary">Flagship</div></h4>
                                 <p class="card-text lead">Nothing is more important than your imaginations and creativity. This is the biggest platform to implement your ideas, thoughts and imaginations into reality. You make one prototype model to showcase and present your idea in front of the tech-world.</p>
@@ -439,7 +449,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/hackathon.jpg" class="card-img-top events-page__flagship-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/hackathon.jpg')}}" class="card-img-top events-page__flagship-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Ureck-A-Thon<div  class="float-right events-page__flagship-badge badge badge-secondary">Flagship</div></h4>
                                 <p class="card-text lead">Challenge your innerself to bring out the best in you!</p>
@@ -461,11 +471,11 @@
 
             <section id="events-page__business" class="events-page__business">
                 <h3 class="events-page__business-title display-4">
-                    Let's talk about dhan!
+                    <center>Let's talk about dhan!</center>
                 </h3>
                 <div class="events-page__business-cards">
                     <div class="card">
-                            <img src="images/events/get_set_sell.jpg" class="card-img-top events-page__business-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/get_set_sell.jpg')}}" class="card-img-top events-page__business-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Get Set Sell<div  class="float-right events-page__business-badge badge badge-secondary">Business</div></h4>
                                 <p class="card-text lead">This event is all about making business strategies and how well can one manipulate others with his/her convincing powers.</p>
@@ -480,7 +490,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/ad_making.jpg" class="card-img-top events-page__business-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/ad_making.jpg')}}" class="card-img-top events-page__business-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Ad Mad<div  class="float-right events-page__business-badge badge badge-secondary">Business</div></h4>
                                 <p class="card-text lead">Are you confident enough to create the best ad with most convincing dialogs and motion? Then this event is meant for you.</p>
@@ -502,11 +512,11 @@
 
             <section id="events-page__miscellaneous" class="events-page__miscellaneous">
                 <h3 class="events-page__miscellaneous-title display-4">
-                    Dimaag ka Khel!
+                   <center> Dimaag ka Khel!</center>
                 </h3>
                 <div class="events-page__miscellaneous-cards">
                     <div class="card">
-                            <img src="images/events/thinkq.jpg" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/thinkq.jpg')}}" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">ClueX<div  class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
                                 <p class="card-text lead">The seacrh is on. Test your brain with puzzles, riddles, and a treasure hunt that puts the best and brightest to shame.</p>
@@ -521,7 +531,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="images/events/thinkq.jpg" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/thinkq.jpg')}}" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">ThinkTech<div  class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
                                 <p class="card-text lead">Kolkata's biggest Inter-college Tech quiz is back with a bang. Are you ready?</p>
@@ -545,7 +555,7 @@
                 </h3>
                 <div class="events-page__initiatives-cards">
                     <div class="card">
-                        <img src="images/events/arduino.jpeg" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/arduino.jpeg')}}" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">Ard-U-Know<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
@@ -565,7 +575,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img src="images/events/biotex.jpg" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/biotex.jpg')}}" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">BioteXpression<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
@@ -581,7 +591,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img src="images/events/salad.png" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/salad.png')}}" class="card-img-top events-page__initiatives-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">Healthy Bites<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
@@ -770,16 +780,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.js" charset="utf-8"></script>
     <script src="https://unpkg.com/tilt.js@1.2.1/dest/tilt.jquery.min.js"></script>
-    <script src="js/Modules/smooth-scroll.js"></script>
+    <script src="{{ asset('js/Modules/smooth-scroll.js')}}"></script>
     
-    <script src="vendor/select2/select2.min.js"></script>
-    <script src="vendor/daterangepicker/moment.min.js"></script>
-    <script src="vendor/daterangepicker/daterangepicker.js"></script>
-    <script src="vendor/countdowntime/countdowntime.js"></script>
-    <script src="vendor/typeahead/typeahead.bundle.js"></script>
-    <script src="js/events.js"></script>
+    <script src="{{ asset('vendor/select2/select2.min.js')}}"></script>
+    <script src="{{ asset('vendor/daterangepicker/moment.min.js')}}"></script>
+    <script src="{{ asset('vendor/daterangepicker/daterangepicker.js')}}"></script>
+    <script src="{{ asset('vendor/countdowntime/countdowntime.js')}}"></script>
+    <script src="{{ asset('vendor/typeahead/typeahead.bundle.js')}}"></script>
+    <script src="{{ asset('js/events.js')}}"></script>
     
-    <script src="js/register.js"></script>
+    <script src="{{ asset('js/register.js')}}"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -788,7 +798,7 @@
 
         gtag('config', 'UA-23581568-13');
     </script>
-    <script src="js/Modules/header.js"></script>
+    <script src="{{ asset('js/Modules/header.js')}}"></script>
     
 </body>
 </html>
