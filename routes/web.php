@@ -36,7 +36,7 @@ Route::group(['prefix' => 'user'], function () {
   Route::get('/logout', 'UserAuth\LoginController@logout')->name('logout');
 
   Route::get('/register', 'UserAuth\RegisterController@showRegistrationForm')->name('register');
-  Route::post('/register', 'UserAuth\RegisterController@register');
+  Route::post('/register', 'UserController@register');
 
   Route::post('/password/email', 'UserAuth\ForgotPasswordController@sendResetLinkEmail')->name('password.request');
   Route::post('/password/reset', 'UserAuth\ResetPasswordController@reset')->name('password.email');
