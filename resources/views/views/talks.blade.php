@@ -14,10 +14,10 @@
 <body>
     
     <nav class="top-right open navbar__links">
-        <a href="/aboutus" class="disc l1">
+        <a href="/about" class="disc l1">
           <div>About</div>
         </a>
-        <a href="/views/talks" class="disc l2">
+        <a href="/talks" class="disc l2">
           <div>Talks</div>
         </a>
         <a href="/workshops" class="disc l3">
@@ -96,7 +96,7 @@
             <div class="footer__aboutus-links">
                 <div>
                   <h6 >
-                    <a href="/aboutus">About</a>
+                    <a href="/about">About</a>
                   </h6>
                 </div>
                 <div >
@@ -106,7 +106,7 @@
                 </div>
                 <div >
                   <h6 >
-                    <a href="/teams">Team</a>
+                    <a href="/team">Team</a>
                   </h6>
                 </div>
                 <div >
