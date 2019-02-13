@@ -7,13 +7,21 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Participants;
 use Illuminate\Support\Facades\Hash;
+use Mockery\Exception;
 
 class UserController extends Controller
 {
     public function profile()
     {
-        $participant = Participants::where('user', Auth::user()->id)->get();
-        return view('views.profile', ['participants' => $participant]);
+        try{
+            $participant = Participants::where('user', Auth::user()->id)->get();
+            return view('views.profile', ['participants' => $participant]);
+        }
+        catch (Exception $e)
+        {
+            $participant = 0;
+            return view('views.profile', ['participants' => $participant]);
+        }
     }
 
     public function uploadDP(Request $request)
