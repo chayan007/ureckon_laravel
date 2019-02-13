@@ -285,7 +285,7 @@
                             <div class="card-body">
                                 <h4 class="card-title">FIFA<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">Drop down at UEM and show your skillset in the virtual world of Football.</p>
-                                <h5 class="mt-3">Event Co-ordinators</h>
+                                <h5 class="mt-3">Event Co-ordinators</h5>
                                 <br>Richik Gangopadhyay <a href="tel:9674377482"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674377482</a>
                                 <br>Arnab Das <a href="tel:9230468967"><i class="fa fa-phone" aria-hidden="true"></i> +91 9230468967</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
