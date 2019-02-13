@@ -37,6 +37,7 @@
         <p>Fill in all informations</p>
     </header>
     <form action="/login" method="POST">
+        @csrf
         <div class="input-section email-section">
             <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" />
             <div class="animated-button">

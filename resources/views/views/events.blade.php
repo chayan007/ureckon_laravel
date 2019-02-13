@@ -627,6 +627,7 @@
                 </div>
         
                 <form class="contact100-form validate-form" method="POST" id="registrationform" action="/registerEvent">
+                    @csrf
                     <div class="wrap-input100 validate-input">
                         <input id="name" class="input100" type="text" name="team" placeholder="Team Name" autocomplete="off" required>
                         <span class="focus-input100"></span>
