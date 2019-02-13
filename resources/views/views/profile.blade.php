@@ -52,13 +52,13 @@
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <h2 id="name">{{ \Illuminate\Support\Facades\Auth::user()->name }}</h2>
+                    <h2 id="name">{{ $user->name }}</h2>
                     <ul class="list-group">
-                        <li class="list-group-item"><strong>Username: </strong>{{ \Illuminate\Support\Facades\Auth::user()->username }}</li>
-                        <li class="list-group-item"><strong>Institute name: </strong>{{ \Illuminate\Support\Facades\Auth::user()->institute }}</li>
-                        <li class="list-group-item"><strong>Year: </strong>}{{ \Illuminate\Support\Facades\Auth::user()->year }}</li>
-                        <li class="list-group-item"><strong>Phone Number: </strong>{{ \Illuminate\Support\Facades\Auth::user()->phone }}</li>
-                        <li class="list-group-item"><strong>Email: </strong>{{ \Illuminate\Support\Facades\Auth::user()->email }}</li>
+                        <li class="list-group-item"><strong>Username: </strong>{{ $user->username }}</li>
+                        <li class="list-group-item"><strong>Institute name: </strong>{{ $user->institute }}</li>
+                        <li class="list-group-item"><strong>Year: </strong>}{{ $user->year }}</li>
+                        <li class="list-group-item"><strong>Phone Number: </strong>{{ $user->phone }}</li>
+                        <li class="list-group-item"><strong>Email: </strong>{{ $user->email }}</li>
                         <li class="list-group-item eventsselect"><strong>Events Registered: </strong>
                             <select id="eventSelector" class="custom-select custom-select-sm mb-3" onchange="getMembers(this)">
                                 <option value="ps">Select Team</option>
