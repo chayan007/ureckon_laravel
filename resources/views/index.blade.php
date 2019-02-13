@@ -126,7 +126,7 @@
                   <a class="footer__home-aboutus" href="/about">ABOUT US</a>
                   <a class="footer__home-partners" href="/partners">PARTNERS</a>
                   <a class="footer__home-team" href="/team">TEAM</a>
-                  <a class="footer__home-dev" href="/dev">DEV</a>
+                  <a class="footer__home-dev" href="/web">DEV</a>
                   <a class="footer__home-UOSC" href="/uosc">UOSC</a>
                   <a class="footer__home-others" href="/gallery">GALLERY</a>
               </div>

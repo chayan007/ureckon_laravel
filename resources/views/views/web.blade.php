@@ -34,7 +34,7 @@
     <div class="web">
         <div class="container">
             <div  class="web__backdrop">
-                    <div data-tilt class="display-4 web__backdrop-title">Karyakarta!</div>
+                    <div data-tilt class="display-4 web__backdrop-title">Mr Robots!</div>
                     <div class="web__backdrop-subtitle"></div>
             </div>
             <div class="grid">
@@ -122,7 +122,7 @@
                     <figcaption>
                         <h2>Gazi <span>Taufiq</span></h2>
                         <p>Graphics Design</p>
-                        <a href="#">View more</a>
+                        <a href="www.gazitaufiq.com">View more</a>
                     </figcaption>
                 </figure>
                 
