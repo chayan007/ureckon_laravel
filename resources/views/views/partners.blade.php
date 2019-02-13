@@ -29,7 +29,7 @@
         <a class="disc l5 toggle">
           Menu
         </a>
-</nav>
+    </nav>
 
 
         <div class="partners">
@@ -81,7 +81,7 @@
           </div>
         </div>
         <!-- end of 2nd row -->
-<!-- start of third row -->
+        <!-- start of third row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/skubotics.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
@@ -183,11 +183,14 @@
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/Logo.jpg')}}" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/eoh.jpg')}}" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
-        </div>
+          
+          <div style="text-align: center" class="row">
+            <div class="col-md-4">
+              <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/eoh.jpg')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+            </div>
+          </div>
         <!-- end of 2nd row -->
         <hr>
         <!-- end of 4th partner section -->
