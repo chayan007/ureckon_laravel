@@ -39,7 +39,7 @@
     <form action='/register' method='POST' enctype="multipart/form-data">
         @csrf
         <div class="input-section name-section">
-            <input class="name" type="text" placeholder="ENTER YOUR FIRST NAME HERE" name="name" autocomplete="off" />
+            <input class="name" type="text" placeholder="ENTER YOUR USERNAME HERE" name="name" autocomplete="off" />
             <div class="animated-button">
                 <span class="icon-paper-plane">
                     <i class="fa fa-envelope-o"></i>
@@ -60,18 +60,6 @@
                         <i class="fa fa-arrow-up"></i>
                     </span>
                 </div>
-        </div>
-
-        <div class="input-section institute-section folded">
-            <input class="institute" type="text" placeholder="ENTER YOUR USERNAME HERE" name="username" autocomplete="off" />
-            <div class="animated-button">
-                    <span class="icon-paper-plane">
-                        <i class="fa fa-envelope-o"></i>
-                    </span>
-                <span class="next-button institute">
-                        <i class="fa fa-arrow-up"></i>
-                    </span>
-            </div>
         </div>
 
         <div class="input-section course-section folded">
