@@ -627,7 +627,7 @@
         
                     <div id="member1" class="members">
                         <div class="wrap-input100 validate-input" id="the-basics">
-                            <input id="email" class="input100 typeahead" type="text" name="user" placeholder="Enter Member 1 Username " required>
+                            <input id="email" class="input100 typeahead" type="text" name="user" value="{{ Auth::user()->username }}" required>
                             <span class="focus-input100"></span>
                             <label class="label-input100" for="email">
                                 <span class="fa fa-user"></span>
