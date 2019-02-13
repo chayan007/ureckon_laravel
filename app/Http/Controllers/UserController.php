@@ -23,4 +23,27 @@ class UserController extends Controller
         $participant->image_url = $path;
         return redirect('/profile');
     }
+
+    public function register(Request $request)
+    {
+        $user = new User();
+        $user->name = $request->name;
+        $user->email = $request->email;
+        $user->password = $request->password;
+        $user->year = $request->year;
+        $user->institute = $request->institute;
+        $user->phone = $request->phone;
+        $user->course = $request->course;
+        $user->username = $request->username;
+        $user->save();
+        $credentials = $request->only('email', 'password');
+        if (Auth::attempt($credentials))
+        {
+            return redirect('/user/profile');
+        }
+        else
+        {
+            return back();
+        }
+    }
 }
