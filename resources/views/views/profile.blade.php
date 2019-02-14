@@ -28,7 +28,7 @@
                 <a href="/workshop" class="disc l3">
                   <div>Workshop</div>
                 </a>
-                <a href="/events" class="disc l4">
+                <a href="/user/events" class="disc l4">
                   <div>Events</div>
                 </a>
                 <a class="disc l5 toggle">
@@ -80,6 +80,8 @@
                         </span>
                     </ul>
                 </div>
+                <a name="" id="" class="btn btn-info btn-block" href="/user/events" role="button">Events Page</a>
+                <a name="" id="" class="btn btn-info btn-block" href="/user/logout" role="button">Logout</a>
             </div>
 
         </div>
