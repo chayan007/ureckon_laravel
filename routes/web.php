@@ -28,9 +28,9 @@ Route::view('/team', 'views.teams');
 Route::view('/events', 'views.events');
 Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
-Route::post('/registerEvent', 'RegisterController@register');
+Route::post('/registerEvent', 'RegistrationController@register');
 Route::group(['prefix' => 'user'], function () {
-    Route::post('/registerEvent', 'RegisterController@register');
+    Route::post('/registerEvent', 'RegistrationController@register');
     Route::view('/events', 'views.events');
     Route::get('/dashboard', 'UserController@profile');
     Route::get('/login', 'UserAuth\LoginController@showLoginForm')->name('login');
