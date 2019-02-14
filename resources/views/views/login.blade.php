@@ -31,68 +31,67 @@
         </nav>
 
         <div class="back"></div>
-<div class="registration-form">
-    <header>
-        <h1>Log In</h1>
-        <p>Fill in all informations</p>
-    </header>
-    <!-- <form action="/user/login" method="POST">
-        @csrf
-        <div class="form-group">
-            <label for="">Email</label>
-            <input type="email" class="form-control" name="email" id="" aria-describedby="helpId" placeholder="">
-        </div>
-        <div class="form-group">
-            <label for="">Password</label>
-            <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
-        <div class="go__back">
-        <a href="/home"><i class="fas fa-arrow-left"></i></a>
-        <a class="go__back-right" href="/signup">Sign Up</a>
-        </div> -->
+        <div class="registration-form">
+            <header>
+                <h1>Log In</h1>
+                <p>Fill in all informations</p>
+            </header>
+            <!-- <form action="/user/login" method="POST">
+                @csrf
+                <div class="form-group">
+                    <label for="">Email</label>
+                    <input type="email" class="form-control" name="email" id="" aria-describedby="helpId" placeholder="">
+                </div>
+                <div class="form-group">
+                    <label for="">Password</label>
+                    <input type="password" class="form-control" name="password" id="" aria-describedby="helpId" placeholder="">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+                <div class="go__back">
+                <a href="/home"><i class="fas fa-arrow-left"></i></a>
+                <a class="go__back-right" href="/signup">Sign Up</a>
+                </div> -->
 
 
 
-        <form action="/user/login" method="POST">
-        @csrf
-        <div class="input-section email-section">
-            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" name="email" id="" aria-describedby="helpId" />
-            <div class="animated-button">
-                <span class="icon-paper-plane">
-                    <i class="fa fa-envelope-o"></i>
-                </span>
-                <span class="next-button email">
-                    <i class="fa fa-arrow-up"></i>
-                </span>
+                <form action="/user/login" method="POST">
+                @csrf
+                <div class="input-section email-section">
+                    <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" name="email" id="" aria-describedby="helpId" />
+                    <div class="animated-button">
+                        <span class="icon-paper-plane">
+                            <i class="fa fa-envelope-o"></i>
+                        </span>
+                        <span class="next-button email">
+                            <i class="fa fa-arrow-up"></i>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="input-section password-section folded">
+                    <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" name="password" id="" aria-describedby="helpId"/>
+                    <div class="animated-button">
+                        <span class="icon-lock">
+                            <i class="fa fa-lock"></i>
+                        </span>
+                        <button>
+                            <span class="next-button password">
+                                <i class="fa fa-paper-plane"></i>
+                            </span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="success">
+                    <p>LOGGED IN!</p>
+                </div>
+            </form>    
+            <div class="go__back">
+                <a href="/home"><i class="fas fa-arrow-left"></i></a>
+                <a class="go__back-right" href="/signup">Sign Up</a>
             </div>
         </div>
-
-        <div class="input-section password-section folded">
-            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" name="password" id="" aria-describedby="helpId"/>
-            <div class="animated-button">
-                <span class="icon-lock">
-                    <i class="fa fa-lock"></i>
-                </span>
-                <button>
-                    <span class="next-button password">
-                        <i class="fa fa-paper-plane"></i>
-                    </span>
-                </button>
-            </div>
-        </div>
-
-        <div class="success">
-            <p>LOGGED IN!</p>
-        </div>
-    </form>    
-    <div class="go__back">
-        <a href="/home"><i class="fas fa-arrow-left"></i></a>
-        <a class="go__back-right" href="/signup">Sign Up</a>
-    </div>
-</div>
-</div>
 
 
 

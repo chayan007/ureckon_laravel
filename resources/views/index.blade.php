@@ -23,6 +23,8 @@
           </div>
           <div class="logo__ureckon">
               <img  class="logo__ureckon" src="{{asset('images/Asset 67.png')}}"  alt="">
+              <h6>In association with</h6>
+              <img style="width:50%; height: auto;" class="logo__UEM" src="{{asset('images/telegraph.png')}}" alt="">
           </div>
           <div class="logo__IEM">
               <img  class="logo__IEM" src="{{asset('images/UEM-IEM/IEM_03.png')}}"  alt="">
