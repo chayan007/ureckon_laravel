@@ -15,7 +15,7 @@ class UserController extends Controller
     {
         if(Auth::check())
         {
-            $participant = Participants::where('user', Auth::user()->id)->get();
+            $participant = Participants::where('user', Auth::user()->username)->get();
             $user = User::where('id', Auth::id())->first();
             return view('views.profile', ['participants' => $participant, 'user'=> $user]);
         }
