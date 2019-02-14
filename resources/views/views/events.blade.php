@@ -626,6 +626,7 @@
         
                 <form class="contact100-form" method="POST" id="registrationform" action="/user/registerEvent">
                     @csrf
+                    <input type="hidden" name="event">
                     <div class="wrap-input100 validate-input">
                         <input id="name" class="input100" type="text" name="team" placeholder="Team Name" autocomplete="off" required>
                         <span class="focus-input100"></span>
@@ -683,7 +684,17 @@
                     <button id="delmember" class="btn btn-danger btn-sm" type="button">-</button>
         
                     <div class="container-contact100-form-btn">
-                        <input type="submit" class="btn-block" value="Submit">
+                        <input type="submit" class="btn-block" value="Submit" onclick="checkform()">
+                        <script>
+                            function checkform()
+                            {
+                                var event = document.getElementsById('event_form');
+                                event.value = 'Coding';
+//                                please use appropriate logic here
+                                document.getElementById("registrationform").submit();
+                            }
+                            }
+                        </script>
                     </div>
                 </form>
             </div>

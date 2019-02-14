@@ -32,9 +32,7 @@ class RegistrationController extends Controller
         {
             $participant->username5 = $request->username5;
         }
-
         $participant->save();
-        return back();
-
+        return redirect('/user/dashboard');
     }
 }
