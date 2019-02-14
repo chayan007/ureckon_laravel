@@ -716,9 +716,9 @@
         @endguest
         </div>
 
-        <footer class="footer footer__web">
+        <footer class="footer footer__events">
         <div class="container">
-            <div class="footer__aboutus-links">
+            <div class="footer__events-links">
                 <div>
                   <h6 >
                     <a href="/about">About</a>
@@ -752,7 +752,7 @@
             </div>
           </div>
             <div >
-              <div class="footer__aboutus-socials">
+              <div class="footer__events-socials">
                 <!-- Facebook -->
                 <a href="https://facebook.com/ureckon.uemk" class="fb-ic">
                   <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
