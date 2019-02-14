@@ -624,7 +624,7 @@
                     <span>Register</span>
                 </div>
         
-                <form class="contact100-form validate-form" method="POST" id="registrationform" action="/registerEvent">
+                <form class="" method="POST" id="registrationform" action="/registerEvent">
                     @csrf
                     <div class="wrap-input100 validate-input">
                         <input id="name" class="input100" type="text" name="team" placeholder="Team Name" autocomplete="off" required>
@@ -683,7 +683,7 @@
                     <button id="delmember" class="btn btn-danger btn-sm" type="button">-</button>
         
                     <div class="container-contact100-form-btn">
-                        <input type="submit" class="contact100-form-btn" value="Submit">
+                        <input type="submit" class="btn-success btn-block" value="Submit">
                     </div>
                 </form>
             </div>
