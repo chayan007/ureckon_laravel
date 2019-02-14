@@ -11,12 +11,28 @@ class RegistrationController extends Controller
     {
         $participant = new Participants();
         $participant->user = $request->user;
-        $participant->event = $request->event;
+        if($request->has(event))
+        {
+            $participant->event = $request->event;
+        }
         $participant->team = $request->team;
-        $participant->username2 = $request->username2;
-        $participant->username3 = $request->username3;
-        $participant->username4 = $request->username4;
-        $participant->username5 = $request->username5;
+        if($request->has(username2))
+        {
+            $participant->username2 = $request->username2;
+        }
+        if($request->has(username3))
+        {
+            $participant->username3 = $request->username3;
+        }
+        if($request->has(username4))
+        {
+            $participant->username4 = $request->username4;
+        }
+        if($request->has(username5))
+        {
+            $participant->username5 = $request->username5;
+        }
+
         $participant->save();
         return back();
 
