@@ -47,7 +47,7 @@
                     @endif
                         <div class="input-group mt-3">
                         <div class="custom-file">
-                            <form action="/uploadDP" method="POST" enctype="multipart/form-data">
+                            <form action="/user/uploadDP" method="POST" enctype="multipart/form-data">
                                 @csrf
                             <input type="file" class="custom-file-input" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04">
                             <label class="custom-file-label" style="color:#000" for="inputGroupFile04">Upload Profile Picture</label>
