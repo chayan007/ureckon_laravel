@@ -578,7 +578,7 @@
                         <div class="card-body">
                             <h4 class="card-title">BioteXpression<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
-                            <p class="card-text lead"></p>
+                            <p class="card-text lead">"BIOTEXPRESSION ! " is an event where teams can showcase their working models with a connection to BIOTECHNOLOGY and show how it's useful in the real world</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Abarna Chatterjee <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
@@ -594,7 +594,7 @@
                         <div class="card-body">
                             <h4 class="card-title">Healthy Bites<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
-                            <p class="card-text lead"></h5>
+                            <p class="card-text lead">"HEALTHY BITES ! " is an event where teams have to cook food keeping in mind the healthy factor. After all, no one will mind having a plate of delicacies that are healthy</h5>
                             <p>Abarna Chatterjee <a href="tel:9051184627"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="https://drive.google.com/open?id=1jefoSrI6U4FLIY5wfrYPdb65RUA8--GJ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
