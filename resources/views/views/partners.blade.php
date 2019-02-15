@@ -241,7 +241,7 @@
         <!-- end of 7th partner section -->
         <!-- start of 8th partner section -->
         <div class="row label">
-          <h1 id="header" class="mt-4">Youtube Partners</h1>
+          <h1 id="header" class="mt-4">YouTube Partners</h1>
         </div>
         <!-- start of 1st row -->
         <div class="row">
