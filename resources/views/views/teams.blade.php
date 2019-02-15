@@ -392,7 +392,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://www.facebook.com/photo.php?fbid=2207175699346626&set=a.102135569850660&type=3&theater" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="https://scontent.fccu2-1.fna.fbcdn.net/v/t1.0-9/51664946_2207175706013292_4824786279721861120_n.jpg?_nc_cat=103&_nc_ht=scontent.fccu2-1.fna&oh=ae8a2f97470dca49beaa0bb622f6d9cd&oe=5CFBB45B" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Hemant Kumar Pandit</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -436,7 +436,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="https://www.facebook.com/arnabdas.das40" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="https://scontent.fccu2-1.fna.fbcdn.net/v/t1.0-1/50673226_2514127751993068_7157633895809155072_n.jpg?_nc_cat=107&_nc_ht=scontent.fccu2-1.fna&oh=a2e7b1ae7dda8d319e04bb0dedd8e7a8&oe=5CDD7F7A" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
