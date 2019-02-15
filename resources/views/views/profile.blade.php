@@ -40,11 +40,7 @@
         <div id="profile" class="card card-body bg-light">
             <div class="row">
                 <div class="col-md-4">
-                    @if(\Illuminate\Support\Facades\Auth::user()->image_url == NULL)
-                        <img src="https://source.unsplash.com/random" alt="profilepic" class="img__profile img-thumbnail img-fluid">
-                    @else
                         <img src="{{ Storage::url(\Illuminate\Support\Facades\Auth::user()->image_url) }}" alt="profilepic" class="img__profile img-thumbnail img-fluid">
-                    @endif
                         <div class="input-group mt-3">
                         <div class="custom-file">
                             <form action="/user/uploadDP" method="POST" enctype="multipart/form-data">
