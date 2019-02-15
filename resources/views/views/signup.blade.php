@@ -189,7 +189,7 @@
     </form>
 
     <div class="go__back-signup">
-        <a href="/home"><i class="fas fa-arrow-left"></i></a>
+        <a href="/"><i class="fas fa-arrow-left"></i></a>
         <a class="go__back-right" href="/signin">Log In</a>
     </div>
 </div>
