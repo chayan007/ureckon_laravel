@@ -122,7 +122,7 @@
         </div>
 
         <div class="input-section year-section folded">
-                <input class="year" type="text" placeholder="ENTER YOUR YEAR HERE" autocomplete="off" name="year" id="" aria-describedby="helpId"/>
+                <input class="year" type="text" placeholder="ENTER YOUR USERNAME HERE" autocomplete="off" name="username" id="" aria-describedby="helpId"/>
                 <div class="animated-button">
                     <span class="icon-paper-plane">
                         <i class="fa fa-envelope-o"></i>
