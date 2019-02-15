@@ -692,7 +692,7 @@
                                 // event.value = 'Coding';
                                 // document.getElementById("registrationform").submit();
                                 var event = $('.contact100-form-title')[0].innerText;
-                                alert(event);
+                                console.log(event);
                             }
                             }
                         </script>
