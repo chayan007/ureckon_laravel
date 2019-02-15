@@ -32,7 +32,7 @@
     </nav>
 
 
-        <div class="partners">
+    <div class="partners">
             <div  class="partners__backdrop">
                 <div data-tilt class="display-3 partners__backdrop-title">Our Partners!</div>
                 <div class="partners__backdrop-subtitle">Jinhone saath diya humara!</div>
@@ -40,12 +40,12 @@
         <!-- <h3 id="subtext" class="mt-4">In Association With</h3>
         <div class="row">
           <div class="col-md-12 mt-4 mx-auto" id="main_logo">
-            <img class="img-fluid" src="images/partners/isro.png" alt="Isro logo" width="200" height="200">
+            <img class="img-fluid" src="../images/partners/isro.png" alt="Isro logo" width="200" height="200">
           </div>
         </div> -->
         <hr>
         <!-- end of hero -->
-
+  
         <!-- start of 1st partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Event Partners</h1>
@@ -53,52 +53,32 @@
         <!-- start of 1st row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/devc.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="200" height="200">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/devc.png" onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="200" height="200">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/gdg.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/gdg.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/wtm.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/wtm.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/girlsScript.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/intel.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/krs.jpeg" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="150" height="150">
           </div>
         </div>
-        <!-- end of 1st row -->
-
-        <!-- start of second row -->
-        <div style="text-align: center" class="row">
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/images.jpeg')}}"
-              onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="200" height="200">
-          </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/images.png')}}" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="300" height="300">
-          </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/logo_large.png')}}"
-              onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="300" height="300">
-          </div>
-        </div>
-        <!-- end of 2nd row -->
-
-        <!-- start of third row -->
-        <div style="text-align: center" class="row">
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/skubotics.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
-          <div style="text-align: center" class="row">
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/tcf logo.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
-        </div>
-        <!-- end of 2nd row -->
-        
+        <hr>
         <!-- end of 1st partner section -->
-
+        
         <!-- start of 2nd partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Workshop Partners</h1>
@@ -106,18 +86,26 @@
         <!-- start of 1st row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/skubotics.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/workshop_partners/skubotics.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
+          </div>
+          <!-- <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/workshop_partners/SlyladLogoVariant.png')}}"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
+          </div> -->
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/workshop_partners/SlyladLogoVariant1.png"
               onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
         </div>
         <!-- end of 1st row -->
-        
+        <hr>
         <!-- end of 2nd partner section -->
-<hr>
+  
         <!-- start of rnd partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Gaming Partners</h1>
@@ -125,22 +113,22 @@
         <!-- start of 1st row -->
         <!-- <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> -->
         <!-- end of 1st row -->
         <hr>
         <!-- end of 3rd partner section -->
-
+  
         <!-- start of 4th partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Online Media Partners</h1>
@@ -148,47 +136,40 @@
         <!-- start of 1st row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/KSLogo_Transparent.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/KSLogo_Transparent.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="250" height="250" style="padding-top: 20px;">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/ekaUreckonlogo.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/ekaUreckonlogo.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/quadcober-partnershiplogo.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/quadcober-partnershiplogo.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="400" height="400" style="padding-top: 40px">
           </div>
         </div>
         <!-- end of 1st row -->
-
+        
         <!-- start of 2nd row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/LOGO.png')}}" onmouseover="gray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/LOGO.png" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo"
-              src="{{ asset('images/partners/media_partners/TechnoSports Admin 😇 20190105_132043-01.png')}}" onmouseover="gray(this)"
+              src="../images/partners/media_partners/TechnoSports Admin 😇 20190105_132043-01.png" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/Logo.jpg')}}" onmouseover="gray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/Logo.jpg" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
-          </div>
-
-          <div style="text-align: center" class="row">
-            <div class="col-md-4">
-              <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/media_partners/eoh.jpg')}}" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="300" height="300">
-            </div>
-          </div>
+        </div>
         <!-- end of 2nd row -->
         <hr>
         <!-- end of 4th partner section -->
-
+  
         <!-- start of 5th partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Photography Partners</h1>
@@ -196,51 +177,46 @@
         <!-- start of 1st row -->
         <!-- <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
-          </div>
+          </div>-->
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
-        </div> -->
-        <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/Photography Partner/shutterbug.jpg')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/shutterbug.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> 
         <!-- end of 1st row -->
         <hr>
         <!-- end of 5th partner section -->
-
+  
         <!-- start of 6th partner section -->
-
+  
         <div class="row label">
           <h1 id="header" class="mt-4">Food Partners</h1>
         </div>
         <!-- start of 1st row -->
         <!-- <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> -->
         <!-- end of 1st row -->
         <hr>
         <!-- end of 6th partner section -->
-
+  
         <!-- start of 7th partner section -->
         <div class="row label">
           <h1 id="header" class="mt-4">Refreshment Partners</h1>
@@ -248,15 +224,15 @@
         <!-- start of 1st row -->
         <!-- <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> -->
@@ -265,20 +241,20 @@
         <!-- end of 7th partner section -->
         <!-- start of 8th partner section -->
         <div class="row label">
-          <h1 id="header" class="mt-4">Youtube Partners</h1>
+          <h1 id="header" class="mt-4">YouTube Partners</h1>
         </div>
         <!-- start of 1st row -->
         <div class="row">
                   <div class="col-md-4">
-                    <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/YouTube Partner/IMG-20190130-WA0019.jpg')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+                    <img class="mt-4 img-fluid partner_logo" src="../images/partners/YouTube Partner/IMG-20190130-WA0019.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
                       alt="" width="300" height="300">
                   </div>
                   <div class="col-md-4">
-                    <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/YouTube Partner/PicsArt_06-05-01.41.57.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+                    <img class="mt-4 img-fluid partner_logo" src="../images/partners/YouTube Partner/PicsArt_06-05-01.39.35.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
                       alt="" width="300" height="300">
                   </div>
                   <!-- <div class="col-md-4">
-                    <img class="mt-4 img-fluid partner_logo" src="images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+                    <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
                       alt="" width="300" height="300">
                   </div> -->
                 </div>
