@@ -105,7 +105,7 @@
                                 <p class="card-text lead">Need for Torque is all about grabbing the first position with maximum acceleration. Drift through the turnings and sprint along the straight track.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Debarup Sadhukan <a href="tel:7278816589"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278816589</a>
-                                <br>Hemant Kumar Pandit <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <br>Hemant Kumar Pandit <a href="tel:8820206593"><i class="fa fa-phone" aria-hidden="true"></i> +91 8820206593</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="" class="btn btn-primary float-right hvr-buzz btn-show-contact100">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="roborace">
@@ -120,6 +120,7 @@
                                 <p class="card-text lead">Bring on your ready to battle robots where the aim is to immobilize your opponent's bot and stand victorious. At the end it is all about Power and Torque.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Souradeep Ganguli <a href="tel:9903891285"><i class="fa fa-phone" aria-hidden="true"></i> +91 9903891285</a>
+                                <br>Gourav Chakraborty <a href="tel:8777084295"><i class="fa fa-phone" aria-hidden="true"></i> +91 8777084295</a>
                                 <br>Saamir Haque Molla <a href="tel:9903133041"><i class="fa fa-phone" aria-hidden="true"></i> +91 9903133041</a>
                                 <br>Anurag Singh <a href="tel:836558038"><i class="fa fa-phone" aria-hidden="true"></i> +91 836558038</a></p>
                                 <a href="https://drive.google.com/open?id=1V0je9pKkiIA9YXSklQPTQRBjpEdnWRLH" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
@@ -154,7 +155,7 @@
                             <p class="card-text lead">The knack of fusing technology with sports seems to be an inherent quality among us, and to celebrate this very spirit, we hail this event known as RoboSoccer.</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Subhadeep Kundu <a href="tel:7278707250"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278707250</a>
-                                <br>Gourav Chakraborty <a href="tel:8777084295"><i class="fa fa-phone" aria-hidden="true"></i> +91 8777084295</a></p>
+                            <br>Sunip Bhattacharya <a href="tel:"><i class="fa fa-phone" aria-hidden="true"></i> +91 8777084295</a></p>
                             <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="robosoccer">
@@ -167,10 +168,9 @@
                     <div class="card-body">
                         <h4 class="card-title">Robo Rumble<div class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div>
                         </h4>
-                        <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text lead">Charge up the batteries and grease the fittings. Get ready to showcase your instinct and control over your creation in this nail biting event where Bots representing various institutes battle against one-another to survive till the end. Push your opponent off the ring or get knocked out. The ultimate survivor standing in the Rumble arena wins the battle.</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
-                            <p>Pritam Dutta <a href="tel:9804291109"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804291109</a>
+                            <p>Pritaam Dutta <a href="tel:9804291109"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804291109</a>
                                 <br>Shivangam Mookherjee <a href="tel:8697704316"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697704316</a></p>
                             <a href="https://drive.google.com/open?id=1TfeL3sZs2uALIspWWpu6IDFXVhe9STjQ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                         <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
@@ -214,7 +214,7 @@
                                     Code Golf is more than just logic; the shorter the code, the bigger the prizes.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Abhishek Madhu <a href="tel:7679396615"><i class="fa fa-phone" aria-hidden="true"></i> +91 7679396615</a>
-                                <br>Rajdeep Karmaker <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <br>Rajdeep Karmaker <a href="tel:8420703558"><i class="fa fa-phone" aria-hidden="true"></i> +91 8420703558</a></p>
                                 <a href="https://drive.google.com/open?id=1nPVmTKQoeE7z91M5tAwKR43GAB9nsVTI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="codegolf">
@@ -272,7 +272,8 @@
                                 <p class="card-text lead">Come prove you're the best counterstrike player in kolkata at one of the biggest techno management fest hosted by University of engineering and management. Come fight in a 2 vs 2 format and prove that your aim is the best that there is.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Pushpak Chakraborty <a href="tel:9038686250"><i class="fa fa-phone" aria-hidden="true"></i> +91 9038686250</a>
-                                <br>Rohit Chakraborty <a href="tel:8240253578"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240253578</a></p>
+                                <br>Rohit Chakraborty <a href="tel:8240253578"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240253578</a>
+                                <br>Soham Halder <a href="tel:8013308508"><i class="fa fa-phone" aria-hidden="true"></i> +91 8013308508</a></p>
                                 <a href="https://drive.google.com/open?id=1oT7QMkJOtelo3Gwy9I2dwGMiipCHQV2h" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="csgo">
@@ -287,7 +288,7 @@
                                 <p class="card-text lead">Drop down at UEM and show your skillset in the virtual world of Football.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <br>Richik Gangopadhyay <a href="tel:9674377482"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674377482</a>
-                                <br>Arnab Das <a href="tel:9230468967"><i class="fa fa-phone" aria-hidden="true"></i> +91 9230468967</a></p>
+                                <br>Debarghya Roy  <a href="tel:9083536633"><i class="fa fa-phone" aria-hidden="true"></i> +91 9083536633</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="fifa">
@@ -301,8 +302,8 @@
                                 <h4 class="card-title">NFS: Most Wanted<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Debarghya Roy <a href="tel:9083536633"><i class="fa fa-phone" aria-hidden="true"></i> +91 9083536633</a>
-                                <br>Subhrodip Mohanto <a href="tel:9007400495"><i class="fa fa-phone" aria-hidden="true"></i> +91 9007400495</a></p>
+                                <p>Subhrodip Mohanto<a href="tel:9007400495"><i class="fa fa-phone" aria-hidden="true"></i> +91 9007400495</a>
+                                <br>Saswata Dutta<a href="tel:9609461544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609461544</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
@@ -361,8 +362,7 @@
                                 <h4 class="card-title">VR Exhibition<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
                                 <p class="card-text lead"></p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Saswata Dutta <a href="tel:9609461544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609461544</a>
-                                <br>Antara Ghosh <a href="tel:8697577604"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697577604</a>
+                                <p>Antara Ghosh <a href="tel:8697577604"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697577604</a>
                             </div>
                     </div>
                 </div> 
@@ -521,7 +521,7 @@
                                 <p class="card-text lead">The seacrh is on. Test your brain with puzzles, riddles, and a treasure hunt that puts the best and brightest to shame.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a>
-                                <br>Prince Barai <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 </a></p>
+                                <br>Sapatarshi De <a href="tel:9674658868"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674658868</a>
                                 <a href="https://drive.google.com/open?id=1gxkr___SEc7a8WuSWG7eARK_8Sx70E_x" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__miscellaneous-button" id="cluex">
