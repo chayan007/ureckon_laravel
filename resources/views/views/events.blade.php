@@ -693,6 +693,7 @@
                                 // document.getElementById("registrationform").submit();
                                 var event = $('.contact100-form-title')[0].innerText;
                                 console.log(event);
+                                alert(event);
                             }
                             }
                         </script>
