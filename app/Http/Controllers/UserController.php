@@ -27,13 +27,13 @@ class UserController extends Controller
         }
     }
 
-    public function uploadDP(Request $request)
+    public function uploadDP(Request $request, $id)
     {
         $participant = User::where('id', Auth::id())->first();
         $file = $request->image;
         $path = $file->store('public/dp');
         $participant->image_url = $path;
-        return redirect('/profile');
+        return redirect('/user/dashboard');
     }
 
     public function register(Request $request)

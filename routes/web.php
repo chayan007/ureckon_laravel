@@ -21,7 +21,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::view('/signup', 'views.signup');
 Route::view('/signin', 'views.login');
 Route::view('/partners', 'views.partners');
-Route::get('/profile', 'UserController@profile');
 Route::view('/talks', 'views.talks');
 Route::view('/web', 'views.web');
 Route::view('/team', 'views.teams');
@@ -30,7 +29,8 @@ Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
 Route::post('/registerEvent', 'RegistrationController@register');
 Route::group(['prefix' => 'user'], function () {
-    Route::post('/uploadDP', 'UserController@uploadDP');
+    Route::get('/profile', 'UserController@profile');
+    Route::post('/uploadDP/{id}', 'UserController@uploadDP');
     Route::post('/registerEvent', 'RegistrationController@register');
     Route::view('/events', 'views.events');
     Route::get('/dashboard', 'UserController@profile');
