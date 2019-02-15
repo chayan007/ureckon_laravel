@@ -40,7 +40,7 @@
         <div id="profile" class="card card-body bg-light">
             <div class="row">
                 <div class="col-md-4">
-                        <img src="{{ Storage::url(\Illuminate\Support\Facades\Auth::user()->image_url) }}" alt="profilepic" class="img__profile img-thumbnail img-fluid">
+                        <img src="{{ Storage::url(\Illuminate\Support\Facades\Auth::user()->img_url) }}" alt="profilepic" class="img__profile img-thumbnail img-fluid">
                         <div class="input-group mt-3">
                         <div class="custom-file">
                             <form action="/user/uploadDP/{{ \Illuminate\Support\Facades\Auth::id() }}" method="POST" enctype="multipart/form-data">
