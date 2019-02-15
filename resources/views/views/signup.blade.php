@@ -30,7 +30,7 @@
                 </a>
         </nav>
 
-        <div class="back"></div>
+        <!-- <div class="back"></div>
         <form action="/user/register" method="post" enctype="multipart/form-data">
             @csrf
             <div class="form-group">
@@ -74,10 +74,129 @@
 
 <div class="progress">
         <div class="bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+</div> -->
+
+
+<div class="back"></div>
+<div class="registration-form">
+    <header>
+        <h1>Sign Up</h1>
+        <p>Fill in all informations</p>
+    </header>
+    <form action="/user/register" method="post" enctype="multipart/form-data">
+    @csrf
+        <div class="input-section name-section">
+            <input class="name" type="text" placeholder="ENTER YOUR FIRST NAME HERE" autocomplete="off" name="name" id="" aria-describedby="helpId" />
+            <div class="animated-button">
+                <span class="icon-paper-plane">
+                    <i class="fa fa-envelope-o"></i>
+                </span>
+                <span class="next-button name">
+                    <i class="fa fa-arrow-up"></i>
+                </span>
+            </div>
+        </div>
+
+        <div class="input-section institute-section folded">
+                <input class="institute" type="text" placeholder="ENTER YOUR INSTITUTE HERE" autocomplete="off" name="institute" id="" aria-describedby="helpId"/>
+                <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                    <span class="next-button institute">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+        </div>
+
+        <div class="input-section course-section folded">
+                <input class="course" type="text" placeholder="ENTER YOUR COURSE HERE" autocomplete="off" name="course" id="" aria-describedby="helpId" />
+                <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                    <span class="next-button course">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+        </div>
+
+        <div class="input-section year-section folded">
+                <input class="year" type="text" placeholder="ENTER YOUR YEAR HERE" autocomplete="off" name="year" id="" aria-describedby="helpId"/>
+                <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                    <span class="next-button year">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+        </div>
+
+        <div class="input-section phone-section folded">
+                <input class="phone" type="text" placeholder="ENTER YOUR PHONE NO. HERE" autocomplete="off" name="phone" id="" aria-describedby="helpId"/>
+                <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                    <span class="next-button phone">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+            </div>
+
+        <div class="input-section email-section folded">
+            <input class="email" type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" name="email" id="" aria-describedby="helpId"/>
+            <div class="animated-button">
+                <span class="icon-paper-plane">
+                    <i class="fa fa-envelope-o"></i>
+                </span>
+                <span class="next-button email">
+                    <i class="fa fa-arrow-up"></i>
+                </span>
+            </div>
+        </div>
+
+        <div class="input-section password-section folded">
+            <input class="password" type="password" placeholder="ENTER YOUR PASSWORD HERE" name="password" id="" aria-describedby="helpId"/>
+            <div class="animated-button">
+                <span class="icon-lock">
+                    <i class="fa fa-lock"></i>
+                </span>
+                <span class="next-button password">
+                    <i class="fa fa-arrow-up"></i>
+                </span>
+            </div>
+        </div>
+
+        <div class="input-section repeat-password-section folded">
+            <input class="repeat-password" type="password" placeholder="REPEAT YOUR PASSWORD HERE" name="password_confirmation" id="" aria-describedby="helpId"/>
+            <div class="animated-button">
+                <span class="icon-repeat-lock">
+                    <i class="fa fa-lock"></i>
+                </span>
+                <button type="submit" class="btn btn-primary">
+                    <span class="next-button repeat-password">
+                        <i class="fa fa-paper-plane"></i>
+                    </span>
+                </button>
+            </div>
+        </div>
+
+        <div class="success">
+            <p>REGISTRATION COMPLETE</p>
+        </div>
+    </form>
+
+    <div class="go__back-signup">
+        <a href="/home"><i class="fas fa-arrow-left"></i></a>
+        <a class="go__back-right" href="/signin">Log In</a>
+    </div>
 </div>
 
-
-
+<div class="progress">
+        <div class="bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
 
 
 
