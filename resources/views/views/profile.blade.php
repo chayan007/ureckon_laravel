@@ -51,7 +51,7 @@
                                 @csrf
                             <input type="file" class="custom-file-input" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04">
                             <label class="custom-file-label" style="color:#000" for="inputGroupFile04">Upload Profile Picture</label>
-                                <button type="submit" class="btn btn-info btn-block">
+                                <button type="submit" class="btn btn-info btn-block" style="margin: 5px; padding: 5px;" >
                                     Submit
                                 </button>
                             </form>
