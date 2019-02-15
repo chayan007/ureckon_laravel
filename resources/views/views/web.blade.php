@@ -127,7 +127,7 @@
                 </figure>
                 
                 <figure class="effect-apollo">
-                    <img src="" alt="img22" />
+                    <img src="{{ asset('images/teams/Web Graphics Team/Brinta Midya/LRM_EXPORT_137966442300087_20181108_183116008.jpeg')}}" alt="img22" />
                     <figcaption>
                         <h2>Binta <span>Midya</span></h2>
                         <p>Graphics Design</p>

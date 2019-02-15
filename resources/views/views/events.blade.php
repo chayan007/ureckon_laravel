@@ -303,7 +303,7 @@
                                 <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Subhrodip Mohanto<a href="tel:9007400495"><i class="fa fa-phone" aria-hidden="true"></i> +91 9007400495</a>
-                                <br>Saswata Dutta<a href="tel:9609461544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609461544</a></p>
+                                <br>Saswata Dutta<a href="tel:9609561544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609561544</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
@@ -414,7 +414,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Riddhiman <a href="tel:8337008899"><i class="fa fa-phone" aria-hidden="true"></i> +91 8337008899</a>
                                 <br>Anushree Roy <a href="tel:9674878086"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674878086</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1-5h97dfIsm2Z2OyJxsOH_kEJzBr2t8zf" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="aerostorm">
                                     Register
