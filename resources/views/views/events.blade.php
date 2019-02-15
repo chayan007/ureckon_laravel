@@ -167,8 +167,7 @@
                     <div class="card-body">
                         <h4 class="card-title">Robo Rumble<div class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div>
                         </h4>
-                        <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text lead">Charge up the batteries and grease the fittings. Get ready to showcase your instinct and control over your creation in this nail biting event where Bots representing various institutes battle against one-another to survive till the end. Push your opponent off the ring or get knocked out. The ultimate survivor standing in the Rumble arena wins the battle.</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Pritam Dutta <a href="tel:9804291109"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804291109</a>
                                 <br>Shivangam Mookherjee <a href="tel:8697704316"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697704316</a></p>
