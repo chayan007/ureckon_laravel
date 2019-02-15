@@ -373,7 +373,7 @@
 
             <section id="events-page__mechanics" class="events-page__mechanics">
                 <h3 class="events-page__mechanics-title display-4">
-                    Wrench and Bolts!
+                    <center>Wrench and Bolts!</center>
                 </h3>
                 <div class="events-page__mechanics-cards">
                     <div class="card">
@@ -578,7 +578,7 @@
                         <div class="card-body">
                             <h4 class="card-title">BioteXpression<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
-                            <p class="card-text lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus nesciunt ullam asperiores delectus quisquam officia.</p>
+                            <p class="card-text lead"></p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Abarna Chatterjee <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
