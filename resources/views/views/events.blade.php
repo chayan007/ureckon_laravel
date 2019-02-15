@@ -106,7 +106,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Debarup Sadhukan <a href="tel:7278816589"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278816589</a>
                                 <br>Hemant Kumar Pandit <a href="tel:8820206593"><i class="fa fa-phone" aria-hidden="true"></i> +91 8820206593</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1aqH--8z92g4nzAE9u0NKZO2zw6O5kca0" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="" class="btn btn-primary float-right hvr-buzz btn-show-contact100">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="roborace">
                                     Register
@@ -156,7 +156,7 @@
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Subhadeep Kundu <a href="tel:7278707250"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278707250</a>
                             <br>Sunip Bhattacharya <a href="tel:8240225976"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240225976</a></p>
-                            <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                            <a href="https://drive.google.com/open?id=1bu-pBGHKWcXci0W8BkCeQ2MubtgmGnc2" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="robosoccer">
                                 Register
@@ -247,7 +247,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Sagnik Bhattacharya <a href="tel:9804044741"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804044741</a>
                                 <br>Pratik Goel <a href="tel:9051481667"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051481667</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1Xme_AtIQIH13jUwqmz6V9uyGdKBbv5u7" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="debugging">
                                     Register
@@ -289,7 +289,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <br>Richik Gangopadhyay <a href="tel:9674377482"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674377482</a>
                                 <br>Debarghya Roy  <a href="tel:9083536633"><i class="fa fa-phone" aria-hidden="true"></i> +91 9083536633</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1Ed27WMis-4NusQHgygh4uW7eByOHJfOe" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="fifa">
                                     Register
@@ -300,7 +300,7 @@
                             <img src="{{ asset('images/events/nfs.jpg')}}" class="card-img-top events-page__gaming-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">NFS: Most Wanted<div  class="float-right events-page__gaming-badge badge badge-secondary">Gaming</div></h4>
-                                <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <p class="card-text lead">In an open world with no menus or lobbies, you’ll be able to instantly challenge your friends and prove your driving skill in a variety of seamless multiplayer events. Your rivals will do everything they can to stop you from getting to the top. In this world, there can only be one Most Wanted.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Subhrodip Mohanto<a href="tel:9007400495"><i class="fa fa-phone" aria-hidden="true"></i> +91 9007400495</a>
                                 <br>Saswata Dutta<a href="tel:9609561544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609561544</a></p>
@@ -481,7 +481,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Satwik Das <a href="tel:8910230982"><i class="fa fa-phone" aria-hidden="true"></i> +91 8910230982</a>
                                 <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1-O9sCKKZXy7LPmWekLON_RSyTEQCbTed" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__business-button" id="getsetsell">
                                     Register
@@ -580,7 +580,7 @@
                             </h4>
                             <p class="card-text lead">"BIOTEXPRESSION ! " is an event where teams can showcase their working models with a connection to BIOTECHNOLOGY and show how it's useful in the real world</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
-                            <p>Abarna Chatterjee <a href="tel:000"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
+                            <p>Abarna Chatterjee <a href="tel:9051184627"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051184627</a>
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="https://drive.google.com/open?id=1l5IYNbJN8_BTZ_mfB5jnnn-6mcRM9pdI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
