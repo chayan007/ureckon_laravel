@@ -944,7 +944,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Promo Team/')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="https://scontent.fccu2-1.fna.fbcdn.net/v/t1.0-9/48039907_1246897282109087_3622476851689029632_n.jpg?_nc_cat=105&_nc_ht=scontent.fccu2-1.fna&oh=d8f71dab4aafdcc7710ff2daf80432e9&oe=5CEAFADB" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Supratim Mukherjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
