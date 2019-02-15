@@ -47,9 +47,11 @@
                     @endif
                         <div class="input-group mt-3">
                         <div class="custom-file">
-                            <form action="/uploadDP"></form>
+                            <form action="/uploadDP">
+                                @csrf
                             <input type="file" class="custom-file-input" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04">
                             <label class="custom-file-label" style="color:#000" for="inputGroupFile04">Upload Profile Picture</label>
+                            </form>
                         </div>
                         <!-- <div class="input-group-append">
                             <button class="btn btn-primary" type="button" id="inputGroupFileAddon04">Button</button>
