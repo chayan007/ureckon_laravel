@@ -262,7 +262,7 @@
 
             <section id="events-page__gaming" class="events-page__gaming">
                 <h3 class="events-page__gaming-title display-4">
-                    Do you game bruh!?
+                    <center>Do you game bruh!?</center>
                 </h3>
                 <div class="events-page__gaming-cards">
                     <div class="card">
