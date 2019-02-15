@@ -29,6 +29,7 @@ class UserController extends Controller
 
     public function uploadDP(Request $request, $id)
     {
+        dd($request->image);
         $participant = User::where('id', $id)->first();
         $file = $request->image;
         $path = $file->store('public/dp');
