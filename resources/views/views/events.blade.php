@@ -99,7 +99,7 @@
                 </h3>
                 <div class="events-page__robotics-cards">
                     <div class="card">
-                            <img src="{{ asset('images/events/roborace.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/NFT.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Need For Torque - NFT<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Need for Torque is all about grabbing the first position with maximum acceleration. Drift through the turnings and sprint along the straight track.</p>
@@ -114,7 +114,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="{{ asset('images/events/robowar.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/robodangal.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Robo Dangal<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Bring on your ready to battle robots where the aim is to immobilize your opponent's bot and stand victorious. At the end it is all about Power and Torque.</p>
@@ -132,7 +132,7 @@
                     </div>
 
                     <div class="card">
-                            <img src="{{ asset('images/events/line_follower_1.png')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                            <img src="{{ asset('images/events/dirrecion.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Dirrecion<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                                 <p class="card-text lead">Obedient bot? Follows the line only? Never jumps out of track ? Then your bot is perfect to win this event. Bring your bot and make sure it follows the line till the end.</p>
@@ -149,7 +149,7 @@
                     </div>
 
                     <div class="card">
-                        <img src="{{ asset('images/events/roboleague.jpeg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
+                        <img src="{{ asset('images/events/roboleague.jpg')}}" class="card-img-top events-page__robotics-cards-image" alt="events pictures">
                         <div class="card-body">
                             <h4 class="card-title">Robo League<div  class="float-right events-page__robotics-badge badge badge-secondary">Robotics</div></h4>
                             <p class="card-text lead">The knack of fusing technology with sports seems to be an inherent quality among us, and to celebrate this very spirit, we hail this event known as RoboSoccer.</p>

@@ -359,7 +359,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh(dirrecion)/DLXT9332.JPG')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Adarsh Kumar Singh (dirrecion)/DLXT9332.JPG')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Adarsh Kumar Singh</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -426,7 +426,7 @@
 
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Pritaam Dutta(robo rumble)-cse3b/FB_IMG_1549769644791.jpg')}}'" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Pritaam Dutta(robo rumble)-cse3b/FB_IMG_1549769644791.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Pritaam Dutta</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -654,7 +654,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('') }}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Abhinaba Banerjee ECE 4B-35 (PUBG)/IMG-20181025-WA0051.jpg') }}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Abhinaba Bannerjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -684,7 +684,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="/events">Counter Strike: GO / 1.6</a>
+                            <a href="/events">Counter Strike: GO</a>
                             
                         </div>
                     </div>
@@ -702,13 +702,13 @@
                     </div>
 			
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('https://drive.google.com/open?id=13EucEfEgU-Upp1QHKKUgTkXwnVgLrR66')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Debarghya Roy</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">NFS: Most Wanted</a>
+                            <a href="/events">FIFA</a>
                         </div>
                     </div>
 
@@ -736,13 +736,13 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="../images/teams/Event Coordinator/Arnab " class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Arnab')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="/events">FIFA</i></a>
+                            <a href="/events">Robo Dangal</i></a>
                         </div>
                     </div>
                     <div class="card card__teams">
@@ -763,7 +763,7 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="/events">VR EXHIBITION</a>
+                            <a href="/events">NFS: Most Wanted</a>
 
                         </div>
                     </div>
@@ -930,7 +930,7 @@
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Promo Team/DSC_0034-01.jpeg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Promo Team/')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Supratim Mukherjee</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
