@@ -688,10 +688,11 @@
                         <script>
                             function checkform()
                             {
-                                var event = document.getElementsById('event_form');
-                                event.value = 'Coding';
-//                                please use appropriate logic here
-                                document.getElementById("registrationform").submit();
+                                // var event = document.getElementsById('event_form');
+                                // event.value = 'Coding';
+                                // document.getElementById("registrationform").submit();
+                                var event = $('.contact100-form-title')[0].innerText;
+                                alert(event);
                             }
                             }
                         </script>
@@ -777,7 +778,7 @@
             </div>
            </div>
         </div>
-        <div class="footer__web-copyright">© 2019 Copyright:
+        <div class="footer__events-copyright">© 2019 Copyright:
           <a href="https://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
