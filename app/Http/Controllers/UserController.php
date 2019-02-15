@@ -33,6 +33,7 @@ class UserController extends Controller
         $file = $request->image;
         $path = $file->store('public/dp');
         $participant->img_url = $path;
+        $participant->save();
         return redirect('/user/dashboard');
     }
 
