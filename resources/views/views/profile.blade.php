@@ -40,9 +40,14 @@
         <div id="profile" class="card card-body bg-light">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="https://source.unsplash.com/random" alt="profilepic" class="img__profile img-thumbnail img-fluid">
-                    <div class="input-group mt-3">
+                    @if(\Illuminate\Support\Facades\Auth::user()->image_url == NULL)
+                        <img src="https://source.unsplash.com/random" alt="profilepic" class="img__profile img-thumbnail img-fluid">
+                    @else
+                        <img src="{{ Storage::url(\Illuminate\Support\Facades\Auth::user()->image_url) }}" alt="profilepic" class="img__profile img-thumbnail img-fluid">
+                    @endif
+                        <div class="input-group mt-3">
                         <div class="custom-file">
+                            <form action="/uploadDP"></form>
                             <input type="file" class="custom-file-input" id="inputGroupFile04" aria-describedby="inputGroupFileAddon04">
                             <label class="custom-file-label" style="color:#000" for="inputGroupFile04">Upload Profile Picture</label>
                         </div>

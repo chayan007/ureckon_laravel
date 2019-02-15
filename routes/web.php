@@ -30,6 +30,7 @@ Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
 Route::post('/registerEvent', 'RegistrationController@register');
 Route::group(['prefix' => 'user'], function () {
+    Route::post('/uploadDP', 'UserController@uploadDP');
     Route::post('/registerEvent', 'RegistrationController@register');
     Route::view('/events', 'views.events');
     Route::get('/dashboard', 'UserController@profile');

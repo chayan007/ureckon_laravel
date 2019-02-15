@@ -614,6 +614,21 @@
     </div>
 
     <div class="container-contact100" id="output">
+        @guest
+        <div class="wrap-contact100" id="notSigned">
+            <button class="btn-hide-contact100 mt-2" >
+                <i class="far fa-times-circle"></i>
+            </button>
+            <div class="contact100-form-title" style="background: #eeeeee">
+                <span style="text-align:center;">It seems like you are not signed up. Sign Up here:</span>
+            </div>
+            <div class="container-contact100-form-btn">
+                <a href="/signup"><button class="contact100-form-btn">
+                        Sign Up
+                    </button></a>
+            </div>
+        </div>
+        @endguest
         @auth
             <div class="wrap-contact100" id="signed">
                 <button class="btn-hide-contact100">
@@ -699,21 +714,6 @@
                 </form>
             </div>
         @endauth
-        @guest
-            <div class="wrap-contact100" id="notSigned">
-                <button class="btn-hide-contact100 mt-2" >
-                    <i class="far fa-times-circle"></i>
-                </button>
-                <div class="contact100-form-title" style="background: #eeeeee">
-                    <span style="text-align:center;">It seems like you are not signed up. Sign Up here:</span>
-                </div>
-                <div class="container-contact100-form-btn">
-                    <a href="/signup"><button class="contact100-form-btn">
-                            Sign Up
-                        </button></a>
-                </div>
-            </div>
-        @endguest
         </div>
 
         <footer class="footer footer__events">
