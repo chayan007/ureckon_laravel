@@ -725,7 +725,7 @@
                     </div>
 			
                     <div class="card card__teams">
-                        <img src="{{ asset('')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="https://scontent.fccu2-1.fna.fbcdn.net/v/t1.0-9/49124927_2269604359979283_7815887068994732032_n.jpg?_nc_cat=100&_nc_ht=scontent.fccu2-1.fna&oh=b5b87146cefd03d33ac2d402c17c89fd&oe=5CF75F90" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Debarghya Roy</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
