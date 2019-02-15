@@ -424,6 +424,27 @@
                         </div>
                     </div>
 
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Sunip Bhattacharyya/IMG_20190130_220407.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Sunip Bhattacharyya</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">Robo League</i></a>
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">Robo Dangal</i></a>
+                        </div>
+                    </div>
 
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Pritaam Dutta(robo rumble)-cse3b/FB_IMG_1549769644791.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
@@ -625,19 +646,31 @@
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Counter Strike</a>
+                            <a href="./events.html">Counter Strike: GO</a>
                         </div>
                     </div>
 
                     <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Rohit Chakraborty /IMG_20190126_150520.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('images/teams/Event Coordinator/Rohit Chakraborty/IMG_20190126_150520.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Rohit Chakraborty</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
                         </div>
                         <div class="teams-page__coordinator-cards-social">
-                            <a href="./events.html">Counter Strike</a>
+                            <a href="./events.html">Counter Strike: GO</a>
 
+                        </div>
+                    </div>
+
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Soham Halder/IMG_20170515_155328_078.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Soham Halder</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">Counter Strike: GO</a>
+                            
                         </div>
                     </div>
 
@@ -677,17 +710,7 @@
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Soham Halder/IMG_20170515_155328_078.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Soham Halder</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="/events">Counter Strike: GO</a>
-                            
-                        </div>
-                    </div>
+                    
 
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Radhika Mirani CSE 4A-43/FB_IMG_15497303792303496.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
@@ -702,7 +725,7 @@
                     </div>
 			
                     <div class="card card__teams">
-                        <img src="{{ asset('https://drive.google.com/open?id=13EucEfEgU-Upp1QHKKUgTkXwnVgLrR66')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <img src="{{ asset('')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
                             <h4 class="card-title teams-page__coordinator-cards-body-name">Debarghya Roy</h4>
                             <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
@@ -735,16 +758,7 @@
                         </div>
                     </div>
 
-                    <div class="card card__teams">
-                        <img src="{{ asset('images/teams/Event Coordinator/Arnab')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
-                        <div class="teams-page__coordinator-cards-body">
-                            <h4 class="card-title teams-page__coordinator-cards-body-name">Arnab Das</h4>
-                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
-                        </div>
-                        <div class="teams-page__coordinator-cards-social">
-                            <a href="/events">Robo Dangal</i></a>
-                        </div>
-                    </div>
+                    
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Antara Ghosh (VR Exebition)/IMG_20190210_101711_834.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
                         <div class="teams-page__coordinator-cards-body">
