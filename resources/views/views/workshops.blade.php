@@ -65,7 +65,7 @@
                 </h3>
                 <div class="workshops-page__content-cards">
                     <div class="card">
-                            <img src="{{ asset('images/uion.png')}}" class="card-img-top workshops-page__content-cards-image" alt="workshops pictures">
+                            <img src="{{ asset('images/union.png')}}" class="card-img-top workshops-page__content-cards-image" alt="workshops pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Uni On'19<div  class="float-right workshops-page__content-badge badge badge-secondary">Workshops</div></h4>
                                 <p class="card-text lead">2 Day Unity Game Development Workshop <br> <strong>Date : 2nd - 3rd Feb</strong></p>
@@ -74,7 +74,7 @@
                             </div>
                     </div>
                     <div class="card">
-                            <img src="{{ asset('images/iot.jpg')}}" class="card-img-top workshops-page__content-cards-image" alt="workshops pictures">
+                            <img src="{{ asset('images/iot.png')}}" class="card-img-top workshops-page__content-cards-image" alt="workshops pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Industry 4.0<div  class="float-right workshops-page__content-badge badge badge-secondary">Workshops</div></h4>
                                 <p class="card-text lead">One Day Workshop on IOT & Home Automation by Skubotics <br><strong>Date : 16th Feb</strong></p>
