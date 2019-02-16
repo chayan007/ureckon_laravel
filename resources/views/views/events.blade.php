@@ -133,12 +133,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -183,12 +184,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -233,12 +235,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -293,6 +296,7 @@
                                     </div>
                                 </div>
                             </div>
+
                             @endguest
                         </div>
                 </div>
@@ -393,12 +397,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -442,12 +447,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -490,12 +496,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -540,12 +547,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -600,12 +608,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -648,12 +657,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -696,12 +706,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -751,12 +762,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -806,12 +818,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -875,12 +888,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -923,12 +937,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -971,12 +986,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1030,12 +1046,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1078,12 +1095,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1137,12 +1155,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1185,12 +1204,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1212,10 +1232,10 @@
                     <div class="card">
                             <img src="{{ asset('images/events/thinkq.jpg')}}" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
                             <div class="card-body">
-                                <h4 class="card-title">ClueX<div  class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
+                                <h4 class="card-title">ClueX<div class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
                                 <p class="card-text lead">The seacrh is on. Test your brain with puzzles, riddles, and a treasure hunt that puts the best and brightest to shame.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a>
+                                <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a></p>
                                 <br>Sapatarshi De <a href="tel:9674658868"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674658868</a>
                                 <a href="https://drive.google.com/open?id=1gxkr___SEc7a8WuSWG7eARK_8Sx70E_x" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
@@ -1244,12 +1264,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1292,12 +1313,13 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                                Body
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1370,12 +1392,13 @@
                                             <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                         </div>
                                         <div class="modal-body">
-                                            You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                            Body
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                 Close
                                             </button>
+                                            <button type="button" class="btn btn-primary">Save</button>
                                         </div>
                                     </div>
                                 </div>
@@ -1418,12 +1441,13 @@
                                             <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                         </div>
                                         <div class="modal-body">
-                                            You are not logged in ! <a href="/signin">Click Here to Login</a>
+                                            Body
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                 Close
                                             </button>
+                                            <button type="button" class="btn btn-primary">Save</button>
                                         </div>
                                     </div>
                                 </div>
