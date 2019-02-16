@@ -241,11 +241,11 @@
         <!-- start of 1st row -->
         <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Food Partner/chufang.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Food Partner/tea_junction.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <!-- <div class="col-md-4">
