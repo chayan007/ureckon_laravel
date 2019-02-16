@@ -75,6 +75,46 @@
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/krs.jpeg" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="150" height="150">
           </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
         </div>
         <hr>
         <!-- end of 1st partner section -->
@@ -87,7 +127,7 @@
         <div style="text-align: center" class="row">
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/workshop_partners/skubotics.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
+              alt="" width="300" height="300" style="padding-top: 80px">
           </div>
           <!-- <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
@@ -199,7 +239,7 @@
           <h1 id="header" class="mt-4">Food Partners</h1>
         </div>
         <!-- start of 1st row -->
-        <!-- <div class="row">
+        <div class="row">
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
@@ -208,11 +248,11 @@
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
-          </div>
-        </div> -->
+          </div> -->
+        </div>
         <!-- end of 1st row -->
         <hr>
         <!-- end of 6th partner section -->
