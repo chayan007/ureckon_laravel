@@ -108,9 +108,44 @@
                                 <br>Hemant Kumar Pandit <a href="tel:8820206593"><i class="fa fa-phone" aria-hidden="true"></i> +91 8820206593</a></p>
                                 <a href="https://drive.google.com/open?id=1aqH--8z92g4nzAE9u0NKZO2zw6O5kca0" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="" class="btn btn-primary float-right hvr-buzz btn-show-contact100">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="roborace">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -125,9 +160,43 @@
                                 <br>Anurag Singh <a href="tel:836558038"><i class="fa fa-phone" aria-hidden="true"></i> +91 836558038</a></p>
                                 <a href="https://drive.google.com/open?id=1V0je9pKkiIA9YXSklQPTQRBjpEdnWRLH" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="robowar">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                Body
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
 
@@ -142,9 +211,44 @@
                                 <br>Tathagata Bannerjee <a href="tel:9477583958"><i class="fa fa-phone" aria-hidden="true"></i> +91 9477583958</a></p>
                                 <a href="https://drive.google.com/open?id=1oUaGOZ2JEMMMeZFIqDPxF3QcOaOQvn2Y" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="linefollower">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
 
@@ -158,9 +262,45 @@
                             <br>Sunip Bhattacharya <a href="tel:8240225976"><i class="fa fa-phone" aria-hidden="true"></i> +91 8240225976</a></p>
                             <a href="https://drive.google.com/open?id=1bu-pBGHKWcXci0W8BkCeQ2MubtgmGnc2" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                            @auth
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="robosoccer">
                                 Register
                             </button>
+                            @endauth
+                            @guest
+                        <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                    data-target="#modelId">
+                                Register
+                            </button>
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                 aria-labelledby="modelTitleId" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                            <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                Close
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            @endguest
                         </div>
                 </div>
                 <div class="card">
@@ -174,9 +314,44 @@
                                 <br>Shivangam Mookherjee <a href="tel:8697704316"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697704316</a></p>
                             <a href="https://drive.google.com/open?id=1TfeL3sZs2uALIspWWpu6IDFXVhe9STjQ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                         <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                        @auth
                         <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__robotics-button" id="roborumble">
                             Register
                         </button>
+                        @endauth
+                        @guest
+                    <!-- Button trigger modal -->
+                        <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                data-target="#modelId">
+                            Register
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                             aria-labelledby="modelTitleId" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"
+                                                aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                        <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <a name="" id=""
+                                           class="btn btn-outline-warning btn-block"
+                                           href="/signin" role="button">Login</a>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                            Close
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        @endguest
                     </div>
                 </div>
                 
@@ -201,9 +376,45 @@
                                 <br>Sagnik Sengupta <a href="tel:9733197523"><i class="fa fa-phone" aria-hidden="true"></i> +91 9733197523</a></p>
                                 <a href="https://drive.google.com/open?id=171ty7P31JiPCimlFHVP2heDaK6qoQf_D" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="coderanch">
                                     Register
                                 </button>
+                                 @endauth
+                                 @guest
+                            <!-- Button trigger modal -->
+                                <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -217,9 +428,44 @@
                                 <br>Rajdeep Karmaker <a href="tel:8420703558"><i class="fa fa-phone" aria-hidden="true"></i> +91 8420703558</a></p>
                                 <a href="https://drive.google.com/open?id=1nPVmTKQoeE7z91M5tAwKR43GAB9nsVTI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="codegolf">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -232,12 +478,46 @@
                                 <p>Shalini Guha <a href="tel:9874646078"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874646078</a></p>
                                 <a href="https://drive.google.com/open?id=1ddiTAoVcEiloVgR4kugxWlTCcJuNu6eV" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="spyder">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
-
                     <div class="card">
                             <img src="{{ asset('images/events/debugger.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
@@ -249,9 +529,43 @@
                                 <br>Pratik Goel <a href="tel:9051481667"><i class="fa fa-phone" aria-hidden="true"></i> +91 9051481667</a></p>
                                 <a href="https://drive.google.com/open?id=1Xme_AtIQIH13jUwqmz6V9uyGdKBbv5u7" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="debugging">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                Body
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                                <button type="button" class="btn btn-primary">Save</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                 </div> 
@@ -276,9 +590,44 @@
                                 <br>Soham Halder <a href="tel:8013308508"><i class="fa fa-phone" aria-hidden="true"></i> +91 8013308508</a></p>
                                 <a href="https://drive.google.com/open?id=1oT7QMkJOtelo3Gwy9I2dwGMiipCHQV2h" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="csgo">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -291,9 +640,44 @@
                                 <br>Debarghya Roy  <a href="tel:9083536633"><i class="fa fa-phone" aria-hidden="true"></i> +91 9083536633</a></p>
                                 <a href="https://drive.google.com/open?id=1Ed27WMis-4NusQHgygh4uW7eByOHJfOe" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="fifa">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -306,9 +690,44 @@
                                 <br>Saswata Dutta<a href="tel:9609561544"><i class="fa fa-phone" aria-hidden="true"></i> +91 9609561544</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
 
@@ -328,9 +747,44 @@
                                 <br>Radhika Mirani <a href="tel:8100044545"><i class="fa fa-phone" aria-hidden="true"></i> +91 8100044545</a></p>
                                 <a href="https://drive.google.com/open?id=1NJWg36t8DplyARG8PuPArVyIh02wtCTR" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubg">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
 
@@ -350,9 +804,44 @@
                                 <br>Radhika Mirani <a href="tel:8100044545"><i class="fa fa-phone" aria-hidden="true"></i> +91 8100044545</a></p>
                                 <a href="https://drive.google.com/open?id=1NJWg36t8DplyARG8PuPArVyIh02wtCTR" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubg">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
 
@@ -386,9 +875,44 @@
                                 <br>Sambit Chakraborty <a href="tel:8902290887"><i class="fa fa-phone" aria-hidden="true"></i> +91 8902290887</a></p>
                                 <a href="https://drive.google.com/open?id=1-aT2Qr2fGd9xCfgjb3GvmYwcIY7ygZ9u" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="bridgemaking">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -401,9 +925,44 @@
                                 <br>Somipom Mondal <a href="tel:8918053544"><i class="fa fa-phone" aria-hidden="true"></i> +91 8918053544</a></p>
                                 <a href="https://drive.google.com/open?id=17fuG-oZjeoL1FL6m1AuYddJirzCVN1JV" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="armofhercules">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -416,9 +975,44 @@
                                 <br>Anushree Roy <a href="tel:9674878086"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674878086</a></p>
                                 <a href="https://drive.google.com/open?id=1-5h97dfIsm2Z2OyJxsOH_kEJzBr2t8zf" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__mechanics-button" id="aerostorm">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                 </div> 
@@ -442,9 +1036,44 @@
                                 <br>Pritam Dutta <a href="tel:9674038036"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674038036</a></p>
                                 <a href="https://drive.google.com/open?id=1sX8esgAboTuLoUN_E9zCO4kBkfRid5Bk" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__flagship-button" id="uic">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -457,9 +1086,44 @@
                                 <br>Hrithik Naha <a href="tel:7044098818"><i class="fa fa-phone" aria-hidden="true"></i> +91 7044098818</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__flagship-button" id="urecathon">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                 </div> 
@@ -483,9 +1147,44 @@
                                 <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                                 <a href="https://drive.google.com/open?id=1-O9sCKKZXy7LPmWekLON_RSyTEQCbTed" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__business-button" id="getsetsell">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -498,9 +1197,44 @@
                                 <br>Koyel Dey <a href="tel:8777252629"><i class="fa fa-phone" aria-hidden="true"></i> +91 8777252629</a></p>
                                 <a href="https://drive.google.com/open?id=1u3WWX-6cLF3R_stiPvKJD5cyl_ycr0yi" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__business-button" id="admaking">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                 </div> 
@@ -517,16 +1251,51 @@
                     <div class="card">
                             <img src="{{ asset('images/events/thinkq.jpg')}}" class="card-img-top events-page__miscellaneous-cards-image" alt="events pictures">
                             <div class="card-body">
-                                <h4 class="card-title">ClueX<div  class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
+                                <h4 class="card-title">ClueX<div class="float-right events-page__miscellaneous-badge badge badge-secondary">Brain Game</div></h4>
                                 <p class="card-text lead">The seacrh is on. Test your brain with puzzles, riddles, and a treasure hunt that puts the best and brightest to shame.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
-                                <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a>
+                                <p>Ronit Ray <a href="tel:7278250969"><i class="fa fa-phone" aria-hidden="true"></i> +91 7278250969</a></p>
                                 <br>Sapatarshi De <a href="tel:9674658868"><i class="fa fa-phone" aria-hidden="true"></i> +91 9674658868</a>
                                 <a href="https://drive.google.com/open?id=1gxkr___SEc7a8WuSWG7eARK_8Sx70E_x" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
-                                <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__miscellaneous-button" id="cluex">
+                                @auth
+                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__miscellaneous-button" id="cluex">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                                <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                     <div class="card">
@@ -539,9 +1308,44 @@
                                 <br>Sabyasachi Ganguly <a href="tel:9874287348"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874287348</a></p>
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                                @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__miscellaneous-button" id="techquiz">
                                     Register
                                 </button>
+                                @endauth
+                                @guest
+                            <!-- Button trigger modal -->
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                     aria-labelledby="modelTitleId" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endguest
                             </div>
                     </div>
                 </div> 
@@ -584,9 +1388,44 @@
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="https://drive.google.com/open?id=1l5IYNbJN8_BTZ_mfB5jnnn-6mcRM9pdI" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                            @auth
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="biotex">
                                 Register
                             </button>
+                            @endauth
+                            @guest
+                        <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                    data-target="#modelId">
+                                Register
+                            </button>
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                 aria-labelledby="modelTitleId" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                            <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                Close
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            @endguest
                         </div>
                     </div>
                     <div class="card">
@@ -599,9 +1438,44 @@
                             <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
                             <a href="https://drive.google.com/open?id=1jefoSrI6U4FLIY5wfrYPdb65RUA8--GJ" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                             <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
+                            @auth
                             <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__initiatives-button" id="healthybites">
                                 Register
                             </button>
+                            @endauth
+                            @guest
+                        <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                    data-target="#modelId">
+                                Register
+                            </button>
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
+                                 aria-labelledby="modelTitleId" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal"
+                                                    aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                            <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                                Close
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            @endguest
                         </div>
                     </div>
                 </div>
