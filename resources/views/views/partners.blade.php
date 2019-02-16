@@ -115,6 +115,10 @@
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/SPIE UEMK 20180719_215336.jpg')}}" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="150" height="150">
           </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/OSA UEMK 20180719_215320.jpg')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="150" height="150">
+          </div>
         </div>
         <hr>
         <!-- end of 1st partner section -->
@@ -226,6 +230,10 @@
           </div>-->
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/shutterbug.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/IRIS 1.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> 
