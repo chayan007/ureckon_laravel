@@ -219,21 +219,13 @@
           <h1 id="header" class="mt-4">Photography Partners</h1>
         </div>
         <!-- start of 1st row -->
-        <!-- <div class="row">
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>-->
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/shutterbug.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>
+        <div class="row">
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/IRIS 1.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/shutterbug.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
         </div> 
