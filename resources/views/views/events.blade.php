@@ -133,13 +133,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -235,13 +236,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -285,13 +287,14 @@
                                             <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                         </div>
                                         <div class="modal-body">
-                                            Body
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                 Close
                                             </button>
-                                            <button type="button" class="btn btn-primary">Save</button>
                                         </div>
                                     </div>
                                 </div>
@@ -336,13 +339,14 @@
                                         <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                     </div>
                                     <div class="modal-body">
-                                        Body
+                                        <a name="" id=""
+                                           class="btn btn-outline-warning btn-block"
+                                           href="/signin" role="button">Login</a>
                                     </div>
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                             Close
                                         </button>
-                                        <button type="button" class="btn btn-primary">Save</button>
                                     </div>
                                 </div>
                             </div>
@@ -376,9 +380,10 @@
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="coderanch">
                                     Register
                                 </button>
-                                @endauth
+                                 @endauth
                                  @guest
                             <!-- Button trigger modal -->
+                                <!-- Button trigger modal -->
                                 <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
                                         data-target="#modelId">
                                     Register
@@ -397,13 +402,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -447,13 +453,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -496,13 +503,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -510,7 +518,6 @@
                                 @endguest
                             </div>
                     </div>
-
                     <div class="card">
                             <img src="{{ asset('images/events/debugger.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
@@ -608,13 +615,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -657,13 +665,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -706,13 +715,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -762,13 +772,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -818,13 +829,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -888,13 +900,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -937,13 +950,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -986,13 +1000,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1046,13 +1061,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1095,13 +1111,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1155,13 +1172,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1204,13 +1222,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1246,12 +1265,12 @@
                                 @endauth
                                 @guest
                                 <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
-                                            data-target="#modelId">
-                                        Register
-                                    </button>
+                                <button type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                                        data-target="#modelId">
+                                    Register
+                                </button>
 
-                                    <!-- Modal -->
+                                <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
                                      aria-labelledby="modelTitleId" aria-hidden="true">
                                     <div class="modal-dialog" role="document">
@@ -1264,13 +1283,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1313,13 +1333,14 @@
                                                 <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                             </div>
                                             <div class="modal-body">
-                                                Body
+                                                <a name="" id=""
+                                                   class="btn btn-outline-warning btn-block"
+                                                   href="/signin" role="button">Login</a>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                     Close
                                                 </button>
-                                                <button type="button" class="btn btn-primary">Save</button>
                                             </div>
                                         </div>
                                     </div>
@@ -1392,13 +1413,14 @@
                                             <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                         </div>
                                         <div class="modal-body">
-                                            Body
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                 Close
                                             </button>
-                                            <button type="button" class="btn btn-primary">Save</button>
                                         </div>
                                     </div>
                                 </div>
@@ -1441,13 +1463,14 @@
                                             <h4 class="modal-title" id="modelTitleId">Not Signed In !</h4>
                                         </div>
                                         <div class="modal-body">
-                                            Body
+                                            <a name="" id=""
+                                               class="btn btn-outline-warning btn-block"
+                                               href="/signin" role="button">Login</a>
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">
                                                 Close
                                             </button>
-                                            <button type="button" class="btn btn-primary">Save</button>
                                         </div>
                                     </div>
                                 </div>
