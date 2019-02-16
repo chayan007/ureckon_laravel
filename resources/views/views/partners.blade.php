@@ -209,6 +209,10 @@
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/Logo.jpg" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/eoh.jpg" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+          </div>
         </div>
         <!-- end of 2nd row -->
         <hr>
