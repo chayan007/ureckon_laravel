@@ -43,12 +43,12 @@
                         <img src="{{ Storage::url(\Illuminate\Support\Facades\Auth::user()->img_url) }}" alt="profilepic" class="img__profile img-thumbnail img-fluid">
                         <div class="input-group mt-3">
                         <div class="custom-file">
-                            <form action="/user/uploadDP/{{ \Illuminate\Support\Facades\Auth::id() }}" method="POST" enctype="multipart/form-data">
+                            <form action="/user/uploadDP/{{ \Illuminate\Support\Facades\Auth::id() }}" method="POST" enctype="multipart/form-data" style="display: flex;">
                                 @csrf
                             <input type="file" class="custom-file-input" id="inputGroupFile04" name="image" aria-describedby="inputGroupFileAddon04">
-                            <label class="custom-file-label" style="color:#000" for="inputGroupFile04">Upload Profile Picture</label>
+                            <label class="custom-file-label" style="color:#000;width: 70%;" for="inputGroupFile04">Upload Profile Picture</label>
                                 <div class="input-group-append">
-                                    <button class="btn btn-primary" type="submit" id="inputGroupFileAddon04">Submit</button>
+                                    <button class="btn btn-primary" type="submit" id="inputGroupFileAddon04" style="margin-left: 20px;">Submit</button>
                                 </div>
                             </form>
                         </div>
