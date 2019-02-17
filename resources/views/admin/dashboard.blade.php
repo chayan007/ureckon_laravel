@@ -29,7 +29,7 @@
                             <td>{{ $user->college }}</td>
                             <td>{{ $user->username }}</td>
                             <td>{{ $user->phone }}</td>
-                            <td><img src="{{ Storage::url($user->img_url) }}" alt="user"></td>
+                            <td><img src="{{ Storage::url($user->img_url) }}" alt="user" height="40px" width="40px"></td>
                             <td>{{ $user->course }}</td>
                         </tr>
                     @endforeach
