@@ -26,7 +26,7 @@
                             <td> {{ $loop->iteration }}</td>
                             <td>{{ $user->name }}</td>
                             <td>{{ $user->email }}</td>
-                            <td>{{ $user->college }}</td>
+                            <td>{{ $user->institute }}</td>
                             <td>{{ $user->username }}</td>
                             <td>{{ $user->phone }}</td>
                             <td><img src="{{ Storage::url($user->img_url) }}" alt="user" height="40px" width="40px"></td>
