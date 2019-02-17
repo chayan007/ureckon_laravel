@@ -555,7 +555,27 @@
                             <a href="/events">Get Set Sell</a>
                         </div>
                     </div>
-
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Rudrangshu Dutta CSE3E-78(Ad making)/IMG-20190125-WA0020.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Rudrangshu Dutta</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">AD Mad</a>                           
+                        </div>
+                    </div>
+		
+		            <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Event Coordinator/Koyel Dey CSE3E-16(Ad making)/IMG-20180122-WA0004.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">
+                        <div class="teams-page__coordinator-cards-body">
+                            <h4 class="card-title teams-page__coordinator-cards-body-name">Koyel Dey</h4>
+                            <p class="card-text lead teams-page__coordinator-cards-body-title"></p>
+                        </div>
+                        <div class="teams-page__coordinator-cards-social">
+                            <a href="/events">AD Mad</a>                           
+                        </div>
+                    </div>
 
                     <div class="card card__teams">
                         <img src="{{ asset('images/teams/Event Coordinator/Shalini Guha CSE4A-03/PicsArt_07-24-04.46.06.jpg')}}" class="rounded__images card-img-top teams-page__coordinator-cards-image" alt="teams pictures">

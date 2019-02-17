@@ -62,7 +62,7 @@
                     <ul class="list-group">
                         <li class="list-group-item"><strong>Username: </strong>{{ \Illuminate\Support\Facades\Auth::user()->username }}</li>
                         <li class="list-group-item"><strong>Institute name: </strong>{{ \Illuminate\Support\Facades\Auth::user()->institute }}</li>
-                        <li class="list-group-item"><strong>Year: </strong>}{{ \Illuminate\Support\Facades\Auth::user()->year }}</li>
+                        <li class="list-group-item"><strong>Year: </strong>{{ \Illuminate\Support\Facades\Auth::user()->year }}</li>
                         <li class="list-group-item"><strong>Phone Number: </strong>{{ \Illuminate\Support\Facades\Auth::user()->phone }}</li>
                         <li class="list-group-item"><strong>Email: </strong>{{ \Illuminate\Support\Facades\Auth::user()->email }}</li>
                         <li class="list-group-item eventsselect"><strong>Events Registered: </strong>
