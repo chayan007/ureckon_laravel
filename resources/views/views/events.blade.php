@@ -263,9 +263,8 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
-                                    data-target="#modelId">
-                                Register
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" >
+                                Login to Register
                             </a>
 
                             <!-- Modal -->
@@ -315,9 +314,8 @@
                         @endauth
                         @guest
                     <!-- Button trigger modal -->
-                        <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
-                                data-target="#modelId">
-                            Register
+                        <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button">
+                            Login to Register
                         </a>
 
                         <!-- Modal -->
@@ -1354,8 +1352,8 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"                                data-target="#modelId">
-                                Register
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" >
+                                Login to Register
                             </a>
 
                             <!-- Modal -->
@@ -1403,9 +1401,8 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
-                                    data-target="#modelId">
-                                Register
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" >
+                                Login to Register
                             </a>
 
                             <!-- Modal -->
