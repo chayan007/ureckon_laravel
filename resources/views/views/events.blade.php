@@ -115,9 +115,9 @@
                                 @endauth
                                 @guest
                                 <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button">
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -166,9 +166,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -216,9 +216,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -266,10 +266,10 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                     data-target="#modelId">
                                 Register
-                            </button>
+                            </a>
 
                             <!-- Modal -->
                             <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -318,10 +318,10 @@
                         @endauth
                         @guest
                     <!-- Button trigger modal -->
-                        <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                        <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                 data-target="#modelId">
                             Register
-                        </button>
+                        </a>
 
                         <!-- Modal -->
                         <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -381,9 +381,9 @@
                                  @guest
                             <!-- Button trigger modal -->
                                 <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -431,9 +431,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -480,9 +480,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -530,9 +530,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -590,9 +590,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -639,9 +639,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -682,15 +682,15 @@
                                 <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 @auth
-                                <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" >
                                     Register
                                 </button>
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -744,9 +744,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -800,9 +800,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -870,9 +870,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -919,9 +919,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -968,9 +968,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1028,9 +1028,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1077,9 +1077,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1137,9 +1137,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1186,9 +1186,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1246,9 +1246,9 @@
                                 @endauth
                                 @guest
                                 <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1295,9 +1295,9 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs">
+                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
-                                </button>
+                                </a>
 
                                 <!-- Modal -->
                                 <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1374,10 +1374,10 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                     data-target="#modelId">
                                 Register
-                            </button>
+                            </a>
 
                             <!-- Modal -->
                             <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1424,10 +1424,10 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <button href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="nfs" data-toggle="modal"
+                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                     data-target="#modelId">
                                 Register
-                            </button>
+                            </a>
 
                             <!-- Modal -->
                             <div class="modal fade" id="modelId" tabindex="-1" role="dialog"
@@ -1494,7 +1494,7 @@
         
                 <form class="contact100-form" method="POST" id="registrationform" action="/user/registerEvent">
                     @csrf
-                    <input type="hidden" name="event">
+                    <input type="hidden" name="event" id="eventnameinput">
                     <div class="wrap-input100 validate-input">
                         <input id="name" class="input100" type="text" name="team" placeholder="Team Name" autocomplete="off" required>
                         <span class="focus-input100"></span>
@@ -1556,14 +1556,17 @@
                         <script>
                             function checkform()
                             {
-                                // var event = document.getElementsById('event_form');
+                                var event = document.getElementById('eventnameinput');
+                                alert(event);
+                                console.log(event);                                
                                 // event.value = 'Coding';
                                 // document.getElementById("registrationform").submit();
-                                var event = $('.contact100-form-title')[0].innerText;
-                                console.log(event);
-                                alert(event);
+                                // var event = $('.contact100-form-title')[0].innerText;
+                                // console.log(event);
+                                // alert(event);
+
                             }
-                            }
+                            
                         </script>
                     </div>
                 </form>
@@ -1664,6 +1667,45 @@
         gtag('config', 'UA-23581568-13');
     </script>
     <script src="{{ asset('js/Modules/header.js')}}"></script>
+
+    <script>
+        var members = ["Sayan", "Somsubhra", "Raja", "Baja", "Khaja"];
+        // typeahead:
+        var substringMatcher = function (strs) {
+        return function findMatches(q, cb) {
+            var matches, substringRegex;
+
+            // an array that will be populated with substring matches
+            matches = [];
+
+            // regex used to determine if a string contains the substring `q`
+            substrRegex = new RegExp(q, 'i');
+
+            // iterate through the pool of strings and for any string that
+            // contains the substring `q`, add it to the `matches` array
+            $.each(strs, function (i, str) {
+            if (substrRegex.test(str)) {
+                matches.push(str);
+            }
+            });
+
+            cb(matches);
+        };
+        };
+
+        $('#the-basics .typeahead').typeahead({
+        hint: false,
+        highlight: true,
+        minLength: 1
+        },
+        {
+            name: 'states',
+            source: substringMatcher(members)
+        }
+        );
+    
+    
+    </script>
     
 </body>
 </html>
