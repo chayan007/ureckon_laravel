@@ -14,6 +14,7 @@
                 <li class="active">
                     <a href="/admin/users"> <i class="menu-icon fa fa-dashboard"></i>User </a>
                     <a href="/admin/participants"> <i class="menu-icon fa fa-dashboard"></i>Participants </a>
+                    <a href="/admin/logout"> <i class="menu-icon fa fa-dashboard"></i>Logout </a>
                 </li>
             </ul>
         </div><!-- /.navbar-collapse -->
