@@ -93,7 +93,7 @@
           </div>
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/acm_chapter_uemkol_1.png')}}" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="300" height="300">
+              onmouseout="nogray(this)" alt="" width="300" height="300" style="padding-top: 80px;">
           </div>
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/ieee_uemk_sb.png')}}" onmouseover="gray(this)"

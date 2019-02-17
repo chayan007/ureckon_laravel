@@ -33,7 +33,7 @@
 
         <div class="home__logo-link">
             <div class="home__login">
-                <a href="/signin"><i class="fas fa-user"></i>Login</a>
+                <a href="/signin" style="text-decoration: none; color: #fff;"><i class="fas fa-user"></i>Login</a>
             </div> 
             <div class="home-btn">
                 <i class="fas fa-flag home-icon">Notifications</i>
@@ -130,7 +130,7 @@
                   <a class="footer__home-partners" href="/partners">PARTNERS</a>
                   <a class="footer__home-team" href="/team">TEAM</a>
                   <a class="footer__home-dev" href="/web">DEV</a>
-                  <a class="footer__home-UOSC" href="/uosc">UOSC</a>
+                  <a class="footer__home-UOSC" href="http://uosc.ureckon.org/">UOSC</a>
                   <a class="footer__home-others" href="/gallery">GALLERY</a>
               </div>
 

@@ -48,7 +48,7 @@
                             <input type="file" class="custom-file-input" id="inputGroupFile04" name="image" aria-describedby="inputGroupFileAddon04">
                             <label class="custom-file-label" style="color:#000;width: 70%;" for="inputGroupFile04">Upload Profile Picture</label>
                                 <div class="input-group-append">
-                                    <button class="btn btn-primary" type="submit" id="inputGroupFileAddon04" style="margin-left: 20px;">Submit</button>
+                                    <button class="btn btn-info" type="submit" id="inputGroupFileAddon04" style="margin-left: 20px;">Submit</button>
                                 </div>
                             </form>
                         </div>
