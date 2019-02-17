@@ -114,7 +114,7 @@
                                 </button>
                                 @endauth
                                 @guest
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button">
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button">
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -164,7 +164,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -213,7 +213,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
 
@@ -263,7 +263,7 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                     data-target="#modelId">
                                 Register
                             </a>
@@ -315,7 +315,7 @@
                         @endauth
                         @guest
                     <!-- Button trigger modal -->
-                        <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
+                        <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                 data-target="#modelId">
                             Register
                         </a>
@@ -378,7 +378,7 @@
                                  @guest
                             <!-- Button trigger modal -->
                                 <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -427,7 +427,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -475,7 +475,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -524,7 +524,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -583,7 +583,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
 
@@ -632,7 +632,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -680,7 +680,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -735,7 +735,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -790,7 +790,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -859,7 +859,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -907,7 +907,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -955,7 +955,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1014,7 +1014,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1062,7 +1062,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1121,7 +1121,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1169,7 +1169,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1228,7 +1228,7 @@
                                 @endauth
                                 @guest
                                 <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1276,7 +1276,7 @@
                                 @endauth
                                 @guest
                             <!-- Button trigger modal -->
-                                <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
+                                <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"  >
                                     Login to Register
                                 </a>
                                 <!-- Modal -->
@@ -1354,7 +1354,7 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"                                data-target="#modelId">
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"                                data-target="#modelId">
                                 Register
                             </a>
 
@@ -1403,7 +1403,7 @@
                             @endauth
                             @guest
                         <!-- Button trigger modal -->
-                            <a href="/signin" type="button" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
+                            <a href="/signin" class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button"   data-toggle="modal"
                                     data-target="#modelId">
                                 Register
                             </a>
