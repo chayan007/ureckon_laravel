@@ -9,6 +9,6 @@ class Participants extends Model
 {
     use Notifiable;
     protected $fillable = [
-        'team', 'event', 'user', 'username1', 'username2', 'username3', 'username4', 'username5'
+        'team', 'event', 'user', 'username1', 'username2', 'username3', 'username4', 'username5',
     ];
 }

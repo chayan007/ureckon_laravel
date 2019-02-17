@@ -11,12 +11,12 @@ class AdminController extends Controller
     public function getUsers()
     {
         $users = User::all()->simplePaginate(30);
-        return view('admin.users', ['users'=>$users]);
+        return view('admin.dashboard', ['users'=>$users]);
     }
 
     public function getParticipants()
     {
         $participants = Participants::all()->simplePaginate(30);
-        return view('admin.participants', ['participants'=>$participants]);
+        return view('admin.dash', ['participants'=>$participants]);
     }
 }
