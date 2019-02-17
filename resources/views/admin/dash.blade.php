@@ -37,5 +37,6 @@
                 </table>
             </div>
         </div>
+        {{ $participants->links() }}
     </div>
 @endsection
