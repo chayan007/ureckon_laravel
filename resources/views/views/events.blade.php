@@ -784,7 +784,7 @@
                                 <a href="https://drive.google.com/open?id=1NJWg36t8DplyARG8PuPArVyIh02wtCTR" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 @auth
-                                <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubg">
+                                <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__gaming-button" id="pubgem">
                                     Register
                                 </button>
                                 @endauth
@@ -1531,7 +1531,7 @@
                     <button id="delmember" class="btn btn-danger btn-sm" type="button">-</button>
         
                     <div class="container-contact100-form-btn">
-                        <input type="submit" class="btn-block" value="Submit" onclick="checkform()">
+                        <input type="submit" class="btn btn-info btn-sm btn-block font-weight-bold" value="Submit" onclick="checkform()">
                         <script>
                             function checkform()
                             {
