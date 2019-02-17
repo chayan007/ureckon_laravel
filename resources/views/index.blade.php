@@ -33,10 +33,11 @@
 
         <div class="home__logo-link">
             <div class="home__login">
-                <a href="/signin"><i class="fas fa-user"></i></a>
+                <a href="/signin"><i class="fas fa-user"></i>Login</a>
             </div> 
             <div class="home-btn">
-                <i class="fas fa-flag home-icon"></i>
+                <i class="fas fa-flag home-icon">Notifications</i>
+           
             </div>  
         </div>
          

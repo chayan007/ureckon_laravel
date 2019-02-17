@@ -53,67 +53,71 @@
         <!-- start of 1st row -->
         <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/devc.png" onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="200" height="200">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/devc.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)" alt="" width="200" height="200">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/gdg.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/gdg.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/wtm.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/wtm.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+              alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/girlsScript.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/girlsScript.jpg')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/intel.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/intel.png')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/event_partners/krs.jpeg" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/krs.jpeg')}}" onmouseover="gray(this)" onmouseout="nogray(this)"
+            alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/tcf logo.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/skubotics.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" aalt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/codechef.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/csi-logo.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/acm_chapter_uemkol_1.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/ieee_uemk_sb.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/ecell_logo_new_png.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/IIC_LOGO.png')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/photo.jpg')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="https://source.unsplash.com/random" onmouseover="gray(this)"
-              onmouseout="nogray(this)" alt="" width="150" height="150">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/SPIE UEMK 20180719_215336.jpg')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+          </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/OSA UEMK 20180719_215320.jpg')}}" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
         </div>
         <hr>
@@ -205,6 +209,10 @@
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/Logo.jpg" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
+          <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/media_partners/eoh.jpg" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+          </div>
         </div>
         <!-- end of 2nd row -->
         <hr>
@@ -215,15 +223,11 @@
           <h1 id="header" class="mt-4">Photography Partners</h1>
         </div>
         <!-- start of 1st row -->
-        <!-- <div class="row">
+        <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/IRIS 1.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
-          <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
-              alt="" width="300" height="300">
-          </div>-->
           <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/Photography Partner/shutterbug.jpg" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
@@ -241,11 +245,11 @@
         <!-- start of 1st row -->
         <div class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Food Partner/chufang.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Food Partner/tea_junction.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
           <!-- <div class="col-md-4">
