@@ -10,13 +10,13 @@ class AdminController extends Controller
 {
     public function getUsers()
     {
-        $users = User::all()->simplePaginate(30);
-        return view('admin.users', ['users'=>$users]);
+        $users = User::paginate(30);
+        return view('admin.dashboard', ['users'=>$users]);
     }
 
     public function getParticipants()
     {
-        $participants = Participants::all()->simplePaginate(30);
-        return view('admin.participants', ['participants'=>$participants]);
+        $participants = Participants::paginate(30);
+        return view('admin.dash', ['participants'=>$participants]);
     }
 }

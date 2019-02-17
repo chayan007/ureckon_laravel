@@ -71,4 +71,10 @@ class UserController extends Controller
             return back();
         }
     }
+
+    public function events()
+    {
+        $usernames = User::all()->get('username');
+        return view('views.events', ['usernames' => $usernames]);
+    }
 }
