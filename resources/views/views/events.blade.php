@@ -1699,10 +1699,9 @@
                             function checkform()
                             {
                                 var event = document.getElementById('eventnameinput');
-                                alert(event);
                                 console.log(event);                                
                                 // event.value = 'Coding';
-                                // document.getElementById("registrationform").submit();
+                                document.getElementById("registrationform").submit();
                                 // var event = $('.contact100-form-title')[0].innerText;
                                 // console.log(event);
                                 // alert(event);
