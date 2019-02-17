@@ -49,7 +49,7 @@ Route::group(['prefix' => 'user'], function () {
 
 Route::group(['prefix' => 'admin'], function () {
     Route::get('/users', 'AdminController@getUsers');
-    Route::get('/patcipants', 'AdminController@getParticipants');
+    Route::get('/participants', 'AdminController@getParticipants');
     Route::get('/home', 'AdminController@getUsers');
   Route::get('/login', 'AdminAuth\LoginController@showLoginForm')->name('login');
   Route::post('/login', 'AdminAuth\LoginController@login');
