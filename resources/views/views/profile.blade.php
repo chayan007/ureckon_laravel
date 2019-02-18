@@ -66,7 +66,7 @@
                         <li class="list-group-item"><strong>Phone Number: </strong>{{ \Illuminate\Support\Facades\Auth::user()->phone }}</li>
                         <li class="list-group-item"><strong>Email: </strong>{{ \Illuminate\Support\Facades\Auth::user()->email }}</li>
                         <li class="list-group-item eventsselect"><strong>Events Registered: </strong>
-                            <select id="eventSelector" class="custom-select custom-select-sm mb-3" onchange="getMembers(this)">
+                            <select id="eventSelector" class="custom-select custom-select-sm mb-3">
                                 <option value="ps">Select Team</option>
                                 @foreach($participants as $participant)
                                     <option value="ps">{{ $participant->team }}</option>
