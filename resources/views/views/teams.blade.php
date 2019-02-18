@@ -1039,7 +1039,7 @@
            </div>
         </div>
         <div class="footer__teams-copyright">© 2019 Copyright:
-          <a href="https://ureckon.org">Ureckon.org</a>
+          <a href="http://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
 
