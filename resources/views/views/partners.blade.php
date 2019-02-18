@@ -120,6 +120,11 @@
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
         </div>
+        <div class="col-md-4">
+            <img class="mt-4 img-fluid partner_logo" src="https://roboticscorner.in/image/catalog/RoboticsCorner_logo.JPG" onmouseover="gray(this)"
+              onmouseout="nogray(this)" alt="" width="300" height="300">
+          </div>
+        </div>
         <hr>
         <!-- end of 1st partner section -->
         
@@ -155,12 +160,12 @@
           <h1 id="header" class="mt-4">Gaming Partners</h1>
         </div>
         <!-- start of 1st row -->
-        <!-- <div style="text-align: center" class="row">
+        <div style="text-align: center" class="row">
           <div class="col-md-4">
-            <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
+            <img class="mt-4 img-fluid partner_logo" src="../images/partners/Gaming Partner/asus.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="../images/partners/isro.png" onmouseover="gray(this)" onmouseout="nogray(this)"
               alt="" width="300" height="300">
           </div>
