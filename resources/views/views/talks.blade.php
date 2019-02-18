@@ -63,6 +63,14 @@
 			<center>Aaon baat karein!</center>
                 </h3>
                 <div class="talks-page__content-cards">
+                <div class="card">
+                            <img src="https://media.licdn.com/dms/image/C4E03AQFnozG_u3WkeQ/profile-displayphoto-shrink_800_800/0?e=1556150400&v=beta&t=HW9PKVuuSat6LsTJ3adpKWyxFMin58uJlZLsZY-3JVc" class="card-img-top talks-page__content-cards-image" alt="talks pictures">
+                            <div class="card-body">
+                                <h4 class="card-title">Dr. Arpan Pal<div  class="float-right talks-page__content-badge badge badge-secondary">Talks</div></h4>
+                                <p class="card-text lead">Principal Scientist and Head of Embedded Systems and Robotics at TCS Research and Innovation</p>
+           
+                            </div>
+                    </div>
                     <div class="card">
                             <img src="{{ asset('images/Talks/Sabyasachi Mukhopadhyay.jpeg')}}" class="card-img-top talks-page__content-cards-image" alt="talks pictures">
                             <div class="card-body">
@@ -70,22 +78,7 @@
                                 <p class="card-text lead">Lead Facebook Developer Circle Kolkata & REDx Community Kolkata|TEDx Speaker| Top 50 Innovator| HOT 100 Technology Awardee</p>
                             </div>
                     </div>
-                    <div class="card">
-                            <img src="https://source.unsplash.com/random" class="card-img-top talks-page__content-cards-image" alt="talks pictures">
-                            <div class="card-body">
-                                <h4 class="card-title">Kushal Bannerjee<div  class="float-right talks-page__content-badge badge badge-secondary">Talks</div></h4>
-                                <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content. </p>
-           
-                            </div>
-                    </div>
-                    <div class="card">
-                            <img src="https://source.unsplash.com/random" class="card-img-top talks-page__content-cards-image" alt="talks pictures">
-                            <div class="card-body">
-                                <h4 class="card-title">Talk Three<div  class="float-right talks-page__content-badge badge badge-secondary">Talks</div></h4>
-                                <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content. </p>
-                            </div>
-                    </div>
-                </div> 
+                    
                 <hr class="line-break">
             </section>
         </div>
