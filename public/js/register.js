@@ -11,7 +11,7 @@ var urlPath = window.location.pathname.toString();
 //     isSignedUp = true;
 // }
 
-var loggedInUser = "username"; // FETCH LOGGED IN USERNAME FROM DATABASE
+//var loggedInUser = "username"; // FETCH LOGGED IN USERNAME FROM DATABASE
 
 // ********* BACKEND DEVELOPER CONFIGURATION ENDS: *********
 
