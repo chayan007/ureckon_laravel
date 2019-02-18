@@ -152,7 +152,7 @@
                         <div class="teams-page__core-member-cards-body">
                             <h4 class="card-title teams-page__core-member-cards-body-name">Subhadeep Kundu</h4>
                             <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
-                        </div>--}}
+                        </div>
                         <div class="teams-page__core-member-cards-social">
                             <a href="#">subhadeep@ureckon.org</a>
 				            <a href="#"><i class="fa fa-phone">+91 7278707250</i></a>
