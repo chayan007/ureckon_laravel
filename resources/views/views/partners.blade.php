@@ -119,12 +119,12 @@
             <img class="mt-4 img-fluid partner_logo" src="{{ asset('images/partners/event_partners/OSA UEMK 20180719_215320.jpg')}}" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
-        </div>
-        <div class="col-md-4">
+          <div class="col-md-4">
             <img class="mt-4 img-fluid partner_logo" src="https://roboticscorner.in/image/catalog/RoboticsCorner_logo.JPG" onmouseover="gray(this)"
               onmouseout="nogray(this)" alt="" width="300" height="300">
           </div>
         </div>
+        
         <hr>
         <!-- end of 1st partner section -->
         
