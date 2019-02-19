@@ -24,7 +24,7 @@ Route::view('/partners', 'views.partners');
 Route::view('/talks', 'views.talks');
 Route::view('/web', 'views.web');
 Route::view('/team', 'views.teams');
-Route::view('/events', 'UserController@events');
+Route::get('/events', 'UserController@events');
 Route::view('/about', 'views.aboutus');
 Route::view('/workshops', 'views.workshops');
 Route::post('/registerEvent', 'RegistrationController@register');
@@ -32,7 +32,7 @@ Route::group(['prefix' => 'user'], function () {
     Route::get('/profile', 'UserController@profile');
     Route::post('/uploadDP/{id}', 'UserController@uploadDP');
     Route::post('/registerEvent', 'RegistrationController@register');
-    Route::view('/events', 'UserController@events');
+    Route::get('/events', 'UserController@events');
     Route::get('/dashboard', 'UserController@profile');
     Route::get('/login', 'UserAuth\LoginController@showLoginForm')->name('login');
   Route::post('/login', 'UserController@login');

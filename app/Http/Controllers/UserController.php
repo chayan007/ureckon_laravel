@@ -11,13 +11,6 @@ use Mockery\Exception;
 
 class UserController extends Controller
 {
-
-    public function events()
-    {
-        $usernames = User::all()->get('username');
-        return view('views.events', ['usernames' => $usernames]);
-    }
-
     public function profile()
     {
         if(Auth::check())
@@ -77,5 +70,11 @@ class UserController extends Controller
         {
             return back();
         }
+    }
+
+    public function events()
+    {
+        $usernames = User::all()->get('username');
+        return view('views.events', ['usernames' => $usernames]);
     }
 }
