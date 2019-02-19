@@ -57,27 +57,27 @@
                         <i class="fas fa-code"></i>
                         <span class="tooltiptext">Coding</span>
                     </a>
-                
+
                 <a data-scroll href="#events-page__gaming">
                     <i class="fas fa-gamepad"></i>
                     <span class="tooltiptext">Gaming</span>
                 </a>
-                
+
                 <a data-scroll href="#events-page__mechanics">
                     <i class="fas fa-drafting-compass"></i>
                     <span class="tooltiptext">Mechanics</span>
                 </a>
-                
+
                 <a data-scroll href="#events-page__flagship">
                     <i class="fab fa-free-code-camp"></i>
                     <span class="tooltiptext">Flagship</span>
                 </a>
-                
+
                 <a data-scroll href="#events-page__business">
                     <i class="fas fa-briefcase"></i>
                     <span class="tooltiptext">Business</span>
                 </a>
-                
+
                 <a data-scroll href="#events-page__miscellaneous">
                     <i class="fas fa-microchip"></i>
                     <span class="tooltiptext">Brain Games</span>
@@ -87,7 +87,7 @@
                     <i class="fa fa-bolt"></i>
                     <span class="tooltiptext">Initiatives</span>
                 </a>
-                
+
         </div>
     </div>
 
@@ -348,12 +348,12 @@
                         @endguest
                     </div>
                 </div>
-                
-                </div> 
+
+                </div>
                 <hr class="line-break">
             </section>
-            
-            
+
+
 
             <section id="events-page__coding" class="events-page__coding">
                 <h3 class="events-page__coding-title display-4">
@@ -413,7 +413,7 @@
                             <img src="{{ asset('images/events/code_golf1.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Code Golf<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
-                                <p class="card-text lead">How Low Can You Go? 
+                                <p class="card-text lead">How Low Can You Go?
                                     Code Golf is more than just logic; the shorter the code, the bigger the prizes.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Abhishek Madhu <a href="tel:7679396615"><i class="fa fa-phone" aria-hidden="true"></i> +91 7679396615</a>
@@ -462,7 +462,7 @@
                             <img src="{{ asset('images/events/web_designing.png')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Spyder<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
-                                <p class="card-text lead">Weave Your Web. 
+                                <p class="card-text lead">Weave Your Web.
                                     Calling all front-end designers; put forth your best designs and build the internet you would like to see.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Shalini Guha <a href="tel:9874646078"><i class="fa fa-phone" aria-hidden="true"></i> +91 9874646078</a></p>
@@ -510,7 +510,7 @@
                             <img src="{{ asset('images/events/debugger.jpg')}}" class="card-img-top events-page__coding-cards-image" alt="events pictures">
                             <div class="card-body">
                                 <h4 class="card-title">Debugger<div  class="float-right events-page__coding-badge badge badge-secondary">Coding</div></h4>
-                                <p class="card-text lead">One code to kill them all 
+                                <p class="card-text lead">One code to kill them all
                                     Put your skills to the test by finding and fixing bugs in code in a battle against time.</p>
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Sagnik Bhattacharya <a href="tel:9804044741"><i class="fa fa-phone" aria-hidden="true"></i> +91 9804044741</a>
@@ -554,11 +554,11 @@
                                 @endguest
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
-           
+
 
             <section id="events-page__gaming" class="events-page__gaming">
                 <h3 class="events-page__gaming-title display-4">
@@ -831,11 +831,11 @@
                                 <p>Antara Ghosh <a href="tel:8697577604"><i class="fa fa-phone" aria-hidden="true"></i> +91 8697577604</a>
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
-            
+
 
             <section id="events-page__mechanics" class="events-page__mechanics">
                 <h3 class="events-page__mechanics-title display-4">
@@ -986,11 +986,11 @@
                                 @endguest
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
-           
+
 
             <section id="events-page__flagship" class="events-page__flagship">
                 <h3 class="events-page__flagship-title display-4">
@@ -1093,11 +1093,11 @@
                                 @endguest
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
-            
+
 
             <section id="events-page__business" class="events-page__business">
                 <h3 class="events-page__business-title display-4">
@@ -1200,11 +1200,11 @@
                                 @endguest
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
-            
+
 
             <section id="events-page__miscellaneous" class="events-page__miscellaneous">
                 <h3 class="events-page__miscellaneous-title display-4">
@@ -1307,7 +1307,7 @@
                                 @endguest
                             </div>
                     </div>
-                </div> 
+                </div>
                 <hr class="line-break">
             </section>
 
@@ -1321,10 +1321,10 @@
                         <div class="card-body">
                             <h4 class="card-title">Ard-U-Know<div class="float-right events-page__initiatives-badge badge badge-secondary">Initiatives</div>
                             </h4>
-                            <p class="card-text lead">Assemble makers and innovators to the most awaited platform to showcase your skills. 
+                            <p class="card-text lead">Assemble makers and innovators to the most awaited platform to showcase your skills.
 
-                                Gear up and pull up your socks to showcase your skills as the platform gets lit with celebrations. 
-                                
+                                Gear up and pull up your socks to showcase your skills as the platform gets lit with celebrations.
+
                                 SKUBOTICS in association with URECKON brings to the city its flagship event ARD-U-KNOW?, a hardware hackathon where you will be given a problem statement and an Arduino based hardware kit and you'll have to make the solution to the problem statement come to life.</p>
                             <h5 class="mt-3">Event Co-ordinators</h5>
                             <p>Tridib Halder <a href="tel:7908481880"><i class="fa fa-phone" aria-hidden="true"></i> +91 7908481880</a>
@@ -1466,11 +1466,11 @@
                 <button class="btn-hide-contact100">
                     <i class="far fa-times-circle"></i>
                 </button>
-        
+
                 <div class="contact100-form-title" style="background: #eeeeee">
                     <span>Register</span>
                 </div>
-        
+
                 <form class="contact100-form" method="POST" id="registrationform" action="/user/registerEvent">
                     @csrf
                     <input type="hidden" name="event" id="eventnameinput">
@@ -1481,7 +1481,7 @@
                             <span class="fa fa-users"></span>
                         </label>
                     </div>
-        
+
                     <div id="member1" class="members">
                         <div class="wrap-input100 validate-input" id="the-basics">
                             <input id="email" class="input100 typeahead" type="text" name="user" value="{{ Auth::user()->username }}" readonly="true" required="true">
@@ -1489,7 +1489,7 @@
                             <label class="label-input100" for="email">
                                 <span class="fa fa-user"></span>
                             </label>
-                        </div>                
+                        </div>
                     </div>
                     <div id="member2" class="members" style="display: none">
                         <div class="wrap-input100 validate-input" id="the-basics">
@@ -1529,14 +1529,14 @@
                     </div>
                     <button id="addmember" class="btn btn-success btn-sm" type="button">+</button>
                     <button id="delmember" class="btn btn-danger btn-sm" type="button">-</button>
-        
+
                     <div class="container-contact100-form-btn">
                         <input type="submit" class="btn btn-info btn-sm btn-block font-weight-bold" value="Submit" onclick="checkform()">
                         <script>
                             function checkform()
                             {
                                 var event = document.getElementById('eventnameinput');
-                                console.log(event);                                
+                                console.log(event);
                                 // event.value = 'Coding';
                                 document.getElementById("registrationform").submit();
                                 // var event = $('.contact100-form-title')[0].innerText;
@@ -1544,7 +1544,7 @@
                                 // alert(event);
 
                             }
-                            
+
                         </script>
                     </div>
                 </form>
@@ -1617,9 +1617,9 @@
           <a href="https://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
-    
-           
-    
+
+
+
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
@@ -1627,14 +1627,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.js" charset="utf-8"></script>
     <script src="https://unpkg.com/tilt.js@1.2.1/dest/tilt.jquery.min.js"></script>
     <script src="{{ asset('js/Modules/smooth-scroll.js')}}"></script>
-    
+
     <script src="{{ asset('vendor/select2/select2.min.js')}}"></script>
     <script src="{{ asset('vendor/daterangepicker/moment.min.js')}}"></script>
     <script src="{{ asset('vendor/daterangepicker/daterangepicker.js')}}"></script>
     <script src="{{ asset('vendor/countdowntime/countdowntime.js')}}"></script>
     <script src="{{ asset('vendor/typeahead/typeahead.bundle.js')}}"></script>
     <script src="{{ asset('js/events.js')}}"></script>
-    
+
     <script src="{{ asset('js/register.js')}}"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
@@ -1647,7 +1647,7 @@
     <script src="{{ asset('js/Modules/header.js')}}"></script>
 
     <script>
-        var members = ["Sayan", "Somsubhra", "Raja", "Baja", "Khaja"];
+        var members = {{ json_encode($usernames) }}
         // typeahead:
         var substringMatcher = function (strs) {
         return function findMatches(q, cb) {
@@ -1681,9 +1681,9 @@
             source: substringMatcher(members)
         }
         );
-    
-    
+
+
     </script>
-    
+
 </body>
 </html>
