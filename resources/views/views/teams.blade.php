@@ -147,19 +147,19 @@
                         </div>
                     </div>
 
-                    {{--<div class="card card__teams">--}}
-                        {{--<img src="{{ asset('images/teams/Core Team/Subhadeep Kundu/FB_IMG_1548432227253.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">--}}
-                        {{--<div class="teams-page__core-member-cards-body">--}}
-                            {{--<h4 class="card-title teams-page__core-member-cards-body-name">Subhadeep Kundu</h4>--}}
-                            {{--<p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>--}}
-                        {{--</div>--}}
-                        {{--<div class="teams-page__core-member-cards-social">--}}
-                            {{--<a href="#">subhadeep@ureckon.org</a>--}}
-				            {{--<a href="#"><i class="fa fa-phone">+91 7278707250</i></a>--}}
-                            {{--<br><a href="https://www.linkedin.com/in/subhadeep-kundu-780335148/"><i class="fab fa-linkedin-in"></i></a>--}}
-				            {{--<a href="https://www.facebook.com/subho.kundu.37"><i class="fab fa-facebook-f"></i></a>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
+                    <div class="card card__teams">
+                        <img src="{{ asset('images/teams/Core Team/Subhadeep Kundu/FB_IMG_1548432227253.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
+                        <div class="teams-page__core-member-cards-body">
+                            <h4 class="card-title teams-page__core-member-cards-body-name">Subhadeep Kundu</h4>
+                            <p class="card-text lead teams-page__core-member-cards-body-title">Core Member</p>
+                        </div>
+                        <div class="teams-page__core-member-cards-social">
+                            <a href="#">subhadeep@ureckon.org</a>
+				            <a href="#"><i class="fa fa-phone">+91 7278707250</i></a>
+                            <br><a href="https://www.linkedin.com/in/subhadeep-kundu-780335148/"><i class="fab fa-linkedin-in"></i></a>
+				            <a href="https://www.facebook.com/subho.kundu.37"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
 
 		<div class="card card__teams">
                         <img src="{{ asset('images/teams/Core Team/Pooja Surana/Pooja Surana.jpg')}}" class=" rounded__images card-img-top teams-page__core-member-cards-image" alt="teams pictures">
@@ -1039,7 +1039,7 @@
            </div>
         </div>
         <div class="footer__teams-copyright">© 2019 Copyright:
-          <a href="https://ureckon.org">Ureckon.org</a>
+          <a href="http://ureckon.org">Ureckon.org</a>
         </div>
       </footer>
 
