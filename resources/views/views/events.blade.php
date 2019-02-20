@@ -1051,7 +1051,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Sourav Nandy <a href="tel:8336986162"><i class="fa fa-phone" aria-hidden="true"></i> +91 8336986162</a>
                                 <br>Hrithik Naha <a href="tel:7044098818"><i class="fa fa-phone" aria-hidden="true"></i> +91 7044098818</a></p>
-                                <a href="#" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/file/d/1b84q_Gi0PxGoScBipAKkVO97Ked5Zhzv/view?usp=drivesdk" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__flagship-button" id="urecathon">
