@@ -1110,7 +1110,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Satwik Das <a href="tel:8910230982"><i class="fa fa-phone" aria-hidden="true"></i> +91 8910230982</a>
                                 <br>Deboleena Das <a href="tel:9123355282"><i class="fa fa-phone" aria-hidden="true"></i> +91 9123355282</a></p>
-                                <a href="https://drive.google.com/open?id=1-O9sCKKZXy7LPmWekLON_RSyTEQCbTed" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/file/d/11K6Z61LYh-Cr2xuMiDx8CbwmU1tU3FwR/view" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__business-button" id="getsetsell">
