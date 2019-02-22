@@ -10,3 +10,7 @@ Route::get('/home', function () {
     return view('admin.home');
 })->name('home');
 
+
+    Route::get('/users', 'AdminController@getUsers');
+    Route::get('/participants', 'AdminController@getParticipants');
+    Route::get('/home', 'AdminController@getUsers');
