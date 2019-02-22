@@ -366,7 +366,7 @@
                                 <h5 class="mt-3">Event Co-ordinators</h5>
                                 <p>Shobhan Das <a href="tel:9836856937"><i class="fa fa-phone" aria-hidden="true"></i> +91 9836856937</a>
                                 <br>Sagnik Sengupta <a href="tel:9733197523"><i class="fa fa-phone" aria-hidden="true"></i> +91 9733197523</a></p>
-                                <a href="https://drive.google.com/open?id=171ty7P31JiPCimlFHVP2heDaK6qoQf_D" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
+                                <a href="https://drive.google.com/open?id=1XAuS30BOPGNF96Rv43XfCfOxYNa-F1h8" class="btn btn-light hvr-wobble-vertical"><i class="fas fa-arrow-down"></i> Download</a>
                                 <!-- <a href="#" class="btn btn-primary float-right hvr-buzz">Register</a> -->
                                 @auth
                                 <button class="btn btn-primary float-right hvr-buzz btn-show-contact100 events-page__coding-button" id="coderanch">
